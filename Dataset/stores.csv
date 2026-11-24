@@ -1,0 +1,31 @@
+store_id,store_name,region,city,store_type,opening_date,monthly_rent,area_sqft
+S001,Delhi Central,North,Delhi,Dine-in,2021-05-05,184963,1595
+S002,Gurugram Mall,North,Gurugram,Food Court,2022-09-07,132117,1952
+S003,Noida High Street,North,Noida,Cloud Kitchen,2021-05-01,173092,802
+S004,Jaipur Sector,North,Jaipur,Dine-in,2021-05-12,146604,2157
+S005,Chandigarh Market,North,Chandigarh,Food Court,2023-10-28,182976,1705
+S006,Lucknow Express,North,Lucknow,Cloud Kitchen,2024-01-06,144550,674
+S007,Mumbai Central,West,Mumbai,Dine-in,2024-03-21,134809,1325
+S008,Pune Mall,West,Pune,Food Court,2022-06-04,93295,2071
+S009,Ahmedabad High Street,West,Ahmedabad,Cloud Kitchen,2023-12-31,164799,1154
+S010,Surat Sector,West,Surat,Dine-in,2024-02-26,149541,1225
+S011,Indore Market,West,Indore,Food Court,2022-09-23,100222,611
+S012,Nagpur Express,West,Nagpur,Cloud Kitchen,2023-02-16,202622,561
+S013,Bengaluru Central,South,Bengaluru,Dine-in,2024-04-16,193282,934
+S014,Chennai Mall,South,Chennai,Food Court,2023-06-04,90610,1776
+S015,Hyderabad High Street,South,Hyderabad,Cloud Kitchen,2023-09-08,119951,568
+S016,Kochi Sector,South,Kochi,Dine-in,2024-09-20,134081,2012
+S017,Coimbatore Market,South,Coimbatore,Food Court,2023-08-08,185649,1779
+S018,Mysuru Express,South,Mysuru,Cloud Kitchen,2021-09-30,121405,1266
+S019,Kolkata Central,East,Kolkata,Dine-in,2022-11-28,71789,1406
+S020,Bhubaneswar Mall,East,Bhubaneswar,Food Court,2021-08-05,180223,1645
+S021,Patna High Street,East,Patna,Cloud Kitchen,2024-07-15,180438,1091
+S022,Ranchi Sector,East,Ranchi,Dine-in,2024-09-16,128681,1020
+S023,Guwahati Market,East,Guwahati,Food Court,2024-06-21,122421,583
+S024,Siliguri Express,East,Siliguri,Cloud Kitchen,2022-10-20,188330,781
+S025,Bhopal Central,Central,Bhopal,Dine-in,2022-10-11,85137,1651
+S026,Raipur Mall,Central,Raipur,Food Court,2022-10-28,116180,847
+S027,Jabalpur High Street,Central,Jabalpur,Cloud Kitchen,2023-03-02,168821,2095
+S028,Kanpur Sector,Central,Kanpur,Dine-in,2022-09-05,89906,1907
+S029,Agra Market,Central,Agra,Food Court,2023-06-01,173541,620
+S030,Udaipur Express,Central,Udaipur,Cloud Kitchen,2022-03-14,184015,1906

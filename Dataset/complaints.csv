@@ -1,0 +1,2001 @@
+complaint_id,order_id,store_id,complaint_date,complaint_category,complaint_channel,severity,resolution_status,refund_amount
+CP000001,O0001124,S026,07-10-2025,Food Quality,Dine-in,Medium,Resolved,150
+CP000002,O0025553,S014,01-02-2025,Food Quality,Swiggy,Medium,Resolved,0
+CP000003,O0025940,S005,09-02-2025,Food Quality,Swiggy,Low,Resolved,50
+CP000004,O0015941,S020,30-07-2025,Late Delivery,Dine-in,Low,Resolved,0
+CP000005,O0026422,S010,28-11-2025,Billing Issue,Dine-in,High,Pending,200
+CP000006,O0034338,S022,04-07-2025,Wrong Order,Swiggy,Low,Resolved,200
+CP000007,O0004789,S021,24-04-2025,Wrong Order,Dine-in,Low,Resolved,250
+CP000008,O0023778,S029,09-07-2025,Food Quality,Dine-in,High,Resolved,50
+CP000009,O0002235,S014,24-08-2025,Food Quality,Dine-in,Medium,Resolved,0
+CP000010,O0039172,S013,21-04-2025, wrong order ,Swiggy,Low,Resolved,200
+CP000011,O0009457,S021,29-07-2025,Wrong Order,Dine-in,Low,Resolved,150
+CP000012,O0028376,S005,07-01-2025,Wrong Order,Dine-in,Medium,Resolved,150
+CP000013,O0008188,S010,10-11-2025,Missing Item,Zomato,Low,Resolved,75
+CP000014,O0006732,S017,30-06-2025,Food Quality,Dine-in,Low,Pending,50
+CP000015,O0010779,S008,07-12-2025,Food Quality,Swiggy,High,Pending,0
+CP000016,O0021684,S019,02-05-2025,Late Delivery,Dine-in,Low,Resolved,150
+CP000017,O0004785,S015,03-08-2025,Late Delivery,Swiggy,Medium,Resolved,0
+CP000018,O0017825,S015,27-09-2025,Wrong Order,Zomato,Low,Resolved,0
+CP000019,O0025946,S009,17-01-2025,Food Quality,Swiggy,Medium,Resolved,50
+CP000020,O0032325,S020,15-02-2025,Late Delivery,Swiggy,High,Resolved,50
+CP000021,O0019978,S011,17-08-2025,Late Delivery,Dine-in,Medium,Resolved,100
+CP000022,O0021137,S023,02-05-2025,Late Delivery,Swiggy,Medium,Resolved,0
+CP000023,O0028316,S024,06-06-2025,Packaging,Swiggy,Low,Escalated,100
+CP000024,O0027054,S007,03-06-2025,Billing Issue,Zomato,Low,Escalated,0
+CP000025,O0001471,S015,28-05-2025, billing issue ,Zomato,Medium,Resolved,0
+CP000026,O0012291,S022,07-08-2025,Billing Issue,Swiggy,Medium,Resolved,0
+CP000027,O0009114,S024,13-06-2025,Late Delivery,Zomato,Medium,Pending,0
+CP000028,O0016210,S023,16-03-2025,Missing Item,Swiggy,Low,Resolved,200
+CP000029,O0029236,S009,26-12-2025,Staff Behaviour,Swiggy,Medium,Resolved,75
+CP000030,O0008698,S008,10-12-2025,Missing Item,Swiggy,Medium,Resolved,75
+CP000031,O0030250,S014,16-06-2025,Billing Issue,Zomato,Medium,Resolved,0
+CP000032,O0005649,S017,25-12-2025,Food Quality,Zomato,High,Escalated,50
+CP000033,O0011456,S011,18-12-2025,Wrong Order,Zomato,Medium,Resolved,250
+CP000034,O0021573,S012,01-08-2025,Missing Item,Dine-in,Medium,Pending,150
+CP000035,O0026025,S019,02-05-2025,Late Delivery,Swiggy,Low,Resolved,0
+CP000036,O0018311,S009,13-04-2025,Wrong Order,Dine-in,Medium,Resolved,100
+CP000037,O0002493,S009,15-04-2025,Food Quality,Takeaway,Medium,Pending,0
+CP000038,O0033185,S022,10-12-2025,Packaging,Dine-in,Low,Resolved,200
+CP000039,O0016563,S020,10-08-2025,Missing Item,Swiggy,Medium,Resolved,75
+CP000040,O0019575,S018,27-06-2025,Late Delivery,Zomato,High,Resolved,250
+CP000041,O0009754,S005,18-04-2025,Wrong Order,Swiggy,High,Resolved,75
+CP000042,O0031142,S028,14-09-2025,Late Delivery,Zomato,Medium,Resolved,75
+CP000043,O0002345,S010,19-05-2025,Missing Item,Dine-in,Medium,Resolved,100
+CP000044,O0011055,S003,15-08-2025,Missing Item,Zomato,Medium,Resolved,100
+CP000045,O0033463,S002,12-10-2025,Late Delivery,Zomato,Medium,Pending,0
+CP000046,O0038264,S015,07-07-2025,Food Quality,Dine-in,Low,Pending,150
+CP000047,O0004447,S012,05-08-2025,Late Delivery,Dine-in,Medium,Resolved,0
+CP000048,O0034171,S029,24-12-2025,Missing Item,Takeaway,Medium,Resolved,50
+CP000049,O0039070,S004,04-07-2025,Missing Item,Zomato,Low,Resolved,50
+CP000050,O0025334,S025,21-06-2025,Food Quality,Dine-in,Low,Pending,0
+CP000051,O0034093,S012,14-07-2025,Packaging,Dine-in,Medium,Resolved,0
+CP000052,O0039900,S015,24-10-2025,Billing Issue,Dine-in,Low,Escalated,75
+CP000053,O0015544,S025,24-05-2025,Missing Item,Zomato,Low,Resolved,0
+CP000054,O0004003,S020,30-08-2025,Missing Item,Zomato,Low,Resolved,250
+CP000055,O0032899,S015,11-09-2025,Food Quality,Swiggy,Low,Resolved,100
+CP000056,O0030470,S021,08-07-2025,Missing Item,Dine-in,Medium,Resolved,0
+CP000057,O0014181,S017,04-01-2025,Missing Item,Swiggy,Medium,Resolved,0
+CP000058,O0017018,S024,15-04-2025,Wrong Order,Takeaway,High,Resolved,150
+CP000059,O0031555,S027,27-01-2025,Late Delivery,Dine-in,Medium,Escalated,0
+CP000060,O0015172,S020,19-03-2025,Missing Item,Swiggy,High,Resolved,100
+CP000061,O0009406,S009,20-02-2025,Late Delivery,Zomato,Low,Resolved,200
+CP000062,O0021929,S014,10-06-2025,Missing Item,Dine-in,Low,Resolved,50
+CP000063,O0026485,S029,31-12-2025,Late Delivery,Swiggy,Medium,Resolved,200
+CP000064,O0018306,S008,23-02-2025,Staff Behaviour,Dine-in,Medium,Resolved,0
+CP000065,O0028975,S030,26-12-2025,Missing Item,Swiggy,Low,Resolved,150
+CP000066,O0039993,S012,04-05-2025,Missing Item,Zomato,Low,Resolved,0
+CP000067,O0033308,S001,29-03-2025,Missing Item,Zomato,High,Pending,0
+CP000068,O0008005,S018,22-11-2025,Packaging,Zomato,Medium,Resolved,0
+CP000069,O0020143,S020,02-08-2025,Billing Issue,Dine-in,Medium,Resolved,0
+CP000070,O0005123,S014,02-08-2025,Wrong Order,Zomato,Medium,Resolved,250
+CP000071,O0036844,S011,04-06-2025,Packaging,Dine-in,Low,Resolved,150
+CP000072,O0039160,S015,21-10-2025,Wrong Order,Dine-in,Low,Resolved,0
+CP000073,O0020096,S029,01-04-2025,Missing Item,Swiggy,Medium,Resolved,0
+CP000074,O0029509,S001,01-01-2025,Wrong Order,Zomato,Medium,Pending,0
+CP000075,O0028054,S010,13-07-2025,Wrong Order,Dine-in,Low,Resolved,250
+CP000076,O0012504,S012,19-10-2025,Staff Behaviour,Zomato,Low,Resolved,250
+CP000077,O0000957,S027,11-08-2025,Missing Item,Swiggy,Medium,Pending,0
+CP000078,O0011102,S011,12-06-2025,Late Delivery,Dine-in,Low,Resolved,0
+CP000079,O0010153,S018,21-10-2025,Late Delivery,Takeaway,Low,Resolved,0
+CP000080,O0033351,S009,08-09-2025,Billing Issue,Dine-in,Medium,Resolved,200
+CP000081,O0008598,S010,29-04-2025,Wrong Order,Swiggy,Medium,Resolved,200
+CP000082,O0036219,S009,07-03-2025,Staff Behaviour,Swiggy,Low,Resolved,0
+CP000083,O0015705,S001,01-09-2025,Food Quality,Swiggy,Medium,Resolved,0
+CP000084,O0037496,S007,16-12-2025,Missing Item,Zomato,Low,Resolved,0
+CP000085,O0018122,S014,09-07-2025,Late Delivery,Zomato,Low,Resolved,0
+CP000086,O0027342,S011,26-07-2025,Billing Issue,Swiggy,Medium,Resolved,200
+CP000087,O0015658,S018,20-04-2025,Food Quality,Zomato,Low,Resolved,0
+CP000088,O0036809,S004,23-09-2025,Billing Issue,Swiggy,Low,Resolved,0
+CP000089,O0011184,S021,12-12-2025,Wrong Order,Zomato,Medium,Pending,0
+CP000090,O0027738,S017,25-12-2025,Wrong Order,Dine-in,Medium,Resolved,50
+CP000091,O0015860,S019,04-05-2025,Food Quality,Dine-in,Medium,Pending,250
+CP000092,O0008578,S018,11-09-2025,Missing Item,Zomato,Medium,Resolved,75
+CP000093,O0021415,S002,19-07-2025,Late Delivery,Dine-in,Medium,Resolved,0
+CP000094,O0009483,S016,24-05-2025,Late Delivery,Swiggy,Medium,Resolved,50
+CP000095,O0033996,S020,26-01-2025,Food Quality,Swiggy,High,Resolved,0
+CP000096,O0008963,S003,10-06-2025,Late Delivery,Dine-in,Low,Resolved,150
+CP000097,O0032973,S008,25-04-2025,Packaging,Zomato,Low,Resolved,0
+CP000098,O0004021,S027,30-05-2025,Late Delivery,Swiggy,High,Resolved,50
+CP000099,O0020459,S006,02-03-2025,Late Delivery,Zomato,High,Resolved,150
+CP000100,O0018885,S005,24-07-2025,Late Delivery,Zomato,Medium,Resolved,0
+CP000101,O0023330,S002,19-01-2025,Late Delivery,Dine-in,High,Resolved,150
+CP000102,O0021357,S020,03-04-2025,Billing Issue,Dine-in,High,Resolved,150
+CP000103,O0030652,S005,26-07-2025,Food Quality,Zomato,Low,Resolved,150
+CP000104,O0007769,S002,08-08-2025,Late Delivery,Zomato,High,Resolved,0
+CP000105,O0014410,S006,24-07-2025,Food Quality,Dine-in,Medium,Resolved,200
+CP000106,O0026605,S026,21-02-2025,Billing Issue,Swiggy,Medium,Pending,250
+CP000107,O0024531,S016,25-04-2025,Billing Issue,Dine-in,Medium,Resolved,0
+CP000108,O0006155,S017,28-04-2025, billing issue ,Dine-in,Low,Pending,250
+CP000109,O0001239,S029,22-07-2025,Late Delivery,Swiggy,Low,Resolved,150
+CP000110,O0005670,S022,10-06-2025,Food Quality,Swiggy,Low,Resolved,200
+CP000111,O0031298,S025,18-07-2025,Wrong Order,Swiggy,Low,Resolved,150
+CP000112,O0020964,S015,09-09-2025,Late Delivery,Swiggy,Low,Pending,50
+CP000113,O0006795,S019,07-01-2025,Food Quality,Swiggy,Low,Resolved,250
+CP000114,O0029642,S029,09-03-2025,Late Delivery,Swiggy,High,Resolved,75
+CP000115,O0010132,S018,09-01-2025,Billing Issue,Swiggy,Low,Escalated,50
+CP000116,O0004122,S001,07-06-2025,Food Quality,Dine-in,Low,Pending,0
+CP000117,O0008313,S001,23-03-2025,Food Quality,Swiggy,Medium,Resolved,50
+CP000118,O0003225,S014,02-11-2025,Food Quality,Swiggy,Low,Resolved,50
+CP000119,O0003399,S015,30-08-2025,Food Quality,Dine-in,Medium,Resolved,200
+CP000120,O0014809,S013,23-07-2025,Food Quality,Zomato,High,Resolved,0
+CP000121,O0016749,S011,13-09-2025,Food Quality,Swiggy,Low,Resolved,50
+CP000122,O0005632,S021,16-02-2025,Packaging,Swiggy,Medium,Escalated,100
+CP000123,O0007542,S018,26-02-2025,Billing Issue,Zomato,Medium,Escalated,75
+CP000124,O0019790,S004,01-12-2025,Late Delivery,Zomato,Medium,Pending,50
+CP000125,O0031699,S011,30-06-2025,Wrong Order,Dine-in,Low,Resolved,0
+CP000126,O0035469,S013,12-11-2025,Late Delivery,Swiggy,Low,Resolved,200
+CP000127,O0011049,S016,29-03-2025,Food Quality,Zomato,Medium,Pending,50
+CP000128,O0036115,S015,12-05-2025,Wrong Order,Swiggy,Low,Resolved,50
+CP000129,O0000413,S001,05-12-2025,Food Quality,Swiggy,Medium,Resolved,0
+CP000130,O0035751,S002,25-10-2025,Late Delivery,Dine-in,Low,Resolved,150
+CP000131,O0002408,S022,30-10-2025,Missing Item,Dine-in,Low,Pending,75
+CP000132,O0025143,S004,08-01-2025,Food Quality,Zomato,Medium,Escalated,250
+CP000133,O0008506,S028,09-11-2025,Late Delivery,Dine-in,Low,Resolved,150
+CP000134,O0014060,S030,29-09-2025,Packaging,Dine-in,Medium,Pending,0
+CP000135,O0029063,S003,12-11-2025,Late Delivery,Dine-in,Medium,Resolved,50
+CP000136,O0034828,S008,21-12-2025,Missing Item,Swiggy,Medium,Pending,50
+CP000137,O0034305,S025,23-02-2025,Late Delivery,Swiggy,Medium,Pending,100
+CP000138,O0003351,S019,13-11-2025,Food Quality,Dine-in,Medium,Pending,0
+CP000139,O0028799,S018,19-03-2025,Staff Behaviour,Dine-in,High,Resolved,0
+CP000140,O0000884,S026,08-06-2025,Packaging,Dine-in,Low,Resolved,0
+CP000141,O0024844,S010,16-08-2025,Late Delivery,Dine-in,Medium,Pending,100
+CP000142,O0009632,S013,29-07-2025,Packaging,Swiggy,Medium,Escalated,0
+CP000143,O0039609,S023,06-11-2025,Billing Issue,Dine-in,High,Resolved,75
+CP000144,O0028955,S015,28-06-2025,Wrong Order,Zomato,High,Resolved,250
+CP000145,O0028898,S027,18-01-2025,Packaging,Zomato,Medium,Resolved,100
+CP000146,O0034100,S004,28-10-2025,Late Delivery,Dine-in,Low,Resolved,50
+CP000147,O0023287,S008,29-03-2025,Late Delivery,Zomato,Low,Escalated,50
+CP000148,O0004471,S006,17-09-2025,Late Delivery,Swiggy,Medium,Resolved,0
+CP000149,O0017081,S024,17-12-2025,Late Delivery,Swiggy,Medium,Resolved,150
+CP000150,O0002777,S005,03-08-2025,Missing Item,Dine-in,Medium,Resolved,0
+CP000151,O0029963,S013,16-10-2025,Food Quality,Swiggy,Low,Resolved,100
+CP000152,O0003825,S003,20-08-2025,Late Delivery,Zomato,Low,Resolved,0
+CP000153,O0012279,S021,23-10-2025,Missing Item,Dine-in,High,Resolved,200
+CP000154,O0001378,S010,24-09-2025,Food Quality,Dine-in,High,Resolved,50
+CP000155,O0032556,S023,23-07-2025,Missing Item,Dine-in,Low,Resolved,50
+CP000156,O0024041,S018,12-12-2025,Late Delivery,Zomato,Low,Escalated,0
+CP000157,O0035048,S014,25-01-2025,Billing Issue,Dine-in,High,Resolved,50
+CP000158,O0001417,S029,14-07-2025,Food Quality,Swiggy,Low,Pending,0
+CP000159,O0022901,S026,16-03-2025,Food Quality,Zomato,Medium,Resolved,0
+CP000160,O0006441,S004,17-10-2025,Wrong Order,Takeaway,High,Escalated,150
+CP000161,O0025353,S020,15-01-2025,Food Quality,Zomato,High,Escalated,250
+CP000162,O0007444,S029,02-02-2025,Wrong Order,Dine-in,Medium,Resolved,200
+CP000163,O0010730,S003,09-03-2025,Wrong Order,Dine-in,Low,Pending,75
+CP000164,O0027931,S026,07-01-2025,Late Delivery,Dine-in,High,Resolved,50
+CP000165,O0015047,S002,20-09-2025,Late Delivery,Swiggy,Low,Resolved,250
+CP000166,O0014047,S024,14-02-2025,Missing Item,Swiggy,Low,Pending,0
+CP000167,O0037926,S012,21-02-2025,Food Quality,Swiggy,Low,Pending,200
+CP000168,O0024298,S021,17-07-2025,Wrong Order,Zomato,Medium,Pending,100
+CP000169,O0009812,S006,08-11-2025,Late Delivery,Swiggy,Medium,Resolved,75
+CP000170,O0008964,S004,30-10-2025,Staff Behaviour,Swiggy,Medium,Resolved,100
+CP000171,O0039504,S011,16-03-2025,Food Quality,Dine-in,Medium,Resolved,75
+CP000172,O0000010,S027,25-02-2025,Wrong Order,Swiggy,Low,Resolved,0
+CP000173,O0020967,S017,13-10-2025,Missing Item,Zomato,Low,Escalated,50
+CP000174,O0010217,S004,27-12-2025,Food Quality,Dine-in,Low,Resolved,150
+CP000175,O0011709,S003,12-04-2025,Packaging,Dine-in,High,Resolved,250
+CP000176,O0030745,S001,14-09-2025,Wrong Order,Swiggy,Medium,Resolved,50
+CP000177,O0017096,S030,28-09-2025,Food Quality,Swiggy,Low,Resolved,100
+CP000178,O0027755,S006,10-04-2025,Late Delivery,Swiggy,Low,Resolved,0
+CP000179,O0018956,S012,05-07-2025,Packaging,Zomato,Low,Resolved,75
+CP000180,O0034484,S014,23-07-2025,Missing Item,Swiggy,Low,Resolved,50
+CP000181,O0000458,S024,12-02-2025,Staff Behaviour,Swiggy,High,Pending,75
+CP000182,O0022757,S025,05-07-2025,Wrong Order,Dine-in,Low,Pending,0
+CP000183,O0011981,S029,21-01-2025,Wrong Order,Zomato,Medium,Resolved,50
+CP000184,O0020639,S011,18-08-2025,Late Delivery,Zomato,Low,Pending,0
+CP000185,O0009657,S006,23-09-2025,Missing Item,Takeaway,Low,Resolved,200
+CP000186,O0017797,S029,14-07-2025,Late Delivery,Swiggy,Low,Resolved,250
+CP000187,O0038396,S001,04-06-2025,Missing Item,Dine-in,Low,Resolved,100
+CP000188,O0016870,S008,29-07-2025,Billing Issue,Takeaway,Medium,Resolved,100
+CP000189,O0007469,S008,19-07-2025,Food Quality,Zomato,Medium,Resolved,0
+CP000190,O0011732,S008,29-04-2025,Missing Item,Dine-in,Low,Resolved,75
+CP000191,O0038594,S002,15-03-2025,Wrong Order,Takeaway,Medium,Resolved,250
+CP000192,O0028642,S012,08-01-2025,Wrong Order,Swiggy,Low,Resolved,0
+CP000193,O0029054,S030,06-03-2025,Food Quality,Swiggy,Medium,Resolved,100
+CP000194,O0019614,S001,29-11-2025,Wrong Order,Zomato,Medium,Resolved,0
+CP000195,O0007803,S029,02-05-2025,Food Quality,Dine-in,Medium,Resolved,200
+CP000196,O0010600,S009,03-01-2025,Late Delivery,Dine-in,Medium,Resolved,0
+CP000197,O0034392,S029,28-12-2025,Late Delivery,Dine-in,Medium,Resolved,200
+CP000198,O0000041,S027,09-08-2025,Wrong Order,Zomato,Low,Resolved,75
+CP000199,O0038857,S026,18-07-2025,Food Quality,Zomato,Low,Pending,0
+CP000200,O0022031,S004,18-11-2025,Late Delivery,Dine-in,Medium,Pending,75
+CP000201,O0010482,S013,30-10-2025,Food Quality,Dine-in,Low,Resolved,200
+CP000202,O0004839,S011,22-10-2025,Missing Item,Swiggy,Low,Resolved,250
+CP000203,O0021208,S014,08-03-2025,Late Delivery,Dine-in,Medium,Resolved,200
+CP000204,O0019333,S008,10-11-2025,Staff Behaviour,Dine-in,Medium,Resolved,75
+CP000205,O0020436,S026,24-07-2025,Missing Item,Swiggy,Medium,Resolved,0
+CP000206,O0029090,S022,23-02-2025,Food Quality,Swiggy,Low,Resolved,50
+CP000207,O0034165,S011,27-11-2025,Food Quality,Swiggy,Low,Resolved,0
+CP000208,O0000289,S021,05-12-2025,Food Quality,Dine-in,Medium,Pending,200
+CP000209,O0029604,S018,20-10-2025,Food Quality,Swiggy,High,Pending,0
+CP000210,O0036764,S018,29-09-2025,Packaging,Swiggy,High,Resolved,0
+CP000211,O0002102,S012,03-07-2025,Packaging,Swiggy,Medium,Resolved,75
+CP000212,O0015779,S002,03-07-2025,Billing Issue,Dine-in,High,Resolved,0
+CP000213,O0025241,S030,15-02-2025,Missing Item,Takeaway,Low,Resolved,150
+CP000214,O0025480,S020,25-09-2025,Missing Item,Swiggy,Low,Pending,0
+CP000215,O0020435,S008,15-09-2025,Late Delivery,Zomato,Medium,Pending,50
+CP000216,O0012313,S019,12-08-2025,Missing Item,Dine-in,Medium,Resolved,0
+CP000217,O0003736,S001,30-05-2025,Wrong Order,Zomato,High,Resolved,0
+CP000218,O0007297,S007,14-10-2025,Food Quality,Swiggy,High,Resolved,150
+CP000219,O0034541,S030,22-12-2025,Food Quality,Swiggy,Low,Resolved,250
+CP000220,O0032592,S030,14-09-2025,Staff Behaviour,Dine-in,Low,Resolved,150
+CP000221,O0003236,S004,29-03-2025,Food Quality,Dine-in,Medium,Resolved,0
+CP000222,O0009514,S017,28-11-2025,Missing Item,Swiggy,Medium,Resolved,75
+CP000223,O0003206,S005,15-12-2025,Food Quality,Swiggy,Low,Resolved,250
+CP000224,O0039946,S012,20-09-2025,Late Delivery,Swiggy,Low,Pending,150
+CP000225,O0020255,S028,22-10-2025,Late Delivery,Zomato,Low,Resolved,0
+CP000226,O0015542,S022,15-02-2025,Missing Item,Dine-in,Low,Resolved,0
+CP000227,O0025019,S023,13-12-2025,Missing Item,Swiggy,Medium,Resolved,200
+CP000228,O0011271,S019,12-07-2025,Billing Issue,Swiggy,Low,Resolved,50
+CP000229,O0030919,S012,19-01-2025,Late Delivery,Zomato,High,Pending,100
+CP000230,O0014509,S017,21-07-2025,Wrong Order,Dine-in,Low,Pending,0
+CP000231,O0009557,S030,14-06-2025,Wrong Order,Dine-in,Medium,Resolved,0
+CP000232,O0016578,S020,27-12-2025,Missing Item,Swiggy,Medium,Resolved,0
+CP000233,O0012230,S002,05-07-2025,Late Delivery,Swiggy,Low,Resolved,75
+CP000234,O0015401,S001,07-01-2025,Wrong Order,Dine-in,Medium,Resolved,200
+CP000235,O0021160,S014,21-01-2025,Late Delivery,Swiggy,Medium,Pending,100
+CP000236,O0004727,S014,04-10-2025,Staff Behaviour,Swiggy,Medium,Resolved,75
+CP000237,O0025109,S011,28-01-2025,Late Delivery,Zomato,Medium,Pending,250
+CP000238,O0003674,S010,14-03-2025,Staff Behaviour,Swiggy,Medium,Resolved,200
+CP000239,O0011442,S028,06-10-2025,Late Delivery,Swiggy,Low,Resolved,100
+CP000240,O0034612,S019,21-02-2025,Packaging,Zomato,Low,Resolved,75
+CP000241,O0004108,S008,12-07-2025,Missing Item,Zomato,Low,Resolved,150
+CP000242,O0027261,S016,27-03-2025,Late Delivery,Dine-in,Medium,Resolved,75
+CP000243,O0012079,S022,17-04-2025,Billing Issue,Dine-in,Low,Resolved,0
+CP000244,O0016913,S015,25-11-2025,Staff Behaviour,Dine-in,High,Resolved,0
+CP000245,O0016092,S007,09-02-2025,Missing Item,Takeaway,High,Resolved,50
+CP000246,O0030370,S020,27-05-2025,Food Quality,Dine-in,Medium,Resolved,0
+CP000247,O0017032,S001,25-05-2025,Food Quality,Dine-in,Low,Resolved,250
+CP000248,O0032620,S027,19-07-2025,Food Quality,Dine-in,Medium,Pending,250
+CP000249,O0012737,S015,28-12-2025,Missing Item,Swiggy,Low,Resolved,250
+CP000250,O0026632,S023,29-12-2025,Wrong Order,Swiggy,Medium,Resolved,50
+CP000251,O0012118,S014,17-07-2025,Wrong Order,Zomato,Low,Resolved,0
+CP000252,O0034780,S015,26-01-2025,Missing Item,Zomato,Low,Resolved,150
+CP000253,O0007479,S001,03-08-2025,Wrong Order,Zomato,Low,Resolved,250
+CP000254,O0011180,S021,14-12-2025,Food Quality,Dine-in,High,Pending,200
+CP000255,O0003770,S002,29-07-2025,Late Delivery,Dine-in,Medium,Pending,150
+CP000256,O0009270,S024,05-07-2025,Food Quality,Zomato,Medium,Resolved,150
+CP000257,O0023755,S015,16-09-2025,Food Quality,Dine-in,Medium,Resolved,0
+CP000258,O0002424,S022,09-03-2025,Packaging,Zomato,Medium,Pending,75
+CP000259,O0036077,S012,10-08-2025,Missing Item,Swiggy,Medium,Resolved,100
+CP000260,O0021005,S025,03-06-2025,Packaging,Dine-in,Medium,Resolved,0
+CP000261,O0001671,S022,10-05-2025,Food Quality,Zomato,Low,Resolved,250
+CP000262,O0009143,S003,11-02-2025,Missing Item,Swiggy,Medium,Resolved,200
+CP000263,O0007685,S010,02-08-2025,Staff Behaviour,Takeaway,Low,Pending,250
+CP000264,O0023414,S002,19-01-2025,Late Delivery,Dine-in,Low,Resolved,0
+CP000265,O0037545,S010,28-08-2025,Packaging,Swiggy,Medium,Resolved,0
+CP000266,O0000084,S010,19-11-2025,Food Quality,Dine-in,Low,Resolved,0
+CP000267,O0022999,S008,30-08-2025,Missing Item,Swiggy,Medium,Escalated,200
+CP000268,O0023371,S003,24-05-2025,Packaging,Dine-in,Low,Resolved,0
+CP000269,O0021682,S008,04-08-2025,Staff Behaviour,Swiggy,Medium,Resolved,50
+CP000270,O0013032,S029,07-10-2025,Late Delivery,Swiggy,Low,Resolved,0
+CP000271,O0021368,S020,12-12-2025,Missing Item,Swiggy,High,Resolved,50
+CP000272,O0004841,S020,20-07-2025,Late Delivery,Zomato,Low,Resolved,0
+CP000273,O0037574,S019,07-08-2025,Wrong Order,Zomato,Medium,Pending,200
+CP000274,O0005363,S004,29-01-2025,Late Delivery,Zomato,Medium,Resolved,75
+CP000275,O0015185,S010,25-08-2025,Missing Item,Swiggy,Low,Resolved,0
+CP000276,O0021827,S028,02-10-2025,Food Quality,Takeaway,Low,Resolved,0
+CP000277,O0028490,S011,20-07-2025,Food Quality,Zomato,Low,Resolved,100
+CP000278,O0012636,S022,09-03-2025,Missing Item,Zomato,Medium,Pending,250
+CP000279,O0031293,S016,30-05-2025,Food Quality,Dine-in,Medium,Resolved,75
+CP000280,O0027392,S002,07-10-2025,Late Delivery,Dine-in,Medium,Pending,50
+CP000281,O0028446,S014,26-10-2025,Late Delivery,Takeaway,Medium,Resolved,0
+CP000282,O0028294,S019,25-08-2025,Late Delivery,Zomato,Medium,Resolved,75
+CP000283,O0039429,S001,24-10-2025,Staff Behaviour,Dine-in,Low,Resolved,0
+CP000284,O0027796,S006,24-02-2025,Food Quality,Swiggy,High,Resolved,150
+CP000285,O0020297,S025,28-02-2025,Late Delivery,Zomato,Low,Resolved,100
+CP000286,O0016633,S025,12-05-2025,Packaging,Zomato,Medium,Escalated,250
+CP000287,O0004159,S015,10-01-2025,Packaging,Dine-in,High,Resolved,0
+CP000288,O0033445,S029,18-03-2025,Late Delivery,Dine-in,Medium,Resolved,200
+CP000289,O0024341,S018,19-09-2025,Wrong Order,Dine-in,Medium,Resolved,150
+CP000290,O0004538,S014,10-10-2025,Late Delivery,Swiggy,Low,Resolved,0
+CP000291,O0015156,S007,08-05-2025,Food Quality,Takeaway,Medium,Resolved,50
+CP000292,O0022282,S018,28-12-2025,Food Quality,Swiggy,Low,Escalated,250
+CP000293,O0009753,S026,08-09-2025,Packaging,Takeaway,High,Resolved,200
+CP000294,O0036382,S021,10-07-2025,Food Quality,Zomato,Low,Resolved,50
+CP000295,O0020369,S021,08-03-2025, missing item ,Dine-in,Medium,Resolved,100
+CP000296,O0036794,S011,07-10-2025,Packaging,Swiggy,Medium,Resolved,50
+CP000297,O0035461,S016,07-02-2025,Wrong Order,Zomato,Medium,Resolved,0
+CP000298,O0031495,S023,11-11-2025,Food Quality,Dine-in,Medium,Resolved,50
+CP000299,O0022629,S009,14-04-2025,Staff Behaviour,Zomato,Medium,Resolved,0
+CP000300,O0024014,S013,22-11-2025,Packaging,Dine-in,Medium,Resolved,200
+CP000301,O0027396,S013,03-07-2025,Late Delivery,Zomato,Low,Resolved,75
+CP000302,O0028214,S007,05-01-2025,Missing Item,Dine-in,Low,Resolved,200
+CP000303,O0005529,S029,04-10-2025,Late Delivery,Dine-in,Medium,Resolved,0
+CP000304,O0031426,S030,01-08-2025,Wrong Order,Dine-in,Medium,Pending,0
+CP000305,O0037727,S003,18-11-2025,Food Quality,Swiggy,Low,Resolved,200
+CP000306,O0015978,S027,04-05-2025,Late Delivery,Dine-in,Low,Resolved,75
+CP000307,O0036992,S021,31-07-2025,Billing Issue,Swiggy,High,Resolved,200
+CP000308,O0005074,S008,14-05-2025,Billing Issue,Dine-in,Low,Resolved,250
+CP000309,O0038786,S023,29-03-2025,Packaging,Takeaway,Medium,Escalated,250
+CP000310,O0012202,S009,30-08-2025,Missing Item,Swiggy,Medium,Resolved,100
+CP000311,O0036777,S019,21-07-2025,Missing Item,Swiggy,Low,Pending,200
+CP000312,O0024924,S005,28-09-2025,Late Delivery,Swiggy,Medium,Resolved,250
+CP000313,O0005212,S016,04-02-2025,Late Delivery,Dine-in,Low,Resolved,100
+CP000314,O0020237,S016,14-01-2025,Late Delivery,Zomato,Low,Resolved,100
+CP000315,O0014395,S005,18-01-2025,Late Delivery,Dine-in,Medium,Resolved,100
+CP000316,O0005431,S025,14-08-2025,Late Delivery,Dine-in,Low,Pending,0
+CP000317,O0029308,S025,23-09-2025,Food Quality,Dine-in,Low,Resolved,250
+CP000318,O0011415,S010,15-10-2025,Missing Item,Swiggy,Low,Resolved,0
+CP000319,O0033926,S019,16-11-2025,Late Delivery,Takeaway,Medium,Resolved,0
+CP000320,O0023264,S006,14-07-2025,Staff Behaviour,Dine-in,Medium,Pending,200
+CP000321,O0003849,S001,15-02-2025,Billing Issue,Zomato,Medium,Resolved,0
+CP000322,O0029936,S001,11-04-2025,Packaging,Swiggy,Medium,Resolved,200
+CP000323,O0005249,S011,04-01-2025,Late Delivery,Zomato,Low,Resolved,50
+CP000324,O0005503,S005,25-09-2025,Food Quality,Zomato,Medium,Pending,0
+CP000325,O0031899,S004,17-01-2025,Late Delivery,Dine-in,Medium,Resolved,150
+CP000326,O0028277,S004,17-05-2025,Wrong Order,Takeaway,Medium,Pending,200
+CP000327,O0018629,S009,26-06-2025,Billing Issue,Zomato,Medium,Pending,250
+CP000328,O0025761,S009,24-03-2025,Missing Item,Dine-in,Medium,Resolved,100
+CP000329,O0032417,S004,09-08-2025, packaging ,Swiggy,Low,Resolved,100
+CP000330,O0036613,S012,25-01-2025,Late Delivery,Zomato,Medium,Pending,0
+CP000331,O0033898,S015,12-02-2025,Late Delivery,Dine-in,Low,Pending,50
+CP000332,O0007451,S002,05-04-2025,Food Quality,Zomato,Low,Pending,75
+CP000333,O0031016,S002,06-02-2025,Food Quality,Dine-in,Medium,Resolved,250
+CP000334,O0028702,S010,11-06-2025,Food Quality,Swiggy,Medium,Resolved,100
+CP000335,O0020462,S023,02-04-2025,Food Quality,Swiggy,Low,Resolved,150
+CP000336,O0022390,S024,19-06-2025,Food Quality,Dine-in,Medium,Resolved,50
+CP000337,O0038910,S026,06-08-2025,Staff Behaviour,Takeaway,High,Resolved,200
+CP000338,O0009040,S016,03-08-2025,Late Delivery,Swiggy,Low,Resolved,50
+CP000339,O0012009,S015,30-06-2025,Food Quality,Dine-in,Low,Pending,250
+CP000340,O0020111,S021,21-09-2025,Food Quality,Dine-in,Low,Pending,150
+CP000341,O0035870,S027,16-10-2025,Packaging,Dine-in,Low,Pending,0
+CP000342,O0038127,S006,23-10-2025,Packaging,Dine-in,Low,Resolved,75
+CP000343,O0030649,S006,21-06-2025,Staff Behaviour,Swiggy,Low,Resolved,0
+CP000344,O0027861,S020,05-02-2025,Late Delivery,Zomato,Low,Resolved,200
+CP000345,O0008463,S020,08-05-2025,Late Delivery,Zomato,Low,Resolved,50
+CP000346,O0015085,S006,14-07-2025,Late Delivery,Swiggy,Low,Resolved,50
+CP000347,O0029018,S020,16-04-2025,Billing Issue,Dine-in,Low,Resolved,200
+CP000348,O0029532,S025,09-04-2025,Staff Behaviour,Dine-in,Low,Pending,75
+CP000349,O0015748,S015,02-03-2025,Late Delivery,Zomato,High,Resolved,0
+CP000350,O0033300,S006,23-04-2025,Food Quality,Dine-in,High,Resolved,0
+CP000351,O0031500,S017,22-12-2025,Billing Issue,Dine-in,Medium,Resolved,50
+CP000352,O0024852,S025,09-11-2025,Staff Behaviour,Swiggy,Low,Resolved,0
+CP000353,O0028807,S006,07-06-2025,Billing Issue,Swiggy,Medium,Resolved,75
+CP000354,O0023429,S009,21-01-2025,Missing Item,Dine-in,Low,Resolved,0
+CP000355,O0021924,S008,13-05-2025,Packaging,Dine-in,Medium,Escalated,50
+CP000356,O0021103,S011,24-08-2025,Missing Item,Swiggy,Medium,Pending,0
+CP000357,O0019586,S015,02-10-2025,Missing Item,Swiggy,Medium,Resolved,0
+CP000358,O0013427,S021,17-06-2025,Missing Item,Zomato,Medium,Resolved,150
+CP000359,O0019317,S025,26-09-2025,Wrong Order,Dine-in,Low,Resolved,0
+CP000360,O0033988,S018,23-02-2025,Missing Item,Swiggy,Low,Resolved,0
+CP000361,O0025774,S030,20-11-2025,Food Quality,Swiggy,Low,Pending,100
+CP000362,O0037371,S023,07-06-2025,Staff Behaviour,Dine-in,Medium,Resolved,100
+CP000363,O0028905,S012,09-09-2025,Missing Item,Dine-in,Medium,Resolved,75
+CP000364,O0007805,S024,08-05-2025,Late Delivery,Zomato,Medium,Escalated,75
+CP000365,O0033459,S007,27-07-2025,Wrong Order,Swiggy,Medium,Escalated,0
+CP000366,O0034589,S030,05-09-2025,Food Quality,Takeaway,Low,Escalated,75
+CP000367,O0024048,S030,15-06-2025,Late Delivery,Dine-in,Medium,Escalated,75
+CP000368,O0017050,S001,21-07-2025,Missing Item,Dine-in,Medium,Resolved,200
+CP000369,O0009033,S027,29-09-2025,Staff Behaviour,Swiggy,Low,Resolved,250
+CP000370,O0006323,S005,16-11-2025,Missing Item,Takeaway,Low,Resolved,200
+CP000371,O0021008,S012,04-02-2025,Missing Item,Swiggy,Low,Resolved,0
+CP000372,O0005025,S003,23-10-2025,Wrong Order,Dine-in,Medium,Resolved,75
+CP000373,O0027109,S011,01-07-2025,Late Delivery,Zomato,Medium,Resolved,75
+CP000374,O0039827,S029,26-12-2025,Packaging,Swiggy,Medium,Resolved,0
+CP000375,O0005266,S025,04-04-2025,Food Quality,Swiggy,Low,Resolved,50
+CP000376,O0036326,S011,05-12-2025,Late Delivery,Dine-in,Medium,Resolved,200
+CP000377,O0033701,S015,03-03-2025,Wrong Order,Takeaway,Medium,Escalated,50
+CP000378,O0027146,S004,24-10-2025,Billing Issue,Dine-in,Medium,Resolved,50
+CP000379,O0001028,S026,15-04-2025,Billing Issue,Swiggy,Medium,Pending,0
+CP000380,O0033629,S017,25-05-2025,Missing Item,Dine-in,Low,Resolved,250
+CP000381,O0008514,S024,31-10-2025,Billing Issue,Swiggy,Low,Resolved,0
+CP000382,O0023066,S007,06-04-2025,Food Quality,Zomato,Low,Resolved,150
+CP000383,O0038675,S010,11-11-2025,Packaging,Swiggy,Medium,Resolved,0
+CP000384,O0018555,S030,18-04-2025,Missing Item,Zomato,Medium,Resolved,50
+CP000385,O0023890,S021,21-10-2025,Wrong Order,Swiggy,Low,Pending,0
+CP000386,O0039818,S015,14-12-2025,Missing Item,Swiggy,Medium,Pending,0
+CP000387,O0033034,S025,22-03-2025,Wrong Order,Dine-in,High,Resolved,150
+CP000388,O0010570,S028,30-05-2025,Missing Item,Zomato,High,Resolved,0
+CP000389,O0000295,S011,08-12-2025,Late Delivery,Swiggy,Low,Resolved,0
+CP000390,O0006834,S027,21-01-2025,Food Quality,Dine-in,Low,Resolved,75
+CP000391,O0021042,S019,23-10-2025,Billing Issue,Zomato,Medium,Resolved,75
+CP000392,O0019005,S008,21-06-2025,Food Quality,Swiggy,Low,Escalated,0
+CP000393,O0026506,S002,29-12-2025,Packaging,Dine-in,Medium,Resolved,0
+CP000394,O0036334,S024,04-07-2025,Missing Item,Swiggy,Low,Resolved,0
+CP000395,O0023811,S020,24-10-2025,Food Quality,Takeaway,Low,Pending,0
+CP000396,O0033799,S025,01-02-2025,Late Delivery,Dine-in,Low,Resolved,0
+CP000397,O0022347,S009,16-02-2025,Missing Item,Takeaway,Low,Resolved,150
+CP000398,O0002217,S002,01-01-2025,Packaging,Swiggy,High,Resolved,150
+CP000399,O0038317,S027,24-02-2025,Food Quality,Swiggy,Low,Resolved,0
+CP000400,O0037968,S002,12-06-2025,Wrong Order,Swiggy,Low,Resolved,150
+CP000401,O0011256,S010,12-05-2025,Missing Item,Takeaway,Low,Resolved,0
+CP000402,O0012796,S016,25-08-2025,Late Delivery,Takeaway,Medium,Resolved,0
+CP000403,O0031789,S025,02-02-2025, missing item ,Swiggy,Low,Resolved,150
+CP000404,O0029084,S007,19-06-2025,Food Quality,Swiggy,Low,Escalated,100
+CP000405,O0039007,S029,08-09-2025,Late Delivery,Dine-in,Medium,Resolved,100
+CP000406,O0010701,S027,30-06-2025,Packaging,Dine-in,Medium,Resolved,100
+CP000407,O0002050,S005,26-12-2025,Staff Behaviour,Dine-in,High,Resolved,75
+CP000408,O0035250,S018,09-04-2025,Billing Issue,Zomato,Low,Resolved,0
+CP000409,O0008414,S014,15-06-2025,Late Delivery,Dine-in,Medium,Escalated,200
+CP000410,O0026072,S012,08-05-2025,Food Quality,Takeaway,Medium,Resolved,0
+CP000411,O0037365,S028,01-07-2025,Missing Item,Dine-in,Medium,Resolved,150
+CP000412,O0037411,S023,12-06-2025,Packaging,Swiggy,Medium,Resolved,200
+CP000413,O0037104,S009,24-03-2025,Billing Issue,Zomato,High,Resolved,250
+CP000414,O0011211,S028,08-10-2025,Missing Item,Swiggy,Medium,Resolved,0
+CP000415,O0005032,S027,06-03-2025,Late Delivery,Zomato,Medium,Escalated,200
+CP000416,O0017648,S003,09-02-2025,Staff Behaviour,Zomato,Low,Resolved,0
+CP000417,O0038201,S007,03-05-2025,Wrong Order,Swiggy,Low,Resolved,0
+CP000418,O0005194,S001,11-12-2025,Wrong Order,Swiggy,Medium,Resolved,0
+CP000419,O0006954,S010,23-04-2025,Packaging,Zomato,Medium,Resolved,75
+CP000420,O0016970,S009,18-01-2025,Missing Item,Dine-in,Low,Resolved,0
+CP000421,O0022249,S003,12-05-2025,Late Delivery,Swiggy,High,Resolved,0
+CP000422,O0009797,S018,24-01-2025,Late Delivery,Zomato,High,Resolved,250
+CP000423,O0007448,S015,17-07-2025,Late Delivery,Dine-in,High,Resolved,75
+CP000424,O0019385,S008,03-05-2025,Billing Issue,Dine-in,Low,Resolved,0
+CP000425,O0033548,S006,31-12-2025,Packaging,Zomato,Low,Resolved,150
+CP000426,O0005530,S007,20-11-2025,Food Quality,Dine-in,High,Pending,0
+CP000427,O0032688,S008,20-12-2025,Food Quality,Dine-in,Low,Resolved,0
+CP000428,O0028066,S022,27-06-2025,Late Delivery,Dine-in,High,Resolved,150
+CP000429,O0001721,S022,25-01-2025,Food Quality,Dine-in,Medium,Resolved,0
+CP000430,O0002489,S028,20-01-2025, food quality ,Takeaway,Low,Pending,200
+CP000431,O0017529,S016,07-07-2025,Packaging,Dine-in,Low,Resolved,50
+CP000432,O0038044,S011,10-02-2025,Missing Item,Swiggy,Medium,Resolved,0
+CP000433,O0025243,S029,14-02-2025,Staff Behaviour,Swiggy,Medium,Pending,0
+CP000434,O0026227,S011,20-10-2025,Wrong Order,Zomato,Medium,Pending,0
+CP000435,O0007520,S021,21-02-2025,Missing Item,Dine-in,Low,Resolved,250
+CP000436,O0037896,S028,20-03-2025,Late Delivery,Dine-in,Medium,Resolved,100
+CP000437,O0038149,S010,24-01-2025,Wrong Order,Swiggy,Medium,Resolved,50
+CP000438,O0005086,S015,29-06-2025,Wrong Order,Zomato,Medium,Resolved,75
+CP000439,O0020205,S028,20-03-2025,Food Quality,Zomato,Medium,Resolved,150
+CP000440,O0026118,S011,03-12-2025,Food Quality,Swiggy,Low,Resolved,0
+CP000441,O0037799,S012,19-08-2025,Wrong Order,Zomato,Medium,Resolved,250
+CP000442,O0006536,S014,06-03-2025,Missing Item,Swiggy,Low,Resolved,150
+CP000443,O0001759,S018,02-09-2025,Late Delivery,Zomato,Low,Escalated,200
+CP000444,O0034488,S029,11-11-2025,Late Delivery,Zomato,Low,Resolved,0
+CP000445,O0001999,S005,20-01-2025,Missing Item,Dine-in,Low,Resolved,75
+CP000446,O0023196,S017,31-05-2025,Food Quality,Zomato,Low,Resolved,0
+CP000447,O0027067,S006,22-04-2025,Late Delivery,Dine-in,Medium,Resolved,150
+CP000448,O0016212,S025,23-03-2025,Missing Item,Swiggy,Low,Resolved,200
+CP000449,O0012210,S023,27-09-2025,Billing Issue,Zomato,Low,Resolved,75
+CP000450,O0007529,S011,16-06-2025,Missing Item,Zomato,High,Resolved,0
+CP000451,O0035987,S026,23-07-2025,Missing Item,Swiggy,Low,Resolved,150
+CP000452,O0030449,S004,10-05-2025,Wrong Order,Swiggy,Low,Resolved,250
+CP000453,O0011246,S030,21-11-2025,Food Quality,Dine-in,Low,Resolved,100
+CP000454,O0027373,S022,17-02-2025,Late Delivery,Dine-in,High,Resolved,200
+CP000455,O0006198,S008,28-08-2025,Late Delivery,Dine-in,Low,Escalated,50
+CP000456,O0003584,S011,18-08-2025,Packaging,Zomato,Low,Pending,50
+CP000457,O0021603,S011,09-12-2025,Wrong Order,Zomato,Medium,Resolved,75
+CP000458,O0005154,S028,25-05-2025,Missing Item,Takeaway,High,Resolved,200
+CP000459,O0006704,S015,27-08-2025,Wrong Order,Zomato,Low,Pending,0
+CP000460,O0016505,S009,10-02-2025,Staff Behaviour,Takeaway,High,Resolved,0
+CP000461,O0016227,S013,08-06-2025,Missing Item,Takeaway,Low,Pending,150
+CP000462,O0022574,S024,09-01-2025,Late Delivery,Dine-in,Medium,Resolved,75
+CP000463,O0032683,S018,15-04-2025,Missing Item,Dine-in,Medium,Resolved,100
+CP000464,O0013937,S020,06-08-2025,Wrong Order,Swiggy,Medium,Resolved,0
+CP000465,O0030528,S018,28-01-2025,Packaging,Dine-in,Low,Resolved,0
+CP000466,O0002390,S027,13-01-2025,Staff Behaviour,Dine-in,Low,Resolved,0
+CP000467,O0031529,S018,02-04-2025,Packaging,Zomato,Medium,Resolved,100
+CP000468,O0018735,S024,18-04-2025,Late Delivery,Swiggy,Medium,Resolved,200
+CP000469,O0026279,S026,08-02-2025,Food Quality,Dine-in,Low,Escalated,250
+CP000470,O0025044,S017,24-08-2025,Missing Item,Dine-in,Medium,Resolved,200
+CP000471,O0012888,S026,23-04-2025,Packaging,Dine-in,Medium,Escalated,0
+CP000472,O0025923,S018,29-06-2025,Wrong Order,Zomato,Medium,Resolved,150
+CP000473,O0031138,S018,31-08-2025,Missing Item,Dine-in,High,Resolved,200
+CP000474,O0017724,S028,31-01-2025,Food Quality,Dine-in,Medium,Resolved,200
+CP000475,O0025608,S023,23-10-2025,Staff Behaviour,Dine-in,Low,Resolved,250
+CP000476,O0027523,S009,10-09-2025,Food Quality,Swiggy,High,Escalated,100
+CP000477,O0010842,S011,11-11-2025,Packaging,Zomato,Low,Pending,100
+CP000478,O0034363,S005,12-03-2025,Late Delivery,Swiggy,Medium,Escalated,50
+CP000479,O0028012,S030,25-08-2025,Staff Behaviour,Zomato,Low,Resolved,75
+CP000480,O0030892,S013,16-05-2025,Staff Behaviour,Swiggy,Medium,Escalated,0
+CP000481,O0005112,S003,25-06-2025,Food Quality,Swiggy,Medium,Resolved,200
+CP000482,O0036295,S005,11-12-2025,Late Delivery,Takeaway,Medium,Resolved,50
+CP000483,O0003367,S029,13-12-2025,Missing Item,Dine-in,Medium,Resolved,100
+CP000484,O0033760,S008,05-04-2025,Packaging,Dine-in,Medium,Escalated,150
+CP000485,O0003486,S014,14-10-2025,Billing Issue,Zomato,Low,Resolved,100
+CP000486,O0015473,S008,28-02-2025,Wrong Order,Zomato,Medium,Resolved,50
+CP000487,O0011633,S018,20-05-2025,Food Quality,Swiggy,Medium,Resolved,0
+CP000488,O0035871,S029,15-10-2025,Packaging,Dine-in,High,Resolved,0
+CP000489,O0015607,S016,03-12-2025,Packaging,Dine-in,High,Resolved,250
+CP000490,O0003531,S029,23-08-2025,Packaging,Dine-in,Low,Resolved,100
+CP000491,O0033071,S027,07-05-2025,Late Delivery,Dine-in,Medium,Escalated,0
+CP000492,O0031606,S019,05-03-2025,Food Quality,Dine-in,Low,Resolved,200
+CP000493,O0017370,S007,09-01-2025,Packaging,Zomato,Medium,Resolved,250
+CP000494,O0026569,S004,25-03-2025,Late Delivery,Swiggy,Medium,Resolved,0
+CP000495,O0026041,S012,11-01-2025,Late Delivery,Swiggy,Medium,Resolved,50
+CP000496,O0026739,S010,29-08-2025,Wrong Order,Swiggy,Medium,Pending,200
+CP000497,O0002233,S024,15-09-2025,Staff Behaviour,Dine-in,Medium,Resolved,200
+CP000498,O0034161,S020,22-06-2025,Late Delivery,Swiggy,Medium,Resolved,0
+CP000499,O0025051,S005,27-01-2025,Late Delivery,Dine-in,Low,Resolved,0
+CP000500,O0035236,S030,15-02-2025,Missing Item,Dine-in,Low,Resolved,200
+CP000501,O0001150,S026,31-01-2025,Late Delivery,Takeaway,High,Pending,150
+CP000502,O0018931,S019,26-12-2025,Food Quality,Takeaway,Low,Resolved,50
+CP000503,O0029511,S007,07-01-2025,Late Delivery,Dine-in,Low,Resolved,50
+CP000504,O0034717,S017,02-08-2025,Packaging,Dine-in,Medium,Resolved,200
+CP000505,O0003644,S021,11-08-2025,Food Quality,Dine-in,Low,Resolved,0
+CP000506,O0013815,S017,30-10-2025,Missing Item,Dine-in,Low,Resolved,200
+CP000507,O0037939,S006,06-01-2025,Billing Issue,Dine-in,High,Pending,0
+CP000508,O0015710,S021,24-06-2025,Food Quality,Dine-in,Medium,Resolved,75
+CP000509,O0017802,S015,23-09-2025,Late Delivery,Swiggy,Low,Resolved,0
+CP000510,O0011579,S009,28-01-2025,Missing Item,Swiggy,Medium,Resolved,75
+CP000511,O0020387,S014,23-09-2025,Billing Issue,Swiggy,High,Pending,0
+CP000512,O0019509,S009,19-09-2025,Wrong Order,Dine-in,Medium,Resolved,0
+CP000513,O0028439,S018,08-08-2025,Wrong Order,Dine-in,Medium,Pending,150
+CP000514,O0029501,S030,13-03-2025,Late Delivery,Zomato,Low,Resolved,200
+CP000515,O0036320,S025,24-10-2025,Late Delivery,Zomato,Medium,Resolved,100
+CP000516,O0037120,S024,28-05-2025,Missing Item,Dine-in,High,Resolved,50
+CP000517,O0034342,S009,25-12-2025,Wrong Order,Dine-in,Medium,Resolved,200
+CP000518,O0024103,S002,22-08-2025,Late Delivery,Swiggy,Low,Pending,100
+CP000519,O0005250,S026,04-05-2025,Wrong Order,Dine-in,Medium,Resolved,50
+CP000520,O0029028,S027,12-07-2025,Food Quality,Dine-in,Low,Resolved,0
+CP000521,O0038712,S027,18-05-2025,Late Delivery,Dine-in,Medium,Resolved,75
+CP000522,O0031153,S018,12-05-2025,Late Delivery,Dine-in,Medium,Resolved,200
+CP000523,O0031478,S017,22-01-2025,Late Delivery,Zomato,Medium,Resolved,200
+CP000524,O0012073,S026,29-04-2025,Late Delivery,Dine-in,Medium,Resolved,200
+CP000525,O0018389,S023,02-05-2025,Late Delivery,Takeaway,Medium,Resolved,100
+CP000526,O0011922,S009,29-09-2025,Late Delivery,Zomato,High,Pending,150
+CP000527,O0028346,S003,16-06-2025,Food Quality,Swiggy,Medium,Resolved,200
+CP000528,O0038285,S013,10-10-2025,Food Quality,Dine-in,Medium,Resolved,50
+CP000529,O0003677,S001,12-12-2025,Missing Item,Swiggy,Low,Resolved,150
+CP000530,O0024934,S020,25-11-2025,Wrong Order,Swiggy,Low,Resolved,250
+CP000531,O0032213,S021,28-01-2025,Late Delivery,Dine-in,High,Pending,150
+CP000532,O0035454,S024,28-02-2025,Packaging,Swiggy,Medium,Resolved,75
+CP000533,O0014562,S002,06-05-2025,Late Delivery,Dine-in,High,Resolved,75
+CP000534,O0036381,S026,30-05-2025,Late Delivery,Takeaway,Low,Resolved,100
+CP000535,O0002283,S002,21-04-2025,Late Delivery,Zomato,Medium,Resolved,0
+CP000536,O0009425,S004,03-11-2025,Late Delivery,Takeaway,Low,Resolved,50
+CP000537,O0000392,S023,21-10-2025,Wrong Order,Dine-in,Low,Resolved,0
+CP000538,O0012281,S022,29-03-2025,Food Quality,Dine-in,Low,Resolved,250
+CP000539,O0001160,S028,10-12-2025,Missing Item,Zomato,Medium,Resolved,250
+CP000540,O0026321,S001,13-07-2025,Packaging,Swiggy,Low,Resolved,0
+CP000541,O0009151,S025,24-09-2025,Food Quality,Dine-in,Low,Resolved,150
+CP000542,O0012613,S022,07-09-2025,Packaging,Zomato,Low,Resolved,0
+CP000543,O0003885,S025,17-09-2025,Late Delivery,Dine-in,Medium,Resolved,150
+CP000544,O0011218,S019,24-07-2025,Staff Behaviour,Zomato,Low,Resolved,0
+CP000545,O0035600,S008,11-09-2025,Late Delivery,Swiggy,Low,Resolved,75
+CP000546,O0022787,S002,21-03-2025,Food Quality,Zomato,Medium,Resolved,150
+CP000547,O0024220,S022,09-10-2025,Billing Issue,Zomato,Medium,Resolved,0
+CP000548,O0000758,S009,24-12-2025,Food Quality,Zomato,Medium,Resolved,250
+CP000549,O0027161,S027,26-11-2025,Late Delivery,Swiggy,Low,Resolved,0
+CP000550,O0010275,S013,01-05-2025,Late Delivery,Swiggy,Medium,Resolved,0
+CP000551,O0014133,S016,14-03-2025,Wrong Order,Swiggy,High,Resolved,250
+CP000552,O0037659,S020,30-10-2025,Wrong Order,Dine-in,Low,Resolved,75
+CP000553,O0010564,S029,01-05-2025,Late Delivery,Takeaway,Medium,Resolved,0
+CP000554,O0032666,S029,01-07-2025,Late Delivery,Swiggy,High,Resolved,0
+CP000555,O0024829,S008,01-05-2025,Wrong Order,Dine-in,Medium,Resolved,150
+CP000556,O0001425,S026,16-07-2025,Wrong Order,Dine-in,Medium,Resolved,200
+CP000557,O0001796,S003,23-08-2025,Food Quality,Swiggy,Medium,Resolved,200
+CP000558,O0033568,S018,17-09-2025,Packaging,Zomato,Low,Resolved,250
+CP000559,O0037440,S023,05-09-2025,Staff Behaviour,Swiggy,Low,Resolved,0
+CP000560,O0001748,S023,02-11-2025,Billing Issue,Swiggy,Medium,Pending,0
+CP000561,O0003513,S024,06-07-2025,Missing Item,Takeaway,Medium,Resolved,150
+CP000562,O0026071,S023,23-05-2025,Packaging,Zomato,Medium,Resolved,100
+CP000563,O0003779,S018,21-12-2025,Food Quality,Takeaway,Low,Escalated,200
+CP000564,O0009582,S027,10-05-2025,Wrong Order,Dine-in,Low,Resolved,200
+CP000565,O0036810,S010,08-07-2025,Packaging,Dine-in,Medium,Resolved,200
+CP000566,O0004623,S011,24-02-2025,Food Quality,Zomato,Low,Pending,250
+CP000567,O0033345,S011,24-03-2025,Late Delivery,Zomato,Low,Resolved,50
+CP000568,O0009416,S014,14-01-2025,Late Delivery,Zomato,Low,Pending,250
+CP000569,O0020289,S002,03-03-2025,Late Delivery,Dine-in,High,Resolved,75
+CP000570,O0019914,S019,29-05-2025,Wrong Order,Dine-in,Low,Resolved,250
+CP000571,O0015222,S020,29-03-2025,Packaging,Takeaway,Medium,Resolved,0
+CP000572,O0001776,S017,16-05-2025,Late Delivery,Zomato,Low,Resolved,100
+CP000573,O0034957,S015,24-12-2025,Late Delivery,Swiggy,Medium,Resolved,50
+CP000574,O0012930,S002,23-02-2025,Late Delivery,Swiggy,Medium,Resolved,0
+CP000575,O0021502,S024,05-11-2025,Missing Item,Zomato,Low,Resolved,200
+CP000576,O0025916,S022,10-01-2025,Food Quality,Dine-in,Medium,Resolved,0
+CP000577,O0038210,S030,21-10-2025,Food Quality,Swiggy,Low,Resolved,50
+CP000578,O0030484,S030,27-07-2025,Late Delivery,Zomato,High,Resolved,0
+CP000579,O0031281,S010,22-12-2025,Missing Item,Swiggy,Medium,Resolved,50
+CP000580,O0011670,S025,28-05-2025,Food Quality,Zomato,Medium,Resolved,75
+CP000581,O0007724,S015,24-03-2025,Late Delivery,Swiggy,Medium,Resolved,75
+CP000582,O0002364,S001,01-03-2025,Staff Behaviour,Swiggy,Medium,Resolved,0
+CP000583,O0031944,S015,23-06-2025,Late Delivery,Swiggy,Low,Resolved,250
+CP000584,O0016556,S022,12-02-2025,Packaging,Zomato,Medium,Resolved,50
+CP000585,O0004440,S009,17-09-2025,Late Delivery,Swiggy,Medium,Resolved,0
+CP000586,O0003047,S016,21-09-2025,Packaging,Zomato,Low,Resolved,0
+CP000587,O0034791,S020,18-06-2025,Missing Item,Zomato,Low,Pending,0
+CP000588,O0007221,S019,06-09-2025,Wrong Order,Zomato,Low,Resolved,150
+CP000589,O0037013,S022,28-11-2025,Late Delivery,Zomato,High,Resolved,75
+CP000590,O0002054,S011,27-05-2025,Late Delivery,Dine-in,Medium,Resolved,75
+CP000591,O0025387,S012,14-04-2025,Late Delivery,Swiggy,Medium,Pending,100
+CP000592,O0036147,S017,18-07-2025,Billing Issue,Zomato,Medium,Resolved,50
+CP000593,O0000298,S029,17-12-2025,Staff Behaviour,Swiggy,Low,Resolved,50
+CP000594,O0031720,S001,31-08-2025,Missing Item,Zomato,Medium,Pending,200
+CP000595,O0029493,S019,02-01-2025,Wrong Order,Takeaway,Low,Resolved,75
+CP000596,O0039220,S014,24-10-2025,Wrong Order,Dine-in,Low,Pending,0
+CP000597,O0023173,S027,10-10-2025,Missing Item,Dine-in,Medium,Resolved,0
+CP000598,O0014671,S026,01-09-2025,Late Delivery,Swiggy,Low,Resolved,200
+CP000599,O0024009,S020,10-02-2025,Missing Item,Swiggy,Medium,Resolved,200
+CP000600,O0038897,S028,14-03-2025,Food Quality,Takeaway,Medium,Pending,250
+CP000601,O0037482,S015,09-09-2025,Wrong Order,Zomato,Medium,Pending,100
+CP000602,O0006863,S019,07-11-2025,Food Quality,Swiggy,Medium,Resolved,250
+CP000603,O0022040,S020,07-11-2025,Late Delivery,Zomato,Low,Resolved,0
+CP000604,O0004664,S028,23-03-2025,Food Quality,Zomato,Low,Resolved,0
+CP000605,O0037687,S002,01-09-2025,Missing Item,Swiggy,Low,Resolved,100
+CP000606,O0024057,S010,24-01-2025,Wrong Order,Swiggy,Medium,Resolved,100
+CP000607,O0013478,S008,14-03-2025,Staff Behaviour,Zomato,High,Pending,0
+CP000608,O0032596,S019,30-06-2025,Wrong Order,Takeaway,Low,Resolved,0
+CP000609,O0032661,S025,25-11-2025,Staff Behaviour,Dine-in,Medium,Resolved,0
+CP000610,O0022465,S009,10-12-2025,Missing Item,Zomato,High,Resolved,0
+CP000611,O0028824,S029,07-05-2025,Late Delivery,Swiggy,Medium,Resolved,0
+CP000612,O0024106,S028,22-10-2025,Billing Issue,Zomato,Low,Resolved,50
+CP000613,O0013136,S029,10-12-2025,Staff Behaviour,Swiggy,Low,Resolved,0
+CP000614,O0003773,S030,29-04-2025,Packaging,Dine-in,Medium,Pending,0
+CP000615,O0006960,S003,26-06-2025,Food Quality,Dine-in,Medium,Resolved,0
+CP000616,O0016813,S026,19-02-2025,Missing Item,Dine-in,Medium,Resolved,200
+CP000617,O0001057,S020,05-11-2025,Missing Item,Swiggy,Medium,Resolved,50
+CP000618,O0019032,S009,15-10-2025,Packaging,Swiggy,Medium,Resolved,0
+CP000619,O0017972,S024,11-02-2025,Food Quality,Zomato,Medium,Resolved,100
+CP000620,O0029474,S023,18-04-2025,Missing Item,Zomato,High,Pending,200
+CP000621,O0007185,S021,30-10-2025,Packaging,Zomato,Medium,Pending,0
+CP000622,O0011192,S023,14-03-2025,Food Quality,Zomato,Low,Resolved,250
+CP000623,O0036111,S006,08-08-2025,Late Delivery,Dine-in,Medium,Resolved,0
+CP000624,O0034962,S005,22-09-2025,Late Delivery,Dine-in,Medium,Resolved,150
+CP000625,O0017103,S001,24-07-2025,Food Quality,Swiggy,Low,Resolved,0
+CP000626,O0032208,S019,07-06-2025,Missing Item,Zomato,Low,Pending,150
+CP000627,O0010890,S013,30-09-2025,Missing Item,Dine-in,Low,Resolved,0
+CP000628,O0010519,S026,14-12-2025,Missing Item,Dine-in,Low,Resolved,0
+CP000629,O0038279,S011,07-12-2025,Staff Behaviour,Zomato,Low,Resolved,100
+CP000630,O0001429,S023,01-10-2025,Missing Item,Swiggy,Medium,Pending,0
+CP000631,O0003924,S021,13-01-2025,Missing Item,Takeaway,Low,Resolved,100
+CP000632,O0021757,S017,09-01-2025,Food Quality,Dine-in,Low,Pending,0
+CP000633,O0016979,S020,22-05-2025,Late Delivery,Takeaway,Low,Resolved,0
+CP000634,O0002805,S002,15-08-2025,Missing Item,Swiggy,Low,Resolved,75
+CP000635,O0039541,S007,10-07-2025,Packaging,Zomato,Medium,Escalated,150
+CP000636,O0006621,S007,13-02-2025,Missing Item,Dine-in,High,Escalated,100
+CP000637,O0000489,S016,09-07-2025,Late Delivery,Zomato,High,Pending,150
+CP000638,O0034520,S024,29-09-2025,Late Delivery,Dine-in,Low,Resolved,100
+CP000639,O0019493,S003,10-09-2025,Wrong Order,Swiggy,Medium,Resolved,250
+CP000640,O0021514,S016,12-12-2025,Food Quality,Dine-in,Low,Pending,0
+CP000641,O0030013,S002,04-07-2025,Staff Behaviour,Zomato,Medium,Resolved,0
+CP000642,O0009692,S003,16-04-2025,Late Delivery,Dine-in,Medium,Resolved,0
+CP000643,O0022082,S023,15-06-2025,Food Quality,Dine-in,Low,Resolved,75
+CP000644,O0025292,S014,27-01-2025,Missing Item,Takeaway,Low,Resolved,200
+CP000645,O0000591,S023,17-09-2025,Food Quality,Zomato,Low,Resolved,150
+CP000646,O0034470,S003,18-10-2025,Billing Issue,Swiggy,Low,Resolved,50
+CP000647,O0022896,S020,12-08-2025,Packaging,Swiggy,Medium,Resolved,75
+CP000648,O0011887,S012,10-07-2025,Missing Item,Takeaway,Medium,Resolved,0
+CP000649,O0031100,S009,18-01-2025,Missing Item,Dine-in,Low,Resolved,250
+CP000650,O0039221,S001,27-04-2025,Packaging,Zomato,Low,Resolved,250
+CP000651,O0026195,S027,23-06-2025,Missing Item,Zomato,Low,Escalated,75
+CP000652,O0030676,S002,21-04-2025,Food Quality,Dine-in,Medium,Resolved,50
+CP000653,O0006519,S017,24-08-2025,Late Delivery,Swiggy,High,Resolved,200
+CP000654,O0006472,S025,27-12-2025,Billing Issue,Swiggy,Low,Pending,150
+CP000655,O0014981,S015,30-06-2025,Missing Item,Swiggy,Medium,Resolved,250
+CP000656,O0024895,S015,05-12-2025,Wrong Order,Dine-in,High,Resolved,100
+CP000657,O0029607,S015,22-12-2025,Staff Behaviour,Zomato,High,Pending,0
+CP000658,O0023251,S002,30-11-2025,Wrong Order,Zomato,Medium,Resolved,200
+CP000659,O0019766,S017,20-11-2025,Food Quality,Dine-in,Low,Resolved,150
+CP000660,O0008682,S017,30-06-2025,Missing Item,Zomato,Medium,Pending,250
+CP000661,O0033343,S023,30-04-2025,Food Quality,Swiggy,Low,Resolved,0
+CP000662,O0023076,S011,30-12-2025,Missing Item,Takeaway,Low,Resolved,50
+CP000663,O0015046,S014,09-05-2025,Late Delivery,Dine-in,Medium,Resolved,0
+CP000664,O0029078,S002,08-06-2025,Wrong Order,Dine-in,Medium,Pending,100
+CP000665,O0035823,S028,26-07-2025,Food Quality,Swiggy,Low,Resolved,0
+CP000666,O0023977,S020,14-08-2025,Food Quality,Swiggy,Low,Resolved,0
+CP000667,O0031832,S011,10-09-2025,Missing Item,Swiggy,Medium,Resolved,100
+CP000668,O0007567,S014,12-09-2025,Staff Behaviour,Dine-in,Low,Resolved,75
+CP000669,O0030344,S013,23-07-2025,Food Quality,Dine-in,Medium,Pending,0
+CP000670,O0029758,S009,11-01-2025,Late Delivery,Takeaway,Medium,Resolved,100
+CP000671,O0031119,S016,19-02-2025,Packaging,Dine-in,Low,Resolved,0
+CP000672,O0034805,S009,11-06-2025,Food Quality,Swiggy,Medium,Pending,75
+CP000673,O0006611,S007,18-04-2025,Wrong Order,Dine-in,Low,Escalated,75
+CP000674,O0001914,S004,21-09-2025,Late Delivery,Zomato,Medium,Pending,100
+CP000675,O0026273,S020,17-07-2025,Billing Issue,Dine-in,Low,Resolved,250
+CP000676,O0038288,S012,23-12-2025,Late Delivery,Swiggy,Low,Escalated,50
+CP000677,O0001022,S027,06-11-2025,Missing Item,Dine-in,Medium,Resolved,250
+CP000678,O0027336,S011,21-06-2025,Late Delivery,Takeaway,Low,Pending,100
+CP000679,O0009643,S005,25-11-2025,Late Delivery,Zomato,Medium,Resolved,100
+CP000680,O0011534,S006,12-11-2025,Late Delivery,Dine-in,Low,Resolved,200
+CP000681,O0013247,S020,21-06-2025,Late Delivery,Zomato,Medium,Resolved,75
+CP000682,O0037772,S025,07-03-2025,Late Delivery,Swiggy,Low,Resolved,100
+CP000683,O0008537,S013,14-06-2025,Billing Issue,Swiggy,Medium,Resolved,150
+CP000684,O0014940,S026,25-04-2025,Missing Item,Swiggy,High,Pending,0
+CP000685,O0003010,S030,04-11-2025,Food Quality,Dine-in,Low,Resolved,200
+CP000686,O0009149,S027,20-12-2025,Food Quality,Swiggy,Medium,Resolved,0
+CP000687,O0008307,S030,02-06-2025,Wrong Order,Zomato,Low,Escalated,0
+CP000688,O0039089,S004,02-03-2025,Billing Issue,Zomato,Low,Resolved,100
+CP000689,O0010855,S019,21-11-2025,Late Delivery,Dine-in,Low,Resolved,0
+CP000690,O0031285,S003,15-03-2025,Food Quality,Swiggy,Medium,Pending,50
+CP000691,O0000935,S022,02-08-2025,Staff Behaviour,Zomato,Low,Escalated,0
+CP000692,O0000080,S010,22-11-2025,Food Quality,Zomato,Low,Resolved,250
+CP000693,O0004671,S027,20-07-2025,Wrong Order,Dine-in,Medium,Resolved,75
+CP000694,O0005384,S029,06-02-2025,Food Quality,Zomato,Medium,Escalated,250
+CP000695,O0028814,S021,30-09-2025,Late Delivery,Swiggy,Medium,Resolved,0
+CP000696,O0032336,S023,14-10-2025,Packaging,Swiggy,Low,Pending,200
+CP000697,O0000510,S009,24-11-2025,Late Delivery,Zomato,Low,Pending,150
+CP000698,O0002600,S030,23-08-2025,Missing Item,Zomato,Low,Resolved,200
+CP000699,O0004510,S010,14-04-2025,Food Quality,Swiggy,Low,Resolved,100
+CP000700,O0036832,S016,16-10-2025,Late Delivery,Zomato,Medium,Resolved,0
+CP000701,O0023279,S008,23-11-2025,Packaging,Swiggy,Low,Resolved,100
+CP000702,O0009600,S001,05-11-2025,Wrong Order,Takeaway,Low,Resolved,50
+CP000703,O0019095,S022,29-07-2025,Missing Item,Swiggy,Medium,Resolved,200
+CP000704,O0035220,S030,11-11-2025,Food Quality,Swiggy,Low,Resolved,75
+CP000705,O0021540,S029,29-03-2025,Late Delivery,Dine-in,Low,Resolved,50
+CP000706,O0036362,S013,26-06-2025,Late Delivery,Dine-in,Low,Resolved,250
+CP000707,O0003216,S030,18-09-2025,Late Delivery,Zomato,High,Escalated,50
+CP000708,O0018628,S018,13-05-2025,Missing Item,Dine-in,High,Resolved,0
+CP000709,O0009260,S007,15-10-2025,Missing Item,Zomato,Low,Escalated,50
+CP000710,O0032164,S010,23-05-2025,Wrong Order,Dine-in,High,Pending,0
+CP000711,O0033391,S008,15-02-2025,Food Quality,Swiggy,Medium,Resolved,50
+CP000712,O0014926,S015,21-01-2025,Late Delivery,Swiggy,Low,Resolved,200
+CP000713,O0039819,S022,19-11-2025,Missing Item,Zomato,Low,Resolved,250
+CP000714,O0009323,S009,27-06-2025,Late Delivery,Dine-in,Medium,Pending,200
+CP000715,O0018936,S005,25-12-2025,Missing Item,Swiggy,Medium,Resolved,200
+CP000716,O0001609,S008,11-09-2025,Food Quality,Zomato,Low,Pending,200
+CP000717,O0016424,S016,31-01-2025,Late Delivery,Zomato,Medium,Resolved,100
+CP000718,O0020655,S021,28-04-2025,Packaging,Dine-in,Medium,Resolved,0
+CP000719,O0018061,S012,21-05-2025,Packaging,Zomato,Medium,Resolved,50
+CP000720,O0028259,S003,02-02-2025,Food Quality,Zomato,Low,Resolved,0
+CP000721,O0016096,S017,02-04-2025,Staff Behaviour,Swiggy,Medium,Resolved,250
+CP000722,O0012603,S009,18-09-2025,Wrong Order,Swiggy,Medium,Resolved,0
+CP000723,O0039168,S008,22-12-2025,Food Quality,Zomato,Medium,Escalated,250
+CP000724,O0013290,S015,24-11-2025, billing issue ,Takeaway,Medium,Pending,0
+CP000725,O0027211,S008,06-11-2025,Billing Issue,Swiggy,High,Resolved,0
+CP000726,O0001774,S019,02-05-2025,Late Delivery,Dine-in,Medium,Resolved,0
+CP000727,O0013034,S024,20-11-2025,Late Delivery,Takeaway,Medium,Resolved,50
+CP000728,O0017238,S008,18-10-2025,Wrong Order,Swiggy,Low,Resolved,200
+CP000729,O0032641,S021,19-04-2025,Billing Issue,Zomato,Medium,Resolved,200
+CP000730,O0030795,S004,25-01-2025,Late Delivery,Dine-in,Medium,Resolved,50
+CP000731,O0019729,S022,25-11-2025,Late Delivery,Zomato,Medium,Resolved,100
+CP000732,O0010743,S006,08-09-2025,Late Delivery,Dine-in,Low,Resolved,200
+CP000733,O0035346,S027,31-10-2025,Food Quality,Swiggy,Low,Resolved,200
+CP000734,O0033156,S023,16-05-2025,Wrong Order,Dine-in,Low,Resolved,250
+CP000735,O0032638,S015,31-01-2025,Late Delivery,Swiggy,Low,Pending,0
+CP000736,O0002337,S029,06-12-2025,Wrong Order,Dine-in,Medium,Escalated,250
+CP000737,O0032268,S018,03-11-2025,Food Quality,Swiggy,Medium,Resolved,100
+CP000738,O0001906,S008,14-03-2025,Missing Item,Swiggy,High,Escalated,75
+CP000739,O0002826,S028,03-09-2025,Late Delivery,Takeaway,Low,Resolved,200
+CP000740,O0032078,S025,03-07-2025,Wrong Order,Swiggy,Low,Escalated,0
+CP000741,O0024981,S018,27-02-2025,Wrong Order,Zomato,Medium,Pending,150
+CP000742,O0027446,S003,16-04-2025,Wrong Order,Dine-in,Medium,Escalated,50
+CP000743,O0024295,S021,13-03-2025,Late Delivery,Dine-in,Low,Resolved,100
+CP000744,O0016041,S006,11-06-2025,Food Quality,Swiggy,High,Resolved,50
+CP000745,O0028806,S019,10-10-2025,Late Delivery,Zomato,Medium,Resolved,50
+CP000746,O0007940,S001,12-02-2025,Late Delivery,Dine-in,Low,Resolved,250
+CP000747,O0029666,S014,04-07-2025,Food Quality,Swiggy,Medium,Resolved,0
+CP000748,O0015733,S012,14-01-2025,Missing Item,Zomato,Medium,Escalated,0
+CP000749,O0023062,S019,23-07-2025,Late Delivery,Zomato,High,Resolved,250
+CP000750,O0029210,S018,08-07-2025,Food Quality,Dine-in,Medium,Pending,0
+CP000751,O0022497,S018,24-01-2025,Late Delivery,Zomato,High,Resolved,0
+CP000752,O0020232,S024,18-11-2025,Missing Item,Zomato,High,Resolved,0
+CP000753,O0013457,S011,11-05-2025,Packaging,Zomato,Medium,Resolved,0
+CP000754,O0021488,S019,20-08-2025,Late Delivery,Zomato,Low,Pending,75
+CP000755,O0009755,S027,04-03-2025,Wrong Order,Dine-in,Low,Resolved,0
+CP000756,O0036664,S007,23-04-2025,Wrong Order,Dine-in,Medium,Pending,100
+CP000757,O0010283,S010,22-11-2025,Food Quality,Dine-in,Medium,Resolved,75
+CP000758,O0004059,S028,02-05-2025,Food Quality,Zomato,Medium,Resolved,250
+CP000759,O0006994,S009,11-06-2025,Packaging,Swiggy,Medium,Resolved,150
+CP000760,O0004854,S023,20-10-2025,Missing Item,Zomato,Low,Resolved,75
+CP000761,O0011034,S022,25-08-2025,Food Quality,Dine-in,Low,Escalated,150
+CP000762,O0029893,S021,22-06-2025, food quality ,Swiggy,Medium,Pending,250
+CP000763,O0022993,S024,16-05-2025,Late Delivery,Dine-in,Medium,Resolved,0
+CP000764,O0037442,S017,02-07-2025,Packaging,Swiggy,High,Resolved,100
+CP000765,O0039098,S008,27-06-2025,Missing Item,Takeaway,Low,Resolved,250
+CP000766,O0029507,S016,24-11-2025,Packaging,Swiggy,Medium,Resolved,150
+CP000767,O0004781,S015,08-05-2025,Packaging,Dine-in,Low,Resolved,100
+CP000768,O0004551,S019,10-04-2025,Food Quality,Dine-in,Low,Resolved,0
+CP000769,O0037407,S002,15-11-2025,Wrong Order,Dine-in,Low,Resolved,150
+CP000770,O0037151,S016,01-09-2025,Missing Item,Dine-in,High,Resolved,0
+CP000771,O0009937,S026,20-12-2025,Staff Behaviour,Dine-in,Medium,Resolved,0
+CP000772,O0011113,S015,11-08-2025,Late Delivery,Dine-in,Medium,Resolved,200
+CP000773,O0012522,S028,03-01-2025,Late Delivery,Zomato,Medium,Escalated,0
+CP000774,O0017368,S020,27-10-2025,Food Quality,Dine-in,Low,Resolved,0
+CP000775,O0034547,S007,18-04-2025,Staff Behaviour,Swiggy,Low,Resolved,100
+CP000776,O0023072,S021,09-06-2025,Food Quality,Swiggy,High,Pending,250
+CP000777,O0003397,S011,30-07-2025,Missing Item,Swiggy,Low,Resolved,250
+CP000778,O0016634,S013,09-10-2025,Missing Item,Swiggy,High,Escalated,100
+CP000779,O0019220,S011,01-12-2025,Wrong Order,Zomato,Medium,Escalated,0
+CP000780,O0005777,S027,15-10-2025,Billing Issue,Zomato,Medium,Resolved,50
+CP000781,O0004212,S028,03-06-2025,Billing Issue,Zomato,Medium,Resolved,0
+CP000782,O0026075,S023,28-05-2025,Staff Behaviour,Dine-in,Medium,Resolved,250
+CP000783,O0037865,S017,02-10-2025,Late Delivery,Zomato,Low,Resolved,100
+CP000784,O0012384,S008,06-07-2025,Late Delivery,Takeaway,Low,Pending,0
+CP000785,O0015029,S001,21-06-2025,Billing Issue,Dine-in,Medium,Resolved,50
+CP000786,O0006657,S030,22-03-2025,Billing Issue,Dine-in,Medium,Resolved,200
+CP000787,O0039643,S029,25-10-2025,Late Delivery,Zomato,Medium,Resolved,200
+CP000788,O0039161,S020,28-09-2025,Food Quality,Swiggy,Low,Resolved,150
+CP000789,O0017080,S029,16-06-2025,Late Delivery,Swiggy,Medium,Resolved,0
+CP000790,O0001272,S013,20-05-2025,Food Quality,Swiggy,High,Resolved,0
+CP000791,O0031779,S026,23-12-2025,Staff Behaviour,Dine-in,Medium,Escalated,0
+CP000792,O0031731,S007,21-07-2025,Billing Issue,Zomato,Medium,Resolved,75
+CP000793,O0022990,S013,12-02-2025,Food Quality,Swiggy,High,Resolved,250
+CP000794,O0009942,S027,14-09-2025,Billing Issue,Zomato,Low,Resolved,0
+CP000795,O0031348,S024,30-07-2025,Missing Item,Dine-in,Low,Pending,75
+CP000796,O0004048,S014,10-03-2025,Missing Item,Dine-in,Low,Pending,200
+CP000797,O0013476,S018,03-06-2025,Packaging,Swiggy,Low,Resolved,200
+CP000798,O0013912,S015,20-01-2025,Food Quality,Dine-in,Low,Resolved,200
+CP000799,O0033315,S010,06-12-2025,Late Delivery,Dine-in,Medium,Resolved,150
+CP000800,O0005515,S004,28-06-2025,Late Delivery,Swiggy,Low,Resolved,200
+CP000801,O0022915,S030,05-08-2025,Food Quality,Dine-in,Low,Resolved,0
+CP000802,O0004155,S026,27-04-2025,Staff Behaviour,Zomato,Medium,Resolved,0
+CP000803,O0017026,S028,23-03-2025,Wrong Order,Dine-in,Low,Resolved,0
+CP000804,O0038633,S025,05-07-2025,Packaging,Swiggy,Low,Resolved,75
+CP000805,O0019656,S014,24-01-2025,Missing Item,Swiggy,Low,Resolved,100
+CP000806,O0027982,S004,16-11-2025,Wrong Order,Swiggy,Low,Resolved,0
+CP000807,O0007078,S024,06-03-2025,Billing Issue,Swiggy,High,Escalated,200
+CP000808,O0029007,S022,16-05-2025,Late Delivery,Dine-in,High,Resolved,75
+CP000809,O0005540,S027,10-03-2025,Food Quality,Dine-in,Low,Resolved,150
+CP000810,O0022493,S019,24-05-2025,Packaging,Dine-in,Medium,Resolved,200
+CP000811,O0004339,S017,30-12-2025,Staff Behaviour,Dine-in,Medium,Resolved,150
+CP000812,O0029112,S008,03-01-2025,Missing Item,Zomato,Medium,Pending,0
+CP000813,O0021633,S030,11-03-2025,Staff Behaviour,Swiggy,Medium,Resolved,100
+CP000814,O0013543,S006,16-07-2025,Food Quality,Swiggy,High,Pending,50
+CP000815,O0004543,S005,01-06-2025,Late Delivery,Swiggy,High,Pending,0
+CP000816,O0020361,S029,24-04-2025,Wrong Order,Swiggy,Medium,Resolved,75
+CP000817,O0022483,S004,09-06-2025,Staff Behaviour,Dine-in,Low,Escalated,200
+CP000818,O0020345,S012,15-03-2025,Late Delivery,Dine-in,Low,Resolved,50
+CP000819,O0018646,S011,19-04-2025,Late Delivery,Swiggy,Medium,Resolved,150
+CP000820,O0027031,S022,03-01-2025,Billing Issue,Swiggy,Medium,Pending,100
+CP000821,O0036008,S028,20-10-2025,Packaging,Swiggy,Low,Resolved,75
+CP000822,O0039154,S012,06-10-2025,Packaging,Dine-in,Medium,Resolved,200
+CP000823,O0018001,S004,13-07-2025,Late Delivery,Swiggy,Medium,Resolved,0
+CP000824,O0009111,S014,23-02-2025,Food Quality,Dine-in,Low,Pending,150
+CP000825,O0037333,S028,25-07-2025,Food Quality,Dine-in,Medium,Resolved,75
+CP000826,O0037263,S010,04-04-2025,Staff Behaviour,Swiggy,Low,Resolved,150
+CP000827,O0039865,S030,29-08-2025,Food Quality,Dine-in,Medium,Resolved,250
+CP000828,O0002296,S021,03-09-2025,Late Delivery,Swiggy,High,Resolved,0
+CP000829,O0018718,S019,21-12-2025,Food Quality,Dine-in,Medium,Resolved,250
+CP000830,O0000597,S015,07-11-2025,Packaging,Zomato,Low,Resolved,250
+CP000831,O0017742,S012,19-09-2025,Late Delivery,Dine-in,Medium,Resolved,100
+CP000832,O0013423,S015,22-02-2025,Packaging,Dine-in,Low,Pending,0
+CP000833,O0003262,S011,01-11-2025,Wrong Order,Zomato,Medium,Resolved,100
+CP000834,O0016745,S025,09-01-2025,Food Quality,Zomato,Medium,Resolved,200
+CP000835,O0034261,S013,21-08-2025,Late Delivery,Takeaway,High,Resolved,200
+CP000836,O0021141,S003,07-02-2025,Missing Item,Swiggy,Low,Resolved,100
+CP000837,O0014612,S011,25-03-2025,Late Delivery,Dine-in,Medium,Resolved,0
+CP000838,O0026180,S024,14-04-2025,Missing Item,Dine-in,Medium,Resolved,150
+CP000839,O0020918,S023,24-10-2025,Packaging,Dine-in,Low,Resolved,250
+CP000840,O0016754,S009,28-05-2025,Late Delivery,Zomato,Low,Resolved,75
+CP000841,O0031423,S025,10-08-2025,Late Delivery,Dine-in,Low,Resolved,100
+CP000842,O0024176,S025,13-09-2025,Late Delivery,Zomato,Low,Escalated,200
+CP000843,O0014540,S009,24-07-2025,Packaging,Zomato,Medium,Resolved,150
+CP000844,O0030024,S029,16-09-2025,Late Delivery,Zomato,High,Resolved,150
+CP000845,O0024346,S003,14-01-2025,Food Quality,Zomato,Low,Pending,100
+CP000846,O0010136,S012,21-07-2025,Billing Issue,Swiggy,Low,Resolved,0
+CP000847,O0030518,S009,13-02-2025,Late Delivery,Dine-in,High,Resolved,0
+CP000848,O0032315,S028,06-05-2025,Food Quality,Dine-in,Low,Pending,0
+CP000849,O0036951,S002,16-01-2025,Missing Item,Dine-in,High,Resolved,0
+CP000850,O0033903,S020,05-07-2025,Billing Issue,Zomato,Medium,Resolved,250
+CP000851,O0039412,S003,29-11-2025, late delivery ,Zomato,Low,Escalated,50
+CP000852,O0009726,S029,19-06-2025,Wrong Order,Zomato,Low,Resolved,0
+CP000853,O0037990,S008,12-03-2025,Late Delivery,Zomato,High,Resolved,0
+CP000854,O0034989,S026,06-11-2025,Food Quality,Dine-in,Low,Resolved,0
+CP000855,O0035994,S029,16-08-2025,Food Quality,Swiggy,Low,Resolved,250
+CP000856,O0004654,S008,25-10-2025,Food Quality,Zomato,Low,Resolved,150
+CP000857,O0028434,S011,08-12-2025,Missing Item,Zomato,Low,Resolved,200
+CP000858,O0003827,S026,05-06-2025,Missing Item,Takeaway,Medium,Resolved,100
+CP000859,O0036819,S005,20-08-2025,Missing Item,Dine-in,Low,Resolved,0
+CP000860,O0034986,S006,06-04-2025,Late Delivery,Zomato,Low,Resolved,0
+CP000861,O0028656,S024,14-07-2025,Billing Issue,Dine-in,Low,Resolved,0
+CP000862,O0004220,S017,02-07-2025,Packaging,Takeaway,High,Resolved,0
+CP000863,O0027919,S024,17-08-2025,Food Quality,Zomato,Medium,Resolved,100
+CP000864,O0008770,S018,16-04-2025,Missing Item,Zomato,Low,Resolved,0
+CP000865,O0035669,S008,29-09-2025,Late Delivery,Dine-in,Low,Pending,250
+CP000866,O0004813,S013,28-02-2025,Late Delivery,Dine-in,Medium,Resolved,150
+CP000867,O0039583,S004,27-08-2025,Late Delivery,Zomato,Medium,Resolved,250
+CP000868,O0003096,S026,08-11-2025,Food Quality,Dine-in,Medium,Resolved,50
+CP000869,O0028323,S005,26-08-2025,Food Quality,Zomato,Low,Resolved,0
+CP000870,O0012664,S012,18-06-2025,Missing Item,Zomato,Low,Resolved,200
+CP000871,O0003179,S024,16-11-2025,Late Delivery,Zomato,Low,Resolved,150
+CP000872,O0032389,S005,19-10-2025,Billing Issue,Zomato,Low,Resolved,200
+CP000873,O0017035,S013,10-05-2025,Late Delivery,Swiggy,Medium,Resolved,0
+CP000874,O0036010,S009,29-01-2025,Wrong Order,Swiggy,Medium,Resolved,250
+CP000875,O0039829,S015,24-09-2025,Missing Item,Dine-in,Low,Resolved,50
+CP000876,O0022355,S024,24-06-2025,Wrong Order,Zomato,Low,Pending,0
+CP000877,O0032949,S027,14-09-2025,Food Quality,Dine-in,Low,Resolved,50
+CP000878,O0038368,S016,11-12-2025,Late Delivery,Dine-in,Low,Resolved,100
+CP000879,O0023805,S024,09-11-2025,Food Quality,Dine-in,Medium,Resolved,200
+CP000880,O0013213,S003,01-07-2025,Wrong Order,Dine-in,Medium,Resolved,50
+CP000881,O0020590,S026,16-10-2025,Food Quality,Zomato,Medium,Resolved,0
+CP000882,O0024146,S016,15-07-2025,Late Delivery,Takeaway,Medium,Resolved,200
+CP000883,O0001578,S003,16-10-2025,Late Delivery,Dine-in,High,Resolved,0
+CP000884,O0000086,S001,07-08-2025,Wrong Order,Swiggy,Medium,Resolved,0
+CP000885,O0020602,S020,09-04-2025,Late Delivery,Dine-in,Medium,Pending,0
+CP000886,O0033286,S015,09-12-2025,Missing Item,Swiggy,High,Resolved,0
+CP000887,O0009510,S023,03-06-2025,Wrong Order,Takeaway,Medium,Escalated,0
+CP000888,O0036857,S008,28-05-2025,Billing Issue,Dine-in,Low,Resolved,75
+CP000889,O0019681,S019,25-05-2025,Wrong Order,Zomato,Low,Escalated,100
+CP000890,O0010605,S010,24-06-2025,Food Quality,Takeaway,Low,Resolved,150
+CP000891,O0032628,S011,22-11-2025,Late Delivery,Dine-in,Medium,Resolved,0
+CP000892,O0014846,S002,24-09-2025,Staff Behaviour,Dine-in,Low,Resolved,50
+CP000893,O0030799,S015,13-12-2025,Late Delivery,Dine-in,Low,Resolved,50
+CP000894,O0018307,S027,17-11-2025,Late Delivery,Swiggy,Low,Resolved,250
+CP000895,O0036034,S023,27-04-2025,Late Delivery,Takeaway,Low,Pending,0
+CP000896,O0017854,S020,28-05-2025,Billing Issue,Dine-in,Medium,Resolved,250
+CP000897,O0026367,S005,28-01-2025,Wrong Order,Swiggy,Medium,Resolved,50
+CP000898,O0036662,S023,23-04-2025, food quality ,Zomato,High,Resolved,100
+CP000899,O0003748,S018,05-08-2025,Missing Item,Dine-in,Low,Resolved,250
+CP000900,O0024502,S015,17-12-2025,Missing Item,Zomato,Low,Resolved,250
+CP000901,O0038520,S021,26-01-2025,Missing Item,Swiggy,High,Resolved,0
+CP000902,O0016956,S009,03-01-2025,Food Quality,Dine-in,Low,Resolved,0
+CP000903,O0004243,S020,05-08-2025,Billing Issue,Zomato,Medium,Resolved,75
+CP000904,O0026202,S012,26-09-2025,Wrong Order,Takeaway,High,Resolved,0
+CP000905,O0030445,S011,03-08-2025,Late Delivery,Zomato,Medium,Resolved,100
+CP000906,O0014859,S020,19-12-2025,Food Quality,Swiggy,Low,Resolved,0
+CP000907,O0033516,S025,01-05-2025,Wrong Order,Dine-in,Medium,Resolved,200
+CP000908,O0013250,S006,19-11-2025,Late Delivery,Swiggy,Low,Resolved,100
+CP000909,O0022379,S025,09-02-2025,Missing Item,Zomato,Medium,Resolved,75
+CP000910,O0004874,S005,04-06-2025,Food Quality,Dine-in,High,Escalated,0
+CP000911,O0017808,S024,05-02-2025,Missing Item,Dine-in,High,Resolved,100
+CP000912,O0018414,S017,11-12-2025,Wrong Order,Swiggy,Low,Resolved,150
+CP000913,O0004114,S013,27-04-2025,Food Quality,Zomato,Low,Resolved,75
+CP000914,O0033247,S025,22-07-2025,Missing Item,Zomato,Medium,Pending,100
+CP000915,O0026510,S008,07-08-2025,Packaging,Swiggy,Medium,Resolved,50
+CP000916,O0000320,S017,07-12-2025,Missing Item,Dine-in,Low,Resolved,0
+CP000917,O0018346,S009,13-03-2025,Food Quality,Swiggy,Medium,Resolved,200
+CP000918,O0034628,S002,07-10-2025,Staff Behaviour,Swiggy,Low,Resolved,75
+CP000919,O0038452,S015,08-07-2025,Billing Issue,Zomato,Medium,Resolved,0
+CP000920,O0011321,S006,17-09-2025,Missing Item,Takeaway,Medium,Resolved,0
+CP000921,O0001232,S012,01-05-2025,Food Quality,Swiggy,Medium,Resolved,200
+CP000922,O0020023,S024,16-04-2025,Staff Behaviour,Takeaway,Low,Escalated,150
+CP000923,O0033448,S013,14-02-2025,Missing Item,Dine-in,Low,Resolved,0
+CP000924,O0039184,S004,23-11-2025,Wrong Order,Swiggy,High,Escalated,0
+CP000925,O0005148,S023,13-08-2025,Food Quality,Zomato,High,Resolved,0
+CP000926,O0038221,S026,17-06-2025,Staff Behaviour,Dine-in,Medium,Resolved,0
+CP000927,O0010634,S006,31-01-2025,Late Delivery,Swiggy,Medium,Escalated,150
+CP000928,O0010940,S027,10-03-2025,Food Quality,Zomato,Medium,Resolved,75
+CP000929,O0016020,S024,27-10-2025,Staff Behaviour,Swiggy,Medium,Resolved,75
+CP000930,O0025344,S003,15-05-2025,Late Delivery,Takeaway,Medium,Resolved,50
+CP000931,O0034037,S029,03-07-2025,Food Quality,Dine-in,Low,Resolved,0
+CP000932,O0007895,S028,24-11-2025,Missing Item,Swiggy,Low,Resolved,250
+CP000933,O0028749,S024,21-07-2025,Missing Item,Zomato,Low,Resolved,75
+CP000934,O0000283,S011,14-07-2025,Packaging,Zomato,Low,Resolved,75
+CP000935,O0026340,S001,13-10-2025,Missing Item,Takeaway,Medium,Resolved,50
+CP000936,O0026490,S022,17-07-2025,Late Delivery,Swiggy,Low,Resolved,0
+CP000937,O0007973,S004,17-02-2025,Wrong Order,Dine-in,Low,Resolved,0
+CP000938,O0028864,S024,17-07-2025,Wrong Order,Swiggy,Medium,Resolved,200
+CP000939,O0007605,S017,08-08-2025,Billing Issue,Zomato,Medium,Resolved,200
+CP000940,O0007219,S025,22-09-2025,Food Quality,Dine-in,Low,Pending,150
+CP000941,O0014175,S024,11-09-2025,Missing Item,Swiggy,Low,Resolved,100
+CP000942,O0002864,S017,30-09-2025,Late Delivery,Swiggy,Low,Escalated,150
+CP000943,O0009139,S014,13-08-2025,Food Quality,Zomato,High,Resolved,200
+CP000944,O0004801,S014,23-07-2025,Late Delivery,Zomato,High,Resolved,50
+CP000945,O0005664,S022,09-08-2025, billing issue ,Swiggy,Medium,Escalated,75
+CP000946,O0038275,S010,02-06-2025,Food Quality,Swiggy,Low,Resolved,50
+CP000947,O0011125,S007,21-02-2025,Missing Item,Zomato,Low,Resolved,200
+CP000948,O0022884,S025,11-09-2025,Late Delivery,Takeaway,Medium,Resolved,100
+CP000949,O0033718,S003,26-07-2025,Food Quality,Takeaway,Medium,Resolved,0
+CP000950,O0002906,S018,22-10-2025,Late Delivery,Takeaway,Medium,Resolved,150
+CP000951,O0008812,S006,05-09-2025,Late Delivery,Zomato,Medium,Escalated,250
+CP000952,O0020714,S030,31-03-2025,Food Quality,Dine-in,Medium,Resolved,0
+CP000953,O0014243,S022,02-03-2025,Packaging,Zomato,Medium,Resolved,150
+CP000954,O0000828,S022,20-12-2025,Packaging,Swiggy,Medium,Resolved,250
+CP000955,O0031492,S001,21-05-2025,Food Quality,Zomato,Medium,Resolved,0
+CP000956,O0005667,S024,12-03-2025,Staff Behaviour,Swiggy,Medium,Escalated,0
+CP000957,O0037800,S010,06-06-2025,Wrong Order,Zomato,Low,Pending,75
+CP000958,O0023177,S020,07-09-2025,Staff Behaviour,Zomato,Low,Resolved,200
+CP000959,O0013298,S013,05-03-2025,Food Quality,Swiggy,Medium,Resolved,0
+CP000960,O0007234,S014,19-09-2025,Late Delivery,Takeaway,Medium,Resolved,75
+CP000961,O0039816,S019,13-11-2025,Late Delivery,Swiggy,Medium,Resolved,0
+CP000962,O0035612,S017,12-01-2025,Food Quality,Swiggy,Low,Resolved,75
+CP000963,O0026497,S016,02-12-2025,Missing Item,Dine-in,Medium,Resolved,0
+CP000964,O0026434,S015,01-07-2025,Wrong Order,Zomato,Low,Pending,0
+CP000965,O0004845,S002,13-09-2025,Food Quality,Dine-in,Low,Resolved,150
+CP000966,O0014187,S002,06-12-2025,Wrong Order,Zomato,High,Pending,75
+CP000967,O0015890,S016,07-04-2025,Late Delivery,Swiggy,Medium,Resolved,0
+CP000968,O0007114,S024,24-09-2025,Packaging,Dine-in,Medium,Resolved,0
+CP000969,O0039971,S017,21-09-2025,Missing Item,Dine-in,Medium,Pending,200
+CP000970,O0020877,S030,15-10-2025,Late Delivery,Takeaway,Low,Resolved,0
+CP000971,O0036486,S010,31-01-2025,Packaging,Takeaway,Medium,Resolved,150
+CP000972,O0037884,S018,29-10-2025,Late Delivery,Dine-in,Medium,Resolved,250
+CP000973,O0025369,S019,21-07-2025,Food Quality,Zomato,Medium,Resolved,0
+CP000974,O0003943,S019,16-02-2025,Packaging,Zomato,Low,Resolved,0
+CP000975,O0038566,S002,05-06-2025,Staff Behaviour,Zomato,Low,Resolved,200
+CP000976,O0010852,S008,21-05-2025,Wrong Order,Dine-in,Low,Resolved,250
+CP000977,O0003720,S007,22-06-2025,Late Delivery,Zomato,Low,Resolved,0
+CP000978,O0023905,S015,05-09-2025,Missing Item,Swiggy,High,Escalated,150
+CP000979,O0015296,S010,13-04-2025,Late Delivery,Zomato,Low,Resolved,0
+CP000980,O0008049,S013,02-01-2025, missing item ,Swiggy,Medium,Resolved,150
+CP000981,O0039746,S002,11-01-2025,Packaging,Zomato,High,Resolved,200
+CP000982,O0027970,S008,06-08-2025,Food Quality,Zomato,Medium,Resolved,100
+CP000983,O0003985,S025,23-10-2025,Food Quality,Zomato,Medium,Pending,200
+CP000984,O0037774,S027,12-04-2025,Late Delivery,Zomato,Low,Pending,0
+CP000985,O0010697,S023,31-03-2025,Staff Behaviour,Dine-in,Medium,Resolved,150
+CP000986,O0013468,S007,05-10-2025,Food Quality,Swiggy,High,Resolved,50
+CP000987,O0008255,S018,23-06-2025,Late Delivery,Zomato,Low,Resolved,100
+CP000988,O0030609,S024,15-05-2025,Wrong Order,Dine-in,Medium,Resolved,0
+CP000989,O0000109,S003,10-06-2025,Late Delivery,Zomato,Low,Resolved,50
+CP000990,O0035722,S019,28-10-2025,Late Delivery,Dine-in,Low,Resolved,75
+CP000991,O0021354,S001,06-02-2025,Packaging,Dine-in,Low,Resolved,150
+CP000992,O0038973,S012,08-04-2025,Late Delivery,Dine-in,Medium,Resolved,0
+CP000993,O0039923,S025,16-08-2025,Missing Item,Dine-in,Low,Resolved,0
+CP000994,O0019424,S015,07-05-2025,Food Quality,Zomato,Low,Resolved,0
+CP000995,O0007856,S030,20-03-2025,Packaging,Swiggy,Low,Resolved,200
+CP000996,O0033900,S027,16-10-2025,Missing Item,Zomato,Medium,Resolved,250
+CP000997,O0037315,S014,04-05-2025,Food Quality,Takeaway,Medium,Resolved,50
+CP000998,O0019284,S011,12-11-2025,Staff Behaviour,Zomato,Medium,Resolved,75
+CP000999,O0039886,S009,17-05-2025,Missing Item,Swiggy,Low,Resolved,75
+CP001000,O0011358,S024,29-09-2025,Late Delivery,Zomato,Low,Resolved,250
+CP001001,O0020864,S008,09-04-2025,Food Quality,Dine-in,Low,Resolved,150
+CP001002,O0030021,S014,23-06-2025,Missing Item,Takeaway,Low,Pending,100
+CP001003,O0012354,S002,15-04-2025,Late Delivery,Takeaway,Low,Pending,0
+CP001004,O0022130,S008,31-12-2025,Food Quality,Zomato,Medium,Resolved,0
+CP001005,O0017613,S010,06-01-2025,Missing Item,Zomato,Low,Resolved,50
+CP001006,O0006916,S001,26-08-2025,Late Delivery,Swiggy,Medium,Pending,50
+CP001007,O0023983,S011,03-08-2025,Missing Item,Dine-in,Low,Resolved,0
+CP001008,O0006706,S009,20-08-2025,Packaging,Dine-in,Medium,Resolved,100
+CP001009,O0000415,S006,08-11-2025,Billing Issue,Swiggy,Low,Resolved,0
+CP001010,O0023886,S017,10-05-2025,Late Delivery,Swiggy,Medium,Resolved,200
+CP001011,O0033461,S003,24-04-2025,Missing Item,Dine-in,Low,Escalated,0
+CP001012,O0007370,S020,12-06-2025,Packaging,Swiggy,Low,Resolved,50
+CP001013,O0034489,S029,11-09-2025,Late Delivery,Dine-in,Low,Resolved,0
+CP001014,O0020139,S025,07-01-2025,Wrong Order,Zomato,High,Escalated,200
+CP001015,O0038759,S026,11-09-2025,Food Quality,Takeaway,Low,Escalated,0
+CP001016,O0012885,S004,17-05-2025,Late Delivery,Zomato,Low,Resolved,0
+CP001017,O0000940,S008,29-07-2025,Late Delivery,Swiggy,Low,Resolved,200
+CP001018,O0035511,S012,31-03-2025,Missing Item,Swiggy,Low,Resolved,0
+CP001019,O0017395,S012,31-10-2025,Food Quality,Zomato,Medium,Resolved,100
+CP001020,O0039345,S011,27-10-2025,Wrong Order,Zomato,High,Resolved,0
+CP001021,O0023510,S027,06-03-2025,Late Delivery,Zomato,Medium,Resolved,100
+CP001022,O0017847,S010,09-03-2025,Packaging,Zomato,Medium,Resolved,150
+CP001023,O0002658,S019,14-12-2025,Billing Issue,Swiggy,Medium,Resolved,200
+CP001024,O0003300,S017,24-08-2025,Late Delivery,Swiggy,Low,Resolved,150
+CP001025,O0009573,S002,08-11-2025,Late Delivery,Swiggy,Low,Pending,0
+CP001026,O0015336,S024,14-05-2025,Wrong Order,Zomato,Medium,Resolved,250
+CP001027,O0010214,S020,13-09-2025,Billing Issue,Dine-in,High,Resolved,250
+CP001028,O0023207,S015,24-04-2025,Food Quality,Zomato,High,Escalated,150
+CP001029,O0014557,S012,15-05-2025,Late Delivery,Swiggy,Low,Escalated,0
+CP001030,O0025435,S024,03-12-2025,Wrong Order,Zomato,Low,Pending,250
+CP001031,O0031853,S022,30-05-2025,Billing Issue,Swiggy,Low,Resolved,200
+CP001032,O0028731,S005,01-08-2025,Wrong Order,Zomato,Medium,Resolved,50
+CP001033,O0030548,S020,03-08-2025,Late Delivery,Zomato,Medium,Resolved,0
+CP001034,O0038787,S018,01-09-2025,Missing Item,Swiggy,Medium,Resolved,50
+CP001035,O0010433,S013,13-05-2025,Food Quality,Dine-in,Low,Resolved,150
+CP001036,O0021870,S023,18-03-2025,Food Quality,Swiggy,Low,Resolved,250
+CP001037,O0022480,S023,20-09-2025,Billing Issue,Dine-in,High,Resolved,150
+CP001038,O0012409,S013,24-05-2025,Missing Item,Dine-in,Medium,Pending,50
+CP001039,O0001534,S006,25-06-2025,Food Quality,Dine-in,High,Pending,75
+CP001040,O0018850,S011,22-10-2025,Packaging,Swiggy,High,Resolved,50
+CP001041,O0033379,S004,16-12-2025,Late Delivery,Swiggy,Medium,Resolved,200
+CP001042,O0019298,S010,05-03-2025,Missing Item,Swiggy,Medium,Resolved,200
+CP001043,O0012060,S021,23-12-2025,Packaging,Zomato,Medium,Resolved,0
+CP001044,O0034763,S014,28-11-2025,Wrong Order,Dine-in,High,Resolved,50
+CP001045,O0037247,S016,26-01-2025,Wrong Order,Zomato,Medium,Resolved,0
+CP001046,O0038170,S022,21-12-2025,Food Quality,Dine-in,Low,Resolved,0
+CP001047,O0035747,S006,25-06-2025,Food Quality,Dine-in,Low,Resolved,150
+CP001048,O0030044,S014,22-11-2025,Food Quality,Dine-in,Medium,Pending,200
+CP001049,O0035778,S015,16-01-2025,Late Delivery,Dine-in,Low,Resolved,0
+CP001050,O0030266,S020,22-10-2025, late delivery ,Dine-in,Medium,Resolved,50
+CP001051,O0017446,S015,25-01-2025,Missing Item,Swiggy,Low,Resolved,100
+CP001052,O0001013,S010,23-06-2025,Late Delivery,Zomato,Medium,Resolved,150
+CP001053,O0039312,S026,16-03-2025,Late Delivery,Zomato,High,Resolved,250
+CP001054,O0022126,S007,11-05-2025,Food Quality,Dine-in,Low,Resolved,250
+CP001055,O0032613,S007,05-01-2025,Missing Item,Zomato,Medium,Resolved,200
+CP001056,O0020009,S028,07-07-2025,Packaging,Zomato,Low,Pending,200
+CP001057,O0035851,S007,13-04-2025,Wrong Order,Dine-in,Medium,Resolved,0
+CP001058,O0024758,S002,28-05-2025,Food Quality,Swiggy,High,Resolved,200
+CP001059,O0029017,S018,10-02-2025,Packaging,Swiggy,Low,Resolved,0
+CP001060,O0002822,S023,17-03-2025,Late Delivery,Takeaway,Medium,Resolved,150
+CP001061,O0013481,S017,14-11-2025,Missing Item,Swiggy,Medium,Resolved,0
+CP001062,O0026010,S002,27-07-2025,Packaging,Dine-in,Medium,Resolved,0
+CP001063,O0016607,S016,10-01-2025,Food Quality,Dine-in,Medium,Resolved,150
+CP001064,O0015517,S024,18-08-2025,Late Delivery,Swiggy,Medium,Resolved,200
+CP001065,O0011285,S003,28-09-2025,Billing Issue,Swiggy,Low,Resolved,0
+CP001066,O0038322,S018,24-09-2025,Billing Issue,Dine-in,Low,Resolved,0
+CP001067,O0021019,S008,25-05-2025,Wrong Order,Dine-in,Low,Pending,0
+CP001068,O0023198,S006,27-02-2025,Missing Item,Takeaway,Low,Resolved,250
+CP001069,O0036920,S018,26-05-2025,Food Quality,Dine-in,Medium,Escalated,250
+CP001070,O0014619,S007,29-05-2025,Missing Item,Takeaway,Low,Escalated,200
+CP001071,O0015815,S011,09-03-2025,Staff Behaviour,Dine-in,Low,Resolved,200
+CP001072,O0001482,S028,12-07-2025,Missing Item,Swiggy,Low,Resolved,250
+CP001073,O0000057,S030,04-07-2025,Packaging,Dine-in,Low,Resolved,0
+CP001074,O0038720,S008,21-04-2025,Food Quality,Dine-in,Medium,Resolved,0
+CP001075,O0017547,S004,11-08-2025,Late Delivery,Zomato,High,Resolved,250
+CP001076,O0023644,S016,07-10-2025,Billing Issue,Swiggy,Medium,Resolved,0
+CP001077,O0004547,S019,01-02-2025,Packaging,Zomato,Low,Resolved,0
+CP001078,O0017505,S028,30-01-2025,Late Delivery,Takeaway,Low,Resolved,50
+CP001079,O0022211,S019,31-10-2025,Staff Behaviour,Dine-in,Low,Resolved,0
+CP001080,O0018854,S017,25-12-2025,Late Delivery,Zomato,Medium,Resolved,0
+CP001081,O0000862,S021,11-04-2025,Late Delivery,Takeaway,Medium,Pending,100
+CP001082,O0005103,S020,27-03-2025,Late Delivery,Swiggy,Low,Escalated,0
+CP001083,O0024950,S026,19-11-2025,Billing Issue,Dine-in,Medium,Resolved,0
+CP001084,O0039025,S012,17-11-2025,Missing Item,Dine-in,Medium,Resolved,75
+CP001085,O0026096,S023,09-04-2025,Wrong Order,Swiggy,Low,Resolved,0
+CP001086,O0037932,S022,12-05-2025,Packaging,Swiggy,Medium,Resolved,100
+CP001087,O0031602,S023,26-04-2025,Food Quality,Swiggy,High,Resolved,0
+CP001088,O0017564,S005,31-05-2025,Wrong Order,Swiggy,Medium,Resolved,75
+CP001089,O0012946,S014,04-07-2025,Food Quality,Zomato,Low,Pending,150
+CP001090,O0026191,S002,31-03-2025,Missing Item,Dine-in,Medium,Resolved,75
+CP001091,O0030388,S004,18-12-2025,Wrong Order,Zomato,Low,Resolved,0
+CP001092,O0004459,S015,06-10-2025,Late Delivery,Dine-in,Low,Escalated,100
+CP001093,O0030150,S016,16-01-2025,Missing Item,Dine-in,Low,Resolved,0
+CP001094,O0015461,S018,17-11-2025,Late Delivery,Swiggy,High,Resolved,100
+CP001095,O0003496,S001,28-08-2025,Wrong Order,Dine-in,Low,Pending,0
+CP001096,O0020641,S012,07-01-2025,Food Quality,Zomato,Low,Resolved,0
+CP001097,O0003469,S005,03-12-2025,Late Delivery,Zomato,Low,Resolved,250
+CP001098,O0019792,S007,16-09-2025,Late Delivery,Swiggy,Low,Resolved,50
+CP001099,O0018743,S010,02-03-2025,Missing Item,Dine-in,Low,Resolved,50
+CP001100,O0017805,S027,01-02-2025,Late Delivery,Dine-in,High,Pending,0
+CP001101,O0021817,S011,23-09-2025,Wrong Order,Swiggy,High,Resolved,250
+CP001102,O0036938,S026,23-09-2025,Billing Issue,Takeaway,Low,Resolved,100
+CP001103,O0025997,S027,05-12-2025,Wrong Order,Zomato,Medium,Resolved,100
+CP001104,O0023947,S012,18-06-2025,Billing Issue,Swiggy,High,Resolved,0
+CP001105,O0003038,S018,14-11-2025,Packaging,Takeaway,Low,Resolved,0
+CP001106,O0038085,S003,25-12-2025,Missing Item,Swiggy,High,Resolved,250
+CP001107,O0012505,S029,18-06-2025,Staff Behaviour,Dine-in,Medium,Escalated,0
+CP001108,O0004609,S020,08-08-2025,Late Delivery,Takeaway,Low,Pending,200
+CP001109,O0013596,S022,19-05-2025,Missing Item,Swiggy,Medium,Pending,50
+CP001110,O0015763,S013,10-10-2025,Food Quality,Dine-in,High,Resolved,250
+CP001111,O0006943,S027,02-02-2025,Missing Item,Dine-in,Medium,Resolved,50
+CP001112,O0006225,S006,06-11-2025,Food Quality,Zomato,Medium,Resolved,200
+CP001113,O0030883,S012,14-06-2025,Food Quality,Dine-in,High,Resolved,0
+CP001114,O0031027,S024,12-01-2025,Missing Item,Zomato,High,Resolved,100
+CP001115,O0005865,S027,14-12-2025,Food Quality,Swiggy,Low,Pending,200
+CP001116,O0026314,S026,25-04-2025, food quality ,Swiggy,Medium,Resolved,250
+CP001117,O0037387,S009,14-03-2025,Late Delivery,Takeaway,Medium,Resolved,100
+CP001118,O0022420,S027,16-06-2025,Late Delivery,Dine-in,High,Resolved,75
+CP001119,O0020748,S005,08-05-2025,Late Delivery,Zomato,High,Resolved,0
+CP001120,O0012007,S010,07-01-2025,Food Quality,Swiggy,Low,Resolved,100
+CP001121,O0039799,S009,18-06-2025,Late Delivery,Dine-in,Low,Resolved,0
+CP001122,O0001847,S001,18-09-2025,Billing Issue,Dine-in,Low,Resolved,150
+CP001123,O0002520,S018,16-10-2025,Late Delivery,Zomato,Medium,Resolved,200
+CP001124,O0013875,S028,11-09-2025,Staff Behaviour,Dine-in,Low,Pending,0
+CP001125,O0009201,S008,19-12-2025,Food Quality,Swiggy,Medium,Resolved,150
+CP001126,O0019500,S030,03-02-2025,Late Delivery,Dine-in,Low,Pending,250
+CP001127,O0021811,S019,31-08-2025,Billing Issue,Dine-in,Medium,Resolved,200
+CP001128,O0004824,S021,18-12-2025,Late Delivery,Takeaway,Low,Resolved,0
+CP001129,O0038663,S006,24-02-2025,Missing Item,Zomato,Medium,Resolved,0
+CP001130,O0035191,S023,05-05-2025,Wrong Order,Swiggy,Low,Resolved,250
+CP001131,O0038211,S020,16-05-2025,Food Quality,Dine-in,Medium,Resolved,75
+CP001132,O0016542,S021,05-07-2025,Missing Item,Takeaway,Low,Resolved,200
+CP001133,O0016471,S013,24-01-2025,Packaging,Zomato,Medium,Resolved,100
+CP001134,O0010432,S024,09-10-2025,Missing Item,Swiggy,Low,Resolved,200
+CP001135,O0000009,S012,22-05-2025,Late Delivery,Dine-in,High,Resolved,0
+CP001136,O0013744,S024,08-11-2025,Late Delivery,Swiggy,Low,Pending,0
+CP001137,O0007819,S025,18-10-2025,Late Delivery,Zomato,Low,Resolved,0
+CP001138,O0020842,S013,29-08-2025,Wrong Order,Zomato,High,Resolved,150
+CP001139,O0030418,S013,26-06-2025,Packaging,Dine-in,Medium,Resolved,200
+CP001140,O0019645,S012,12-11-2025,Missing Item,Swiggy,High,Pending,0
+CP001141,O0032240,S012,25-10-2025,Late Delivery,Swiggy,Low,Resolved,100
+CP001142,O0003822,S029,16-06-2025,Wrong Order,Swiggy,Low,Resolved,50
+CP001143,O0021777,S030,04-02-2025,Wrong Order,Swiggy,Low,Resolved,150
+CP001144,O0020392,S015,23-12-2025,Late Delivery,Dine-in,High,Resolved,150
+CP001145,O0023029,S005,19-06-2025,Staff Behaviour,Swiggy,Low,Resolved,200
+CP001146,O0019951,S018,30-01-2025,Late Delivery,Dine-in,Low,Escalated,100
+CP001147,O0015828,S003,10-07-2025,Late Delivery,Dine-in,Medium,Pending,250
+CP001148,O0032939,S014,18-08-2025,Missing Item,Swiggy,Low,Resolved,200
+CP001149,O0017988,S012,09-03-2025,Food Quality,Takeaway,Medium,Resolved,0
+CP001150,O0008261,S006,28-09-2025,Late Delivery,Zomato,Low,Resolved,50
+CP001151,O0014049,S030,13-12-2025,Late Delivery,Swiggy,Medium,Resolved,0
+CP001152,O0003384,S015,15-12-2025,Food Quality,Swiggy,Medium,Resolved,50
+CP001153,O0007998,S018,17-11-2025,Food Quality,Dine-in,Low,Resolved,150
+CP001154,O0016302,S006,16-01-2025,Staff Behaviour,Swiggy,Medium,Escalated,0
+CP001155,O0024832,S022,29-11-2025,Late Delivery,Zomato,Medium,Resolved,150
+CP001156,O0002576,S001,19-07-2025,Wrong Order,Dine-in,High,Resolved,250
+CP001157,O0019908,S005,29-08-2025,Missing Item,Dine-in,Medium,Resolved,0
+CP001158,O0031373,S025,17-08-2025,Late Delivery,Dine-in,Medium,Resolved,50
+CP001159,O0038129,S010,13-05-2025,Billing Issue,Dine-in,Medium,Escalated,0
+CP001160,O0011363,S006,05-09-2025,Missing Item,Swiggy,Medium,Resolved,50
+CP001161,O0002565,S008,07-09-2025,Billing Issue,Dine-in,High,Resolved,75
+CP001162,O0039159,S012,17-02-2025,Late Delivery,Zomato,Low,Resolved,0
+CP001163,O0033349,S025,29-06-2025,Packaging,Zomato,Medium,Pending,0
+CP001164,O0018616,S023,17-11-2025,Packaging,Dine-in,Medium,Resolved,200
+CP001165,O0011845,S012,04-11-2025,Wrong Order,Dine-in,Medium,Pending,200
+CP001166,O0007377,S018,30-09-2025,Billing Issue,Dine-in,High,Resolved,100
+CP001167,O0028188,S004,05-10-2025,Missing Item,Swiggy,Low,Resolved,0
+CP001168,O0037573,S009,16-12-2025,Missing Item,Zomato,Medium,Resolved,0
+CP001169,O0028708,S002,25-05-2025,Wrong Order,Zomato,Low,Resolved,75
+CP001170,O0028999,S025,12-06-2025,Missing Item,Swiggy,Low,Resolved,0
+CP001171,O0006905,S016,21-06-2025,Food Quality,Dine-in,Medium,Pending,50
+CP001172,O0005004,S006,03-11-2025,Missing Item,Zomato,Low,Resolved,75
+CP001173,O0028010,S029,22-07-2025,Staff Behaviour,Swiggy,Low,Resolved,75
+CP001174,O0014111,S026,13-11-2025,Late Delivery,Zomato,Medium,Resolved,150
+CP001175,O0014965,S001,04-09-2025,Staff Behaviour,Swiggy,Medium,Resolved,0
+CP001176,O0036843,S021,22-07-2025,Wrong Order,Dine-in,Low,Resolved,200
+CP001177,O0002548,S003,14-06-2025,Wrong Order,Dine-in,Low,Resolved,100
+CP001178,O0026910,S009,24-09-2025,Packaging,Dine-in,Medium,Resolved,100
+CP001179,O0010036,S030,01-02-2025,Missing Item,Swiggy,Low,Resolved,0
+CP001180,O0029387,S030,28-09-2025,Staff Behaviour,Zomato,High,Resolved,0
+CP001181,O0034721,S023,20-05-2025,Late Delivery,Swiggy,Medium,Resolved,75
+CP001182,O0011089,S024,28-04-2025,Food Quality,Dine-in,High,Escalated,200
+CP001183,O0032736,S020,15-07-2025,Staff Behaviour,Dine-in,Medium,Resolved,200
+CP001184,O0027913,S029,12-04-2025,Late Delivery,Dine-in,Low,Resolved,100
+CP001185,O0030814,S022,28-12-2025,Missing Item,Swiggy,Low,Resolved,150
+CP001186,O0024921,S015,29-03-2025,Missing Item,Swiggy,Low,Resolved,50
+CP001187,O0005970,S002,19-11-2025,Missing Item,Swiggy,Medium,Resolved,0
+CP001188,O0015520,S021,21-04-2025,Missing Item,Dine-in,Low,Resolved,200
+CP001189,O0000613,S022,25-07-2025,Wrong Order,Zomato,High,Pending,150
+CP001190,O0011985,S012,24-10-2025,Late Delivery,Dine-in,Low,Resolved,200
+CP001191,O0037700,S008,06-11-2025,Missing Item,Dine-in,Low,Pending,75
+CP001192,O0009688,S015,06-11-2025,Late Delivery,Zomato,Low,Resolved,0
+CP001193,O0039800,S022,21-09-2025,Staff Behaviour,Swiggy,Medium,Resolved,75
+CP001194,O0011994,S020,26-05-2025,Billing Issue,Zomato,Medium,Resolved,75
+CP001195,O0037605,S024,07-01-2025,Food Quality,Dine-in,Low,Resolved,50
+CP001196,O0000094,S007,16-01-2025,Late Delivery,Takeaway,Medium,Resolved,200
+CP001197,O0003714,S016,08-07-2025,Packaging,Dine-in,Low,Resolved,100
+CP001198,O0019248,S022,04-04-2025,Late Delivery,Swiggy,Low,Pending,0
+CP001199,O0016601,S008,12-01-2025,Packaging,Swiggy,Low,Resolved,50
+CP001200,O0030990,S028,01-04-2025,Food Quality,Dine-in,Medium,Resolved,50
+CP001201,O0037041,S014,28-05-2025,Wrong Order,Dine-in,High,Resolved,75
+CP001202,O0000051,S016,28-10-2025,Late Delivery,Zomato,Low,Resolved,100
+CP001203,O0022710,S005,08-05-2025,Wrong Order,Dine-in,High,Resolved,250
+CP001204,O0008134,S006,29-06-2025,Missing Item,Takeaway,Low,Resolved,0
+CP001205,O0039850,S021,02-08-2025,Late Delivery,Swiggy,Medium,Pending,0
+CP001206,O0009574,S001,30-07-2025,Billing Issue,Takeaway,Low,Resolved,75
+CP001207,O0024183,S020,20-11-2025,Food Quality,Dine-in,Medium,Pending,50
+CP001208,O0017829,S018,26-09-2025,Late Delivery,Swiggy,Medium,Resolved,200
+CP001209,O0002311,S026,21-10-2025,Missing Item,Zomato,High,Resolved,150
+CP001210,O0037657,S005,27-02-2025,Wrong Order,Dine-in,Medium,Resolved,250
+CP001211,O0027359,S003,08-08-2025,Staff Behaviour,Swiggy,Medium,Pending,250
+CP001212,O0029482,S024,09-04-2025,Staff Behaviour,Dine-in,High,Pending,0
+CP001213,O0023720,S019,22-05-2025,Wrong Order,Swiggy,Medium,Resolved,0
+CP001214,O0006311,S003,10-07-2025,Food Quality,Zomato,Medium,Resolved,50
+CP001215,O0002274,S020,31-12-2025,Packaging,Swiggy,Low,Pending,0
+CP001216,O0017385,S003,11-02-2025,Wrong Order,Dine-in,Medium,Resolved,0
+CP001217,O0012635,S016,20-06-2025,Missing Item,Zomato,Medium,Escalated,50
+CP001218,O0020703,S016,07-12-2025,Packaging,Dine-in,Low,Resolved,200
+CP001219,O0007663,S016,19-01-2025,Late Delivery,Swiggy,Low,Resolved,0
+CP001220,O0007194,S004,01-01-2025,Late Delivery,Dine-in,Medium,Resolved,0
+CP001221,O0018337,S020,15-10-2025,Food Quality,Swiggy,Medium,Resolved,0
+CP001222,O0029570,S021,03-05-2025,Staff Behaviour,Dine-in,Medium,Resolved,0
+CP001223,O0025650,S030,10-10-2025,Missing Item,Zomato,Medium,Resolved,50
+CP001224,O0017973,S022,25-09-2025,Food Quality,Dine-in,Low,Resolved,100
+CP001225,O0034764,S017,01-07-2025,Staff Behaviour,Zomato,Low,Pending,50
+CP001226,O0030538,S009,18-08-2025,Missing Item,Zomato,Medium,Resolved,150
+CP001227,O0038929,S001,27-12-2025,Wrong Order,Dine-in,Low,Pending,0
+CP001228,O0033795,S018,01-05-2025,Food Quality,Takeaway,Low,Resolved,75
+CP001229,O0020659,S005,22-11-2025,Food Quality,Swiggy,Low,Resolved,75
+CP001230,O0020723,S021,25-05-2025,Missing Item,Swiggy,Low,Resolved,100
+CP001231,O0032502,S008,12-05-2025,Late Delivery,Zomato,Medium,Pending,50
+CP001232,O0017170,S009,04-02-2025,Food Quality,Dine-in,Medium,Resolved,100
+CP001233,O0022233,S018,11-10-2025,Late Delivery,Takeaway,Medium,Resolved,100
+CP001234,O0039446,S009,30-12-2025,Late Delivery,Dine-in,Low,Resolved,250
+CP001235,O0013505,S030,21-03-2025,Packaging,Dine-in,Medium,Resolved,0
+CP001236,O0036834,S003,10-08-2025,Wrong Order,Swiggy,Medium,Resolved,200
+CP001237,O0026022,S005,19-12-2025,Packaging,Dine-in,Low,Resolved,75
+CP001238,O0007727,S024,22-01-2025,Food Quality,Swiggy,Medium,Escalated,150
+CP001239,O0002872,S014,24-11-2025,Packaging,Dine-in,Medium,Resolved,50
+CP001240,O0016425,S019,07-10-2025,Food Quality,Dine-in,Medium,Resolved,100
+CP001241,O0036687,S010,09-11-2025,Wrong Order,Zomato,Low,Resolved,0
+CP001242,O0036599,S015,05-05-2025,Late Delivery,Dine-in,Medium,Resolved,250
+CP001243,O0030394,S020,10-08-2025,Missing Item,Dine-in,Low,Resolved,50
+CP001244,O0017785,S015,26-04-2025,Food Quality,Swiggy,Medium,Resolved,0
+CP001245,O0018728,S005,09-01-2025,Food Quality,Swiggy,Low,Resolved,50
+CP001246,O0022508,S018,23-05-2025,Billing Issue,Takeaway,Low,Resolved,0
+CP001247,O0036153,S020,02-01-2025,Billing Issue,Zomato,Low,Resolved,0
+CP001248,O0015568,S003,23-05-2025,Food Quality,Dine-in,Low,Resolved,0
+CP001249,O0021411,S020,08-02-2025,Food Quality,Zomato,Medium,Resolved,250
+CP001250,O0023447,S017,12-03-2025,Late Delivery,Zomato,Medium,Resolved,0
+CP001251,O0012417,S027,26-09-2025,Late Delivery,Zomato,Low,Resolved,0
+CP001252,O0024424,S025,13-07-2025,Late Delivery,Zomato,Low,Resolved,0
+CP001253,O0024729,S008,14-01-2025,Late Delivery,Dine-in,Low,Resolved,150
+CP001254,O0018982,S024,09-07-2025,Billing Issue,Zomato,Medium,Resolved,250
+CP001255,O0001880,S024,04-05-2025,Billing Issue,Dine-in,High,Resolved,50
+CP001256,O0018508,S028,22-05-2025,Late Delivery,Zomato,High,Resolved,0
+CP001257,O0008554,S014,17-05-2025,Billing Issue,Dine-in,Medium,Resolved,200
+CP001258,O0015409,S009,05-07-2025,Late Delivery,Swiggy,High,Resolved,250
+CP001259,O0023563,S001,01-08-2025,Late Delivery,Zomato,Low,Resolved,75
+CP001260,O0034160,S017,12-11-2025,Missing Item,Dine-in,High,Pending,0
+CP001261,O0026625,S005,28-02-2025,Food Quality,Swiggy,Medium,Resolved,0
+CP001262,O0012146,S007,08-05-2025,Late Delivery,Dine-in,Medium,Resolved,150
+CP001263,O0005729,S004,22-01-2025,Billing Issue,Swiggy,Medium,Resolved,100
+CP001264,O0011999,S014,22-06-2025,Missing Item,Dine-in,Medium,Resolved,0
+CP001265,O0017326,S009,07-12-2025,Food Quality,Zomato,Low,Resolved,0
+CP001266,O0015063,S020,12-03-2025,Late Delivery,Dine-in,High,Resolved,75
+CP001267,O0005783,S011,05-01-2025,Late Delivery,Takeaway,High,Resolved,200
+CP001268,O0000671,S011,17-05-2025,Late Delivery,Takeaway,Medium,Escalated,50
+CP001269,O0011460,S012,23-03-2025,Food Quality,Zomato,Low,Resolved,75
+CP001270,O0036988,S013,27-12-2025,Packaging,Dine-in,Low,Escalated,0
+CP001271,O0025068,S005,08-03-2025,Wrong Order,Dine-in,Medium,Resolved,50
+CP001272,O0037715,S020,01-11-2025,Billing Issue,Dine-in,Low,Resolved,75
+CP001273,O0022482,S005,04-04-2025,Food Quality,Takeaway,Medium,Resolved,150
+CP001274,O0016466,S021,08-10-2025,Food Quality,Zomato,Medium,Resolved,150
+CP001275,O0006322,S011,15-04-2025,Billing Issue,Takeaway,Low,Resolved,0
+CP001276,O0005448,S018,04-05-2025,Missing Item,Dine-in,Medium,Resolved,100
+CP001277,O0024172,S016,16-08-2025,Wrong Order,Swiggy,Medium,Resolved,150
+CP001278,O0006851,S029,30-09-2025,Wrong Order,Dine-in,Low,Resolved,75
+CP001279,O0019968,S016,25-04-2025,Late Delivery,Swiggy,High,Pending,0
+CP001280,O0015291,S010,07-05-2025,Wrong Order,Swiggy,High,Pending,75
+CP001281,O0010821,S014,10-05-2025,Staff Behaviour,Swiggy,Low,Resolved,0
+CP001282,O0002453,S020,11-11-2025,Wrong Order,Swiggy,Medium,Pending,75
+CP001283,O0032918,S017,29-10-2025,Late Delivery,Dine-in,Medium,Resolved,200
+CP001284,O0036598,S013,15-01-2025,Billing Issue,Dine-in,Low,Resolved,200
+CP001285,O0030003,S006,06-11-2025,Wrong Order,Dine-in,Low,Pending,0
+CP001286,O0032301,S028,19-09-2025,Late Delivery,Dine-in,Low,Resolved,75
+CP001287,O0009499,S001,12-02-2025,Missing Item,Zomato,Medium,Resolved,75
+CP001288,O0024744,S022,10-02-2025,Food Quality,Zomato,Medium,Resolved,0
+CP001289,O0001499,S026,23-08-2025,Billing Issue,Dine-in,Medium,Resolved,75
+CP001290,O0037595,S020,03-01-2025,Wrong Order,Swiggy,High,Resolved,75
+CP001291,O0007916,S011,04-01-2025,Late Delivery,Zomato,Low,Resolved,0
+CP001292,O0017671,S026,18-09-2025,Missing Item,Zomato,Medium,Resolved,50
+CP001293,O0005502,S002,30-09-2025,Wrong Order,Swiggy,High,Escalated,50
+CP001294,O0000641,S029,15-09-2025,Missing Item,Swiggy,Medium,Resolved,250
+CP001295,O0036038,S016,24-01-2025,Food Quality,Zomato,Medium,Resolved,250
+CP001296,O0036618,S015,28-12-2025,Missing Item,Dine-in,High,Escalated,250
+CP001297,O0037880,S014,22-04-2025,Wrong Order,Swiggy,Low,Pending,0
+CP001298,O0012782,S029,20-04-2025,Food Quality,Zomato,Low,Resolved,0
+CP001299,O0005730,S025,28-05-2025,Staff Behaviour,Swiggy,Medium,Pending,150
+CP001300,O0019545,S018,10-11-2025,Missing Item,Dine-in,Low,Resolved,100
+CP001301,O0008971,S009,15-09-2025,Wrong Order,Zomato,Low,Resolved,200
+CP001302,O0033964,S022,20-09-2025,Wrong Order,Zomato,Low,Resolved,0
+CP001303,O0038308,S008,10-11-2025,Missing Item,Zomato,Low,Pending,150
+CP001304,O0023032,S027,19-08-2025,Staff Behaviour,Zomato,Medium,Pending,0
+CP001305,O0036730,S015,23-02-2025,Missing Item,Dine-in,High,Resolved,0
+CP001306,O0010575,S018,27-10-2025,Late Delivery,Dine-in,Low,Resolved,50
+CP001307,O0029335,S019,01-06-2025,Missing Item,Takeaway,Medium,Resolved,100
+CP001308,O0001716,S029,03-01-2025,Staff Behaviour,Zomato,Medium,Resolved,0
+CP001309,O0026226,S017,13-10-2025,Food Quality,Zomato,Medium,Pending,150
+CP001310,O0012623,S007,24-11-2025,Food Quality,Dine-in,Medium,Pending,150
+CP001311,O0008071,S015,23-11-2025,Late Delivery,Zomato,Medium,Resolved,250
+CP001312,O0014867,S023,10-05-2025,Wrong Order,Zomato,Low,Resolved,50
+CP001313,O0035010,S012,08-10-2025,Wrong Order,Dine-in,Medium,Resolved,0
+CP001314,O0034439,S017,13-02-2025,Food Quality,Dine-in,Low,Resolved,50
+CP001315,O0009264,S010,09-06-2025,Missing Item,Swiggy,Low,Pending,250
+CP001316,O0017853,S024,30-04-2025,Food Quality,Swiggy,Low,Escalated,0
+CP001317,O0026939,S010,12-09-2025,Late Delivery,Dine-in,Medium,Pending,100
+CP001318,O0014437,S002,13-04-2025,Late Delivery,Swiggy,Low,Resolved,0
+CP001319,O0017427,S020,03-03-2025,Food Quality,Zomato,Medium,Resolved,0
+CP001320,O0022545,S007,06-02-2025,Food Quality,Dine-in,Low,Resolved,250
+CP001321,O0003819,S022,09-05-2025,Food Quality,Swiggy,Low,Escalated,100
+CP001322,O0022305,S004,22-06-2025,Missing Item,Dine-in,Low,Resolved,0
+CP001323,O0008605,S021,12-12-2025,Food Quality,Dine-in,High,Resolved,0
+CP001324,O0031189,S014,08-06-2025,Food Quality,Dine-in,Low,Resolved,0
+CP001325,O0033684,S010,24-07-2025,Food Quality,Dine-in,Low,Escalated,100
+CP001326,O0017704,S011,23-06-2025,Staff Behaviour,Dine-in,Low,Pending,250
+CP001327,O0002216,S010,10-01-2025,Food Quality,Zomato,Low,Pending,0
+CP001328,O0028477,S030,22-07-2025,Food Quality,Swiggy,High,Pending,200
+CP001329,O0021652,S027,29-04-2025,Staff Behaviour,Dine-in,Low,Pending,150
+CP001330,O0035564,S025,14-04-2025,Missing Item,Swiggy,Medium,Escalated,50
+CP001331,O0013726,S005,26-08-2025,Wrong Order,Takeaway,Medium,Resolved,100
+CP001332,O0016867,S013,28-06-2025,Billing Issue,Takeaway,Low,Resolved,0
+CP001333,O0033802,S026,16-01-2025,Missing Item,Dine-in,Medium,Resolved,75
+CP001334,O0020829,S001,08-11-2025,Late Delivery,Dine-in,Low,Resolved,0
+CP001335,O0006513,S022,22-07-2025,Late Delivery,Dine-in,High,Resolved,50
+CP001336,O0013602,S024,02-12-2025,Missing Item,Zomato,Medium,Pending,250
+CP001337,O0016154,S009,01-03-2025,Packaging,Zomato,High,Resolved,250
+CP001338,O0011612,S006,12-11-2025,Staff Behaviour,Zomato,Medium,Resolved,200
+CP001339,O0013511,S006,25-12-2025,Wrong Order,Zomato,Medium,Resolved,0
+CP001340,O0025694,S013,22-12-2025,Late Delivery,Swiggy,Low,Resolved,250
+CP001341,O0006435,S016,29-04-2025,Billing Issue,Dine-in,Medium,Resolved,250
+CP001342,O0003070,S008,16-02-2025,Late Delivery,Swiggy,High,Resolved,0
+CP001343,O0030598,S001,17-09-2025,Food Quality,Takeaway,Medium,Resolved,250
+CP001344,O0003855,S030,24-11-2025,Missing Item,Zomato,Low,Resolved,200
+CP001345,O0007718,S007,16-12-2025,Packaging,Zomato,Low,Resolved,0
+CP001346,O0031702,S022,30-07-2025,Missing Item,Zomato,Medium,Resolved,200
+CP001347,O0033204,S006,10-02-2025,Food Quality,Swiggy,Low,Resolved,100
+CP001348,O0035572,S025,30-07-2025,Missing Item,Swiggy,Low,Escalated,0
+CP001349,O0035570,S016,08-01-2025,Late Delivery,Dine-in,Medium,Resolved,100
+CP001350,O0030378,S008,13-11-2025,Billing Issue,Dine-in,Low,Resolved,100
+CP001351,O0028330,S015,05-09-2025,Staff Behaviour,Swiggy,Low,Resolved,200
+CP001352,O0028222,S005,06-04-2025,Missing Item,Dine-in,Medium,Resolved,250
+CP001353,O0028142,S030,25-02-2025,Missing Item,Swiggy,Low,Resolved,0
+CP001354,O0008910,S022,23-09-2025,Late Delivery,Dine-in,Low,Resolved,0
+CP001355,O0019501,S014,19-08-2025,Staff Behaviour,Zomato,Medium,Resolved,250
+CP001356,O0011756,S006,10-11-2025,Wrong Order,Dine-in,Medium,Pending,150
+CP001357,O0034079,S022,25-06-2025,Wrong Order,Swiggy,Low,Resolved,100
+CP001358,O0037705,S009,23-08-2025,Wrong Order,Swiggy,Low,Resolved,0
+CP001359,O0024883,S027,13-01-2025,Billing Issue,Zomato,Medium,Pending,50
+CP001360,O0038919,S012,08-05-2025,Late Delivery,Zomato,Medium,Resolved,75
+CP001361,O0019979,S004,22-05-2025,Food Quality,Zomato,Low,Escalated,100
+CP001362,O0025750,S001,02-11-2025,Missing Item,Dine-in,Medium,Resolved,150
+CP001363,O0008703,S001,03-12-2025,Late Delivery,Swiggy,Low,Resolved,150
+CP001364,O0028139,S002,26-10-2025,Packaging,Zomato,Medium,Resolved,100
+CP001365,O0039379,S010,13-03-2025,Wrong Order,Swiggy,Low,Pending,0
+CP001366,O0027403,S021,15-07-2025,Wrong Order,Zomato,Medium,Pending,150
+CP001367,O0020867,S025,14-05-2025,Packaging,Dine-in,Low,Resolved,75
+CP001368,O0020908,S004,08-01-2025,Late Delivery,Dine-in,Low,Pending,100
+CP001369,O0036401,S016,12-04-2025,Missing Item,Swiggy,Medium,Resolved,100
+CP001370,O0038033,S003,20-10-2025,Late Delivery,Swiggy,High,Pending,75
+CP001371,O0003328,S024,29-10-2025,Food Quality,Dine-in,Medium,Pending,0
+CP001372,O0002037,S005,18-03-2025,Billing Issue,Takeaway,Medium,Resolved,0
+CP001373,O0006874,S022,11-12-2025,Packaging,Takeaway,Low,Resolved,250
+CP001374,O0030004,S011,07-04-2025,Wrong Order,Dine-in,Low,Pending,75
+CP001375,O0005244,S024,14-11-2025,Staff Behaviour,Dine-in,Medium,Resolved,150
+CP001376,O0016401,S013,13-08-2025,Late Delivery,Zomato,High,Resolved,0
+CP001377,O0006920,S007,02-04-2025,Late Delivery,Zomato,Medium,Pending,50
+CP001378,O0034487,S007,29-07-2025,Food Quality,Swiggy,Low,Resolved,75
+CP001379,O0035788,S026,06-02-2025,Late Delivery,Swiggy,Medium,Resolved,200
+CP001380,O0016427,S026,26-03-2025,Late Delivery,Dine-in,Medium,Resolved,75
+CP001381,O0022602,S009,20-10-2025,Missing Item,Dine-in,Medium,Resolved,100
+CP001382,O0009798,S008,13-06-2025,Late Delivery,Swiggy,Low,Resolved,200
+CP001383,O0018250,S024,16-02-2025,Wrong Order,Zomato,High,Resolved,0
+CP001384,O0009381,S004,02-04-2025,Late Delivery,Zomato,Medium,Resolved,250
+CP001385,O0038156,S018,22-09-2025,Food Quality,Takeaway,Medium,Resolved,75
+CP001386,O0001046,S023,07-12-2025,Billing Issue,Dine-in,High,Resolved,0
+CP001387,O0009539,S001,19-05-2025,Missing Item,Dine-in,Medium,Resolved,0
+CP001388,O0006897,S022,25-12-2025,Billing Issue,Zomato,Low,Resolved,0
+CP001389,O0012824,S006,25-05-2025,Food Quality,Takeaway,Low,Resolved,50
+CP001390,O0015338,S027,17-01-2025,Late Delivery,Dine-in,Low,Resolved,0
+CP001391,O0010329,S009,29-06-2025,Billing Issue,Zomato,Medium,Resolved,0
+CP001392,O0012495,S021,11-03-2025,Wrong Order,Zomato,Low,Resolved,250
+CP001393,O0011552,S021,01-04-2025,Packaging,Dine-in,Medium,Resolved,0
+CP001394,O0023176,S016,15-07-2025,Food Quality,Swiggy,Low,Escalated,0
+CP001395,O0017303,S023,30-03-2025,Food Quality,Takeaway,Medium,Resolved,100
+CP001396,O0005356,S005,04-10-2025,Food Quality,Zomato,Medium,Resolved,0
+CP001397,O0027150,S030,25-11-2025,Packaging,Zomato,Medium,Resolved,0
+CP001398,O0035660,S022,31-07-2025,Billing Issue,Dine-in,Medium,Pending,75
+CP001399,O0036074,S018,04-03-2025,Packaging,Dine-in,Low,Resolved,0
+CP001400,O0033967,S020,26-07-2025,Missing Item,Zomato,Medium,Resolved,0
+CP001401,O0032489,S008,05-05-2025,Missing Item,Zomato,High,Resolved,150
+CP001402,O0014013,S030,09-11-2025,Staff Behaviour,Zomato,Medium,Resolved,200
+CP001403,O0033442,S007,10-08-2025,Late Delivery,Zomato,Low,Resolved,75
+CP001404,O0024114,S022,18-12-2025,Late Delivery,Zomato,Low,Resolved,150
+CP001405,O0021516,S004,07-09-2025,Food Quality,Swiggy,Low,Resolved,0
+CP001406,O0038816,S019,29-07-2025,Missing Item,Swiggy,Low,Pending,200
+CP001407,O0013572,S020,13-01-2025,Wrong Order,Takeaway,Low,Resolved,0
+CP001408,O0035522,S022,06-07-2025,Missing Item,Dine-in,Low,Escalated,100
+CP001409,O0029745,S016,15-05-2025,Late Delivery,Swiggy,Low,Resolved,50
+CP001410,O0014649,S025,25-12-2025, wrong order ,Swiggy,Medium,Pending,0
+CP001411,O0008824,S023,03-12-2025,Missing Item,Zomato,Low,Resolved,75
+CP001412,O0001749,S023,06-11-2025,Food Quality,Swiggy,Medium,Escalated,100
+CP001413,O0013415,S005,02-03-2025,Missing Item,Dine-in,Low,Resolved,150
+CP001414,O0033206,S028,27-02-2025,Missing Item,Takeaway,Low,Pending,100
+CP001415,O0017583,S024,04-05-2025,Billing Issue,Takeaway,Medium,Resolved,100
+CP001416,O0036707,S028,27-06-2025,Late Delivery,Swiggy,Medium,Resolved,0
+CP001417,O0026853,S022,10-06-2025,Food Quality,Swiggy,Low,Resolved,100
+CP001418,O0030776,S018,25-10-2025,Late Delivery,Zomato,Medium,Escalated,50
+CP001419,O0028450,S023,02-07-2025,Missing Item,Zomato,Low,Resolved,75
+CP001420,O0008936,S015,12-07-2025,Wrong Order,Takeaway,Medium,Resolved,200
+CP001421,O0035298,S030,22-01-2025,Billing Issue,Dine-in,Low,Resolved,0
+CP001422,O0004907,S007,03-04-2025,Late Delivery,Swiggy,Medium,Pending,50
+CP001423,O0035679,S018,09-01-2025,Food Quality,Dine-in,Medium,Resolved,0
+CP001424,O0007833,S011,02-02-2025,Packaging,Takeaway,Low,Resolved,0
+CP001425,O0005633,S004,05-09-2025,Late Delivery,Zomato,Medium,Resolved,0
+CP001426,O0003647,S026,17-07-2025,Wrong Order,Dine-in,Low,Resolved,150
+CP001427,O0039783,S005,22-04-2025,Wrong Order,Dine-in,Medium,Resolved,75
+CP001428,O0003398,S012,27-10-2025,Late Delivery,Dine-in,Medium,Pending,200
+CP001429,O0036551,S026,06-05-2025,Late Delivery,Dine-in,Medium,Resolved,0
+CP001430,O0020730,S004,10-07-2025,Late Delivery,Swiggy,Medium,Resolved,0
+CP001431,O0037182,S004,08-07-2025,Food Quality,Takeaway,High,Resolved,75
+CP001432,O0032191,S004,12-04-2025,Missing Item,Swiggy,Low,Resolved,0
+CP001433,O0024546,S017,07-11-2025,Packaging,Swiggy,Medium,Resolved,0
+CP001434,O0007854,S012,24-01-2025,Late Delivery,Swiggy,High,Resolved,0
+CP001435,O0026794,S023,31-08-2025,Missing Item,Swiggy,Medium,Resolved,100
+CP001436,O0004104,S012,30-11-2025,Billing Issue,Swiggy,Low,Resolved,0
+CP001437,O0035625,S020,10-05-2025,Food Quality,Zomato,Medium,Resolved,200
+CP001438,O0014260,S013,19-02-2025,Food Quality,Swiggy,Low,Resolved,0
+CP001439,O0037721,S028,01-12-2025,Food Quality,Zomato,Medium,Pending,0
+CP001440,O0015698,S010,26-05-2025,Food Quality,Dine-in,Low,Resolved,0
+CP001441,O0007327,S008,30-01-2025,Late Delivery,Swiggy,Medium,Resolved,0
+CP001442,O0032310,S030,15-08-2025,Missing Item,Dine-in,Medium,Pending,100
+CP001443,O0023380,S021,06-01-2025,Missing Item,Swiggy,Medium,Resolved,100
+CP001444,O0010527,S024,12-01-2025,Missing Item,Zomato,Low,Resolved,50
+CP001445,O0027420,S018,15-05-2025,Late Delivery,Dine-in,Low,Escalated,100
+CP001446,O0005411,S006,14-02-2025,Missing Item,Zomato,Low,Resolved,200
+CP001447,O0027595,S027,28-11-2025,Wrong Order,Dine-in,Low,Resolved,75
+CP001448,O0017776,S014,02-06-2025,Staff Behaviour,Dine-in,Medium,Escalated,150
+CP001449,O0025249,S004,19-06-2025,Late Delivery,Swiggy,Low,Resolved,0
+CP001450,O0007959,S023,29-06-2025,Late Delivery,Dine-in,Low,Resolved,0
+CP001451,O0031888,S019,24-12-2025,Packaging,Swiggy,Medium,Resolved,0
+CP001452,O0008056,S012,28-06-2025,Missing Item,Swiggy,Low,Escalated,250
+CP001453,O0009558,S018,09-03-2025,Late Delivery,Zomato,Low,Resolved,150
+CP001454,O0015308,S024,30-01-2025,Wrong Order,Dine-in,Medium,Resolved,100
+CP001455,O0007552,S001,06-06-2025,Missing Item,Dine-in,Medium,Resolved,75
+CP001456,O0030311,S022,03-04-2025,Missing Item,Swiggy,Low,Resolved,0
+CP001457,O0003196,S006,21-07-2025,Late Delivery,Swiggy,Low,Resolved,75
+CP001458,O0018436,S021,11-09-2025,Wrong Order,Zomato,High,Resolved,250
+CP001459,O0007791,S013,28-09-2025,Missing Item,Zomato,High,Resolved,0
+CP001460,O0031460,S024,14-12-2025,Food Quality,Swiggy,Low,Resolved,0
+CP001461,O0026690,S030,10-10-2025,Wrong Order,Swiggy,High,Resolved,100
+CP001462,O0023474,S006,11-10-2025,Staff Behaviour,Swiggy,Low,Resolved,50
+CP001463,O0021700,S015,24-05-2025,Missing Item,Dine-in,Medium,Resolved,50
+CP001464,O0024429,S011,20-10-2025,Wrong Order,Swiggy,Low,Resolved,150
+CP001465,O0037522,S017,30-12-2025,Late Delivery,Dine-in,Low,Resolved,75
+CP001466,O0016872,S027,14-10-2025,Missing Item,Swiggy,Medium,Pending,0
+CP001467,O0025569,S013,19-07-2025,Late Delivery,Swiggy,Low,Resolved,250
+CP001468,O0033868,S003,12-11-2025,Food Quality,Swiggy,Low,Pending,0
+CP001469,O0005585,S028,07-12-2025,Food Quality,Takeaway,Low,Resolved,50
+CP001470,O0016434,S015,24-03-2025,Missing Item,Swiggy,Medium,Resolved,150
+CP001471,O0015787,S012,19-12-2025,Packaging,Swiggy,Low,Pending,150
+CP001472,O0036980,S020,22-04-2025,Late Delivery,Dine-in,High,Pending,0
+CP001473,O0001651,S020,20-04-2025,Packaging,Swiggy,High,Resolved,200
+CP001474,O0001686,S004,20-06-2025,Missing Item,Swiggy,Low,Resolved,0
+CP001475,O0002781,S029,14-05-2025,Food Quality,Zomato,Low,Resolved,0
+CP001476,O0009999,S008,18-05-2025,Wrong Order,Dine-in,Low,Pending,0
+CP001477,O0001868,S018,10-04-2025,Billing Issue,Dine-in,Low,Resolved,75
+CP001478,O0020378,S026,10-02-2025,Food Quality,Takeaway,Medium,Resolved,100
+CP001479,O0025859,S015,26-09-2025,Late Delivery,Dine-in,High,Resolved,100
+CP001480,O0038754,S011,25-02-2025,Food Quality,Swiggy,Low,Resolved,250
+CP001481,O0023194,S004,26-06-2025,Missing Item,Dine-in,Low,Resolved,0
+CP001482,O0016513,S019,03-01-2025,Late Delivery,Zomato,Medium,Escalated,75
+CP001483,O0008034,S014,21-05-2025,Food Quality,Swiggy,Low,Resolved,0
+CP001484,O0039013,S029,10-05-2025,Late Delivery,Dine-in,Low,Resolved,200
+CP001485,O0027846,S013,22-02-2025,Food Quality,Dine-in,Low,Resolved,150
+CP001486,O0024027,S010,29-12-2025,Missing Item,Dine-in,Medium,Resolved,0
+CP001487,O0001896,S010,03-05-2025,Wrong Order,Dine-in,Medium,Resolved,150
+CP001488,O0021598,S015,16-09-2025,Billing Issue,Swiggy,Low,Resolved,0
+CP001489,O0034696,S014,09-03-2025,Wrong Order,Swiggy,Low,Escalated,0
+CP001490,O0002790,S011,07-11-2025,Food Quality,Swiggy,High,Resolved,75
+CP001491,O0009837,S007,22-10-2025,Late Delivery,Swiggy,Medium,Resolved,150
+CP001492,O0000880,S017,04-07-2025,Food Quality,Takeaway,Medium,Resolved,150
+CP001493,O0004647,S019,10-03-2025,Wrong Order,Swiggy,Medium,Resolved,0
+CP001494,O0030702,S029,25-03-2025,Late Delivery,Takeaway,Low,Resolved,150
+CP001495,O0020310,S024,17-11-2025,Staff Behaviour,Swiggy,Medium,Resolved,150
+CP001496,O0017561,S025,13-11-2025,Staff Behaviour,Swiggy,Medium,Resolved,100
+CP001497,O0033940,S015,20-04-2025,Missing Item,Zomato,Low,Resolved,75
+CP001498,O0020216,S020,23-01-2025,Food Quality,Dine-in,Medium,Resolved,0
+CP001499,O0016307,S016,06-07-2025,Missing Item,Takeaway,Low,Resolved,75
+CP001500,O0028557,S018,09-06-2025,Packaging,Zomato,Low,Resolved,0
+CP001501,O0021756,S022,14-07-2025,Food Quality,Dine-in,Medium,Resolved,75
+CP001502,O0011852,S030,18-03-2025,Food Quality,Swiggy,Medium,Resolved,200
+CP001503,O0027541,S002,22-08-2025,Packaging,Swiggy,Low,Escalated,50
+CP001504,O0032759,S017,05-02-2025,Wrong Order,Dine-in,Low,Resolved,0
+CP001505,O0014877,S014,05-10-2025,Packaging,Swiggy,Low,Resolved,250
+CP001506,O0003939,S030,08-05-2025,Late Delivery,Dine-in,Low,Pending,0
+CP001507,O0015474,S007,23-08-2025,Packaging,Dine-in,High,Resolved,250
+CP001508,O0024482,S014,28-10-2025,Late Delivery,Zomato,Low,Escalated,0
+CP001509,O0020985,S016,14-10-2025,Wrong Order,Dine-in,Low,Resolved,0
+CP001510,O0014735,S002,19-08-2025,Late Delivery,Swiggy,Medium,Resolved,0
+CP001511,O0023439,S005,06-09-2025,Late Delivery,Dine-in,Medium,Resolved,0
+CP001512,O0031916,S024,31-01-2025,Missing Item,Dine-in,Low,Escalated,150
+CP001513,O0038693,S003,07-06-2025,Late Delivery,Swiggy,Low,Resolved,0
+CP001514,O0010233,S025,05-01-2025,Staff Behaviour,Swiggy,Medium,Resolved,0
+CP001515,O0039376,S019,17-08-2025,Wrong Order,Takeaway,High,Pending,50
+CP001516,O0003296,S029,27-03-2025,Food Quality,Swiggy,Low,Resolved,0
+CP001517,O0012006,S029,18-10-2025,Billing Issue,Dine-in,Low,Resolved,75
+CP001518,O0003833,S001,22-03-2025, staff behaviour ,Dine-in,Medium,Resolved,250
+CP001519,O0037032,S027,12-03-2025,Missing Item,Swiggy,High,Resolved,0
+CP001520,O0037337,S030,24-06-2025,Wrong Order,Zomato,Medium,Pending,75
+CP001521,O0038069,S028,17-02-2025,Billing Issue,Dine-in,Low,Escalated,200
+CP001522,O0018333,S004,04-02-2025,Food Quality,Takeaway,Low,Resolved,200
+CP001523,O0017814,S030,17-04-2025,Food Quality,Swiggy,Low,Escalated,0
+CP001524,O0028408,S004,22-02-2025,Packaging,Dine-in,Medium,Pending,75
+CP001525,O0033289,S015,16-05-2025,Late Delivery,Dine-in,Low,Pending,0
+CP001526,O0021118,S012,06-03-2025,Packaging,Dine-in,Medium,Resolved,150
+CP001527,O0027926,S012,29-06-2025,Wrong Order,Dine-in,Low,Resolved,100
+CP001528,O0022883,S011,15-10-2025,Wrong Order,Dine-in,Low,Escalated,0
+CP001529,O0017905,S012,02-02-2025,Staff Behaviour,Swiggy,Medium,Resolved,150
+CP001530,O0001148,S030,25-10-2025,Food Quality,Swiggy,High,Resolved,75
+CP001531,O0008434,S029,03-12-2025,Billing Issue,Zomato,High,Resolved,250
+CP001532,O0000387,S025,16-09-2025,Packaging,Takeaway,High,Resolved,0
+CP001533,O0038836,S001,26-01-2025,Missing Item,Zomato,High,Resolved,0
+CP001534,O0019057,S020,18-09-2025,Late Delivery,Swiggy,Low,Escalated,75
+CP001535,O0029927,S016,16-01-2025,Food Quality,Dine-in,Low,Resolved,0
+CP001536,O0021433,S005,27-03-2025,Late Delivery,Zomato,Low,Pending,0
+CP001537,O0035733,S001,18-09-2025,Food Quality,Takeaway,Medium,Escalated,50
+CP001538,O0002147,S005,28-07-2025,Packaging,Swiggy,Medium,Resolved,250
+CP001539,O0025843,S029,27-08-2025,Wrong Order,Dine-in,Medium,Resolved,250
+CP001540,O0036509,S024,14-12-2025,Missing Item,Swiggy,Medium,Resolved,150
+CP001541,O0021396,S004,18-03-2025,Staff Behaviour,Dine-in,Low,Resolved,250
+CP001542,O0027820,S020,12-10-2025,Packaging,Swiggy,Medium,Resolved,250
+CP001543,O0031160,S018,16-07-2025,Missing Item,Swiggy,Medium,Resolved,100
+CP001544,O0036241,S019,11-12-2025,Late Delivery,Dine-in,Medium,Resolved,0
+CP001545,O0032542,S007,03-01-2025,Staff Behaviour,Swiggy,High,Pending,200
+CP001546,O0007574,S015,06-09-2025,Late Delivery,Swiggy,Medium,Resolved,150
+CP001547,O0011387,S022,08-11-2025,Food Quality,Swiggy,High,Resolved,200
+CP001548,O0004409,S002,09-08-2025,Late Delivery,Takeaway,Low,Escalated,50
+CP001549,O0013593,S030,08-10-2025,Missing Item,Dine-in,High,Resolved,200
+CP001550,O0027019,S005,18-09-2025,Missing Item,Swiggy,Medium,Resolved,0
+CP001551,O0003280,S003,05-03-2025,Food Quality,Dine-in,Medium,Resolved,75
+CP001552,O0031135,S014,09-04-2025,Late Delivery,Zomato,Low,Resolved,150
+CP001553,O0028457,S004,16-06-2025,Late Delivery,Dine-in,High,Resolved,75
+CP001554,O0016327,S016,29-01-2025,Food Quality,Zomato,Medium,Resolved,75
+CP001555,O0020552,S017,30-01-2025,Wrong Order,Takeaway,Medium,Resolved,75
+CP001556,O0008466,S027,25-06-2025,Food Quality,Swiggy,Low,Resolved,0
+CP001557,O0002213,S028,12-06-2025,Food Quality,Dine-in,Medium,Resolved,0
+CP001558,O0010534,S022,30-05-2025,Missing Item,Zomato,Low,Resolved,0
+CP001559,O0035062,S029,01-11-2025,Food Quality,Dine-in,Medium,Resolved,0
+CP001560,O0009277,S026,11-02-2025,Staff Behaviour,Zomato,Medium,Resolved,50
+CP001561,O0022667,S007,06-01-2025,Billing Issue,Takeaway,Low,Resolved,0
+CP001562,O0020401,S009,14-06-2025,Wrong Order,Swiggy,High,Resolved,0
+CP001563,O0007785,S029,03-01-2025,Late Delivery,Dine-in,Low,Escalated,250
+CP001564,O0008528,S005,27-10-2025,Packaging,Zomato,Low,Resolved,100
+CP001565,O0038068,S029,21-09-2025,Late Delivery,Swiggy,Medium,Resolved,75
+CP001566,O0006215,S009,21-09-2025,Food Quality,Swiggy,Medium,Resolved,75
+CP001567,O0003864,S020,14-02-2025,Late Delivery,Dine-in,High,Resolved,200
+CP001568,O0029019,S025,06-12-2025,Late Delivery,Swiggy,Low,Pending,50
+CP001569,O0024286,S005,30-11-2025,Missing Item,Swiggy,Medium,Resolved,0
+CP001570,O0032424,S023,24-01-2025,Missing Item,Swiggy,Medium,Resolved,200
+CP001571,O0012540,S022,12-08-2025,Missing Item,Swiggy,Medium,Resolved,250
+CP001572,O0035030,S007,27-11-2025,Packaging,Swiggy,Medium,Resolved,0
+CP001573,O0015244,S017,28-08-2025,Staff Behaviour,Swiggy,High,Resolved,150
+CP001574,O0032663,S022,24-05-2025,Staff Behaviour,Swiggy,Medium,Resolved,0
+CP001575,O0008437,S029,12-11-2025,Wrong Order,Dine-in,Medium,Resolved,150
+CP001576,O0011126,S012,10-04-2025,Wrong Order,Dine-in,Medium,Resolved,0
+CP001577,O0027329,S012,18-12-2025,Staff Behaviour,Swiggy,Medium,Pending,200
+CP001578,O0012363,S004,08-10-2025,Missing Item,Zomato,Low,Pending,250
+CP001579,O0029555,S018,24-04-2025,Food Quality,Dine-in,Low,Resolved,75
+CP001580,O0024793,S003,30-09-2025,Late Delivery,Zomato,High,Resolved,75
+CP001581,O0003153,S030,04-08-2025,Wrong Order,Zomato,Medium,Pending,0
+CP001582,O0019217,S011,21-11-2025,Wrong Order,Zomato,Medium,Resolved,50
+CP001583,O0011804,S020,17-10-2025,Missing Item,Dine-in,High,Resolved,150
+CP001584,O0012484,S020,24-11-2025,Missing Item,Dine-in,Low,Resolved,200
+CP001585,O0019853,S017,28-11-2025,Late Delivery,Dine-in,Medium,Resolved,250
+CP001586,O0038948,S029,11-02-2025,Late Delivery,Dine-in,Low,Resolved,200
+CP001587,O0039825,S023,09-03-2025,Missing Item,Takeaway,High,Resolved,0
+CP001588,O0027005,S028,03-04-2025,Food Quality,Dine-in,Medium,Pending,0
+CP001589,O0039359,S002,03-08-2025,Food Quality,Swiggy,Medium,Resolved,0
+CP001590,O0008421,S021,20-02-2025,Staff Behaviour,Dine-in,Low,Pending,50
+CP001591,O0003079,S020,18-03-2025,Missing Item,Swiggy,Low,Resolved,150
+CP001592,O0015087,S021,04-12-2025,Food Quality,Zomato,High,Resolved,0
+CP001593,O0019535,S012,31-10-2025,Missing Item,Zomato,Medium,Resolved,150
+CP001594,O0027124,S003,22-01-2025,Packaging,Dine-in,Low,Resolved,0
+CP001595,O0031902,S022,01-02-2025,Food Quality,Dine-in,Low,Resolved,200
+CP001596,O0037806,S003,03-07-2025,Food Quality,Swiggy,Medium,Resolved,250
+CP001597,O0001419,S023,01-05-2025,Packaging,Swiggy,Medium,Resolved,250
+CP001598,O0005399,S028,22-04-2025,Missing Item,Dine-in,Low,Resolved,75
+CP001599,O0004412,S022,13-03-2025,Staff Behaviour,Swiggy,High,Resolved,200
+CP001600,O0025447,S021,08-01-2025,Late Delivery,Dine-in,High,Resolved,250
+CP001601,O0022622,S017,26-04-2025,Wrong Order,Zomato,Medium,Resolved,0
+CP001602,O0020809,S016,21-03-2025,Late Delivery,Dine-in,High,Resolved,0
+CP001603,O0006800,S001,04-06-2025,Missing Item,Zomato,Low,Resolved,0
+CP001604,O0027277,S011,18-01-2025,Wrong Order,Zomato,Medium,Resolved,200
+CP001605,O0011045,S024,31-03-2025,Packaging,Dine-in,Medium,Resolved,200
+CP001606,O0020932,S021,14-07-2025,Late Delivery,Zomato,Medium,Resolved,250
+CP001607,O0033827,S006,25-06-2025,Wrong Order,Swiggy,Medium,Resolved,200
+CP001608,O0032416,S021,27-10-2025,Missing Item,Dine-in,Medium,Resolved,75
+CP001609,O0019269,S018,20-03-2025,Packaging,Swiggy,Low,Resolved,100
+CP001610,O0008396,S003,13-01-2025,Billing Issue,Swiggy,Medium,Resolved,250
+CP001611,O0018525,S029,23-01-2025,Food Quality,Zomato,Medium,Resolved,0
+CP001612,O0015121,S003,18-04-2025,Late Delivery,Dine-in,Medium,Resolved,150
+CP001613,O0022534,S022,25-02-2025,Food Quality,Takeaway,Low,Pending,50
+CP001614,O0022584,S015,01-05-2025,Wrong Order,Swiggy,Medium,Resolved,0
+CP001615,O0029444,S025,20-01-2025, food quality ,Zomato,Medium,Resolved,0
+CP001616,O0008813,S021,03-10-2025,Late Delivery,Dine-in,Medium,Pending,0
+CP001617,O0010166,S022,16-09-2025,Missing Item,Zomato,Medium,Resolved,0
+CP001618,O0003218,S007,06-11-2025,Late Delivery,Dine-in,Medium,Pending,0
+CP001619,O0025918,S030,08-05-2025,Staff Behaviour,Swiggy,Medium,Pending,200
+CP001620,O0037775,S028,17-03-2025,Missing Item,Swiggy,Medium,Resolved,200
+CP001621,O0002443,S014,09-12-2025,Late Delivery,Takeaway,Low,Resolved,0
+CP001622,O0038856,S020,11-08-2025,Late Delivery,Swiggy,Medium,Resolved,150
+CP001623,O0024881,S015,12-04-2025,Billing Issue,Dine-in,Medium,Pending,100
+CP001624,O0021086,S004,10-01-2025,Packaging,Zomato,Low,Resolved,250
+CP001625,O0005088,S002,01-06-2025,Food Quality,Dine-in,Low,Resolved,200
+CP001626,O0013970,S004,16-10-2025,Wrong Order,Dine-in,Low,Resolved,0
+CP001627,O0000951,S010,18-04-2025,Staff Behaviour,Dine-in,Low,Resolved,100
+CP001628,O0019891,S028,22-09-2025,Food Quality,Dine-in,Low,Resolved,75
+CP001629,O0001033,S012,31-12-2025,Late Delivery,Swiggy,Medium,Resolved,100
+CP001630,O0038327,S015,14-12-2025,Missing Item,Swiggy,Medium,Resolved,50
+CP001631,O0001571,S025,27-08-2025,Food Quality,Zomato,High,Resolved,250
+CP001632,O0003073,S015,26-07-2025,Packaging,Dine-in,Low,Resolved,0
+CP001633,O0031447,S007,03-01-2025,Wrong Order,Dine-in,Medium,Resolved,75
+CP001634,O0022095,S029,06-04-2025, food quality ,Swiggy,Medium,Pending,50
+CP001635,O0010926,S008,17-04-2025, food quality ,Takeaway,Low,Resolved,50
+CP001636,O0039304,S021,18-04-2025,Wrong Order,Swiggy,High,Resolved,0
+CP001637,O0010994,S021,05-05-2025,Food Quality,Zomato,Medium,Pending,75
+CP001638,O0007844,S007,24-03-2025,Staff Behaviour,Dine-in,Low,Pending,0
+CP001639,O0013056,S003,23-07-2025,Food Quality,Dine-in,Low,Resolved,100
+CP001640,O0022559,S028,14-02-2025,Packaging,Takeaway,Low,Resolved,0
+CP001641,O0036943,S005,25-02-2025,Food Quality,Zomato,Medium,Pending,75
+CP001642,O0029235,S019,24-06-2025,Late Delivery,Swiggy,Low,Resolved,0
+CP001643,O0016371,S020,31-12-2025,Late Delivery,Swiggy,Medium,Pending,50
+CP001644,O0028817,S004,02-09-2025,Wrong Order,Swiggy,Low,Resolved,200
+CP001645,O0027087,S010,16-05-2025,Food Quality,Zomato,Medium,Resolved,0
+CP001646,O0033327,S029,01-08-2025,Staff Behaviour,Zomato,Medium,Resolved,50
+CP001647,O0005666,S018,11-06-2025,Missing Item,Swiggy,Low,Resolved,50
+CP001648,O0033460,S001,04-10-2025,Packaging,Zomato,Medium,Resolved,75
+CP001649,O0032483,S014,16-05-2025,Wrong Order,Zomato,Low,Resolved,200
+CP001650,O0020318,S026,06-01-2025,Missing Item,Dine-in,Medium,Resolved,250
+CP001651,O0014985,S020,03-12-2025,Late Delivery,Swiggy,Low,Resolved,250
+CP001652,O0033857,S013,03-08-2025,Food Quality,Dine-in,Medium,Resolved,75
+CP001653,O0027257,S015,19-10-2025,Food Quality,Swiggy,Low,Resolved,200
+CP001654,O0011296,S006,28-01-2025,Wrong Order,Swiggy,Low,Pending,0
+CP001655,O0009184,S027,17-12-2025,Food Quality,Swiggy,High,Resolved,200
+CP001656,O0008149,S006,27-11-2025,Late Delivery,Zomato,Medium,Resolved,0
+CP001657,O0007356,S029,30-03-2025,Packaging,Zomato,Low,Pending,0
+CP001658,O0027574,S008,11-09-2025,Late Delivery,Dine-in,Low,Pending,50
+CP001659,O0006661,S028,23-03-2025,Food Quality,Dine-in,High,Resolved,250
+CP001660,O0003731,S006,12-04-2025,Wrong Order,Swiggy,Low,Resolved,150
+CP001661,O0002480,S026,20-03-2025,Staff Behaviour,Dine-in,Medium,Resolved,250
+CP001662,O0015161,S009,24-08-2025,Wrong Order,Dine-in,Medium,Resolved,75
+CP001663,O0033606,S009,12-04-2025,Food Quality,Swiggy,Medium,Resolved,100
+CP001664,O0036808,S014,17-04-2025,Food Quality,Takeaway,Low,Resolved,0
+CP001665,O0013785,S028,06-07-2025,Billing Issue,Swiggy,Medium,Escalated,50
+CP001666,O0037116,S026,31-07-2025,Packaging,Zomato,Low,Resolved,50
+CP001667,O0019309,S025,29-06-2025,Late Delivery,Zomato,Medium,Resolved,0
+CP001668,O0009098,S025,26-05-2025,Wrong Order,Takeaway,Low,Pending,50
+CP001669,O0037385,S013,17-09-2025, staff behaviour ,Swiggy,Medium,Resolved,200
+CP001670,O0038353,S023,25-07-2025,Packaging,Zomato,Medium,Resolved,0
+CP001671,O0037055,S024,16-07-2025,Late Delivery,Swiggy,Medium,Resolved,0
+CP001672,O0011096,S021,06-09-2025,Wrong Order,Zomato,Low,Resolved,100
+CP001673,O0027853,S018,02-04-2025,Missing Item,Swiggy,Medium,Resolved,0
+CP001674,O0024319,S009,19-12-2025,Food Quality,Swiggy,Medium,Resolved,50
+CP001675,O0034661,S019,05-08-2025,Late Delivery,Swiggy,Medium,Resolved,200
+CP001676,O0018838,S007,12-11-2025,Food Quality,Swiggy,Medium,Resolved,50
+CP001677,O0024330,S009,19-06-2025,Food Quality,Dine-in,Medium,Resolved,0
+CP001678,O0036495,S025,25-12-2025,Billing Issue,Dine-in,Low,Pending,0
+CP001679,O0020504,S030,25-04-2025,Missing Item,Dine-in,Medium,Resolved,75
+CP001680,O0025952,S014,04-12-2025,Packaging,Zomato,Medium,Resolved,200
+CP001681,O0012992,S021,16-09-2025,Late Delivery,Swiggy,Medium,Pending,0
+CP001682,O0013174,S014,29-11-2025,Wrong Order,Dine-in,Medium,Pending,0
+CP001683,O0004413,S012,19-04-2025,Staff Behaviour,Dine-in,Low,Resolved,0
+CP001684,O0030751,S007,18-10-2025,Billing Issue,Dine-in,Low,Resolved,250
+CP001685,O0007443,S018,11-11-2025,Food Quality,Dine-in,Medium,Escalated,100
+CP001686,O0000436,S012,10-12-2025,Food Quality,Zomato,Low,Resolved,200
+CP001687,O0039855,S007,02-09-2025,Late Delivery,Zomato,Medium,Resolved,150
+CP001688,O0006165,S024,05-01-2025,Late Delivery,Takeaway,Medium,Resolved,200
+CP001689,O0030539,S008,13-02-2025,Late Delivery,Zomato,High,Resolved,75
+CP001690,O0017631,S016,08-10-2025,Wrong Order,Zomato,Low,Resolved,250
+CP001691,O0004728,S015,21-02-2025,Packaging,Swiggy,Low,Resolved,0
+CP001692,O0006461,S014,08-11-2025,Late Delivery,Dine-in,Medium,Pending,75
+CP001693,O0016422,S014,30-05-2025,Missing Item,Dine-in,Medium,Resolved,0
+CP001694,O0015326,S005,01-02-2025,Billing Issue,Swiggy,Low,Pending,0
+CP001695,O0032178,S026,09-10-2025,Food Quality,Takeaway,Low,Resolved,75
+CP001696,O0013767,S021,03-09-2025,Wrong Order,Zomato,Medium,Resolved,200
+CP001697,O0030448,S007,10-02-2025,Late Delivery,Swiggy,Low,Resolved,0
+CP001698,O0019660,S024,03-05-2025,Wrong Order,Dine-in,Medium,Resolved,150
+CP001699,O0026477,S006,18-11-2025,Wrong Order,Swiggy,Medium,Resolved,50
+CP001700,O0018789,S001,15-04-2025,Missing Item,Dine-in,Medium,Escalated,250
+CP001701,O0027480,S013,11-06-2025,Late Delivery,Swiggy,Low,Escalated,150
+CP001702,O0037830,S020,25-07-2025,Wrong Order,Takeaway,High,Resolved,75
+CP001703,O0016799,S013,14-04-2025,Missing Item,Zomato,Low,Escalated,0
+CP001704,O0025863,S017,02-01-2025,Packaging,Swiggy,Low,Resolved,250
+CP001705,O0025305,S003,17-03-2025,Late Delivery,Takeaway,High,Resolved,200
+CP001706,O0037726,S001,05-12-2025,Food Quality,Swiggy,Medium,Pending,200
+CP001707,O0023837,S030,19-09-2025,Late Delivery,Zomato,Medium,Resolved,200
+CP001708,O0014442,S010,03-01-2025, packaging ,Dine-in,Medium,Resolved,150
+CP001709,O0033210,S029,26-06-2025,Missing Item,Swiggy,High,Pending,75
+CP001710,O0036372,S026,13-10-2025,Wrong Order,Dine-in,Medium,Resolved,50
+CP001711,O0030317,S029,02-06-2025,Packaging,Zomato,Medium,Resolved,0
+CP001712,O0024574,S009,10-07-2025,Packaging,Zomato,High,Pending,0
+CP001713,O0002149,S025,13-03-2025,Billing Issue,Zomato,Medium,Pending,150
+CP001714,O0029271,S017,28-03-2025,Missing Item,Takeaway,Medium,Escalated,150
+CP001715,O0021765,S010,04-11-2025,Missing Item,Takeaway,Medium,Resolved,0
+CP001716,O0001961,S001,29-06-2025,Packaging,Takeaway,Low,Pending,75
+CP001717,O0020104,S001,12-08-2025,Food Quality,Takeaway,Low,Resolved,0
+CP001718,O0007389,S018,30-01-2025,Late Delivery,Swiggy,Low,Resolved,50
+CP001719,O0019387,S014,07-07-2025,Food Quality,Dine-in,Medium,Resolved,50
+CP001720,O0029955,S006,28-10-2025,Missing Item,Dine-in,Medium,Resolved,75
+CP001721,O0031104,S020,02-11-2025,Food Quality,Swiggy,Medium,Resolved,0
+CP001722,O0038651,S023,29-06-2025,Food Quality,Zomato,High,Resolved,100
+CP001723,O0018552,S012,27-11-2025,Food Quality,Takeaway,Medium,Resolved,50
+CP001724,O0011654,S023,22-10-2025,Billing Issue,Zomato,Medium,Resolved,200
+CP001725,O0015894,S024,02-11-2025,Late Delivery,Swiggy,Low,Resolved,75
+CP001726,O0007402,S002,26-03-2025,Missing Item,Takeaway,Medium,Pending,150
+CP001727,O0014968,S025,08-08-2025,Late Delivery,Swiggy,Low,Resolved,75
+CP001728,O0036667,S019,30-03-2025,Late Delivery,Zomato,Medium,Resolved,0
+CP001729,O0001529,S009,29-03-2025,Wrong Order,Dine-in,Low,Resolved,200
+CP001730,O0029627,S024,27-07-2025,Missing Item,Swiggy,High,Resolved,0
+CP001731,O0012597,S008,26-02-2025,Late Delivery,Takeaway,Medium,Pending,75
+CP001732,O0032616,S023,29-11-2025,Late Delivery,Swiggy,Low,Resolved,0
+CP001733,O0010580,S010,11-10-2025,Food Quality,Zomato,Medium,Pending,150
+CP001734,O0026776,S010,12-08-2025,Packaging,Dine-in,Medium,Resolved,50
+CP001735,O0026257,S019,10-07-2025,Billing Issue,Dine-in,Low,Resolved,0
+CP001736,O0020262,S010,17-03-2025,Wrong Order,Zomato,Low,Resolved,150
+CP001737,O0000269,S026,16-05-2025,Food Quality,Dine-in,Medium,Resolved,250
+CP001738,O0013496,S021,18-06-2025,Food Quality,Swiggy,Low,Resolved,50
+CP001739,O0030090,S001,17-06-2025,Missing Item,Zomato,Low,Resolved,0
+CP001740,O0001832,S026,09-05-2025,Wrong Order,Dine-in,Low,Pending,200
+CP001741,O0011048,S017,08-04-2025,Missing Item,Zomato,Low,Pending,0
+CP001742,O0001249,S026,17-08-2025,Food Quality,Swiggy,High,Resolved,200
+CP001743,O0020956,S004,11-01-2025,Late Delivery,Dine-in,Low,Escalated,0
+CP001744,O0016352,S003,15-05-2025,Late Delivery,Zomato,Medium,Escalated,200
+CP001745,O0013007,S019,01-07-2025,Wrong Order,Dine-in,Medium,Resolved,200
+CP001746,O0037829,S008,12-06-2025,Late Delivery,Dine-in,Medium,Resolved,250
+CP001747,O0001269,S027,30-08-2025,Late Delivery,Zomato,Medium,Resolved,0
+CP001748,O0002010,S027,23-06-2025,Food Quality,Swiggy,Low,Resolved,200
+CP001749,O0023528,S024,13-09-2025,Packaging,Dine-in,Medium,Pending,150
+CP001750,O0024517,S007,21-05-2025,Wrong Order,Zomato,Low,Resolved,0
+CP001751,O0029029,S011,17-03-2025,Late Delivery,Swiggy,Medium,Resolved,0
+CP001752,O0004392,S016,24-10-2025,Billing Issue,Dine-in,Medium,Resolved,0
+CP001753,O0019076,S010,05-07-2025,Packaging,Dine-in,Low,Resolved,50
+CP001754,O0033806,S019,16-06-2025,Staff Behaviour,Zomato,Medium,Resolved,0
+CP001755,O0019547,S016,11-05-2025,Food Quality,Swiggy,Medium,Resolved,150
+CP001756,O0007283,S030,02-03-2025,Late Delivery,Takeaway,Medium,Resolved,150
+CP001757,O0024522,S013,20-09-2025,Late Delivery,Dine-in,Medium,Pending,150
+CP001758,O0005878,S007,23-04-2025,Wrong Order,Dine-in,Low,Resolved,200
+CP001759,O0013482,S006,20-11-2025,Billing Issue,Zomato,Low,Pending,100
+CP001760,O0015496,S020,20-02-2025,Staff Behaviour,Takeaway,Low,Resolved,250
+CP001761,O0022000,S005,02-07-2025,Missing Item,Swiggy,Medium,Resolved,0
+CP001762,O0011316,S007,28-01-2025,Missing Item,Takeaway,Medium,Resolved,200
+CP001763,O0023114,S008,21-10-2025,Wrong Order,Dine-in,Low,Resolved,0
+CP001764,O0011959,S005,31-05-2025,Food Quality,Swiggy,Medium,Resolved,50
+CP001765,O0027704,S005,09-07-2025,Staff Behaviour,Zomato,Medium,Escalated,0
+CP001766,O0019497,S003,18-05-2025, staff behaviour ,Swiggy,High,Escalated,0
+CP001767,O0028070,S022,13-06-2025,Food Quality,Zomato,Low,Resolved,0
+CP001768,O0025972,S029,30-06-2025,Late Delivery,Dine-in,High,Resolved,0
+CP001769,O0034761,S024,23-07-2025,Wrong Order,Dine-in,Low,Resolved,150
+CP001770,O0000482,S024,03-09-2025,Late Delivery,Swiggy,Medium,Resolved,250
+CP001771,O0039515,S021,30-06-2025,Food Quality,Swiggy,Low,Resolved,0
+CP001772,O0020488,S002,14-08-2025,Wrong Order,Swiggy,Medium,Resolved,100
+CP001773,O0038191,S012,18-06-2025,Wrong Order,Swiggy,Low,Resolved,100
+CP001774,O0022682,S018,15-10-2025,Wrong Order,Zomato,Medium,Resolved,75
+CP001775,O0019335,S011,17-08-2025,Food Quality,Dine-in,Low,Resolved,200
+CP001776,O0038597,S007,08-09-2025,Missing Item,Dine-in,Medium,Resolved,50
+CP001777,O0035123,S026,01-11-2025,Late Delivery,Zomato,Low,Resolved,0
+CP001778,O0007680,S010,25-05-2025,Food Quality,Swiggy,High,Pending,75
+CP001779,O0017543,S001,17-11-2025,Food Quality,Dine-in,Medium,Resolved,0
+CP001780,O0030868,S012,17-09-2025,Wrong Order,Dine-in,Medium,Resolved,150
+CP001781,O0029896,S009,29-09-2025,Missing Item,Dine-in,Low,Resolved,0
+CP001782,O0035433,S029,24-02-2025,Staff Behaviour,Zomato,Low,Resolved,0
+CP001783,O0009830,S004,12-08-2025,Late Delivery,Zomato,Low,Pending,100
+CP001784,O0028002,S015,20-06-2025,Wrong Order,Zomato,High,Resolved,0
+CP001785,O0019155,S014,17-09-2025,Staff Behaviour,Swiggy,Low,Resolved,0
+CP001786,O0039441,S007,10-04-2025,Late Delivery,Dine-in,Low,Resolved,75
+CP001787,O0028928,S016,10-04-2025,Food Quality,Dine-in,Low,Resolved,75
+CP001788,O0027883,S007,25-02-2025,Staff Behaviour,Swiggy,High,Pending,100
+CP001789,O0016394,S014,16-05-2025,Wrong Order,Dine-in,Medium,Escalated,50
+CP001790,O0018776,S006,14-01-2025,Food Quality,Takeaway,Low,Resolved,75
+CP001791,O0012950,S017,01-08-2025,Late Delivery,Swiggy,Medium,Resolved,250
+CP001792,O0034028,S006,13-01-2025, packaging ,Swiggy,Low,Resolved,100
+CP001793,O0001971,S018,14-06-2025,Late Delivery,Swiggy,Medium,Resolved,75
+CP001794,O0034766,S003,20-07-2025,Packaging,Takeaway,Medium,Resolved,200
+CP001795,O0006065,S001,11-01-2025,Food Quality,Dine-in,Low,Escalated,75
+CP001796,O0024518,S006,03-07-2025,Missing Item,Swiggy,Medium,Resolved,150
+CP001797,O0031788,S005,23-11-2025,Food Quality,Dine-in,High,Resolved,200
+CP001798,O0012563,S002,28-03-2025,Wrong Order,Zomato,Medium,Pending,75
+CP001799,O0010535,S022,26-02-2025,Wrong Order,Swiggy,Low,Resolved,0
+CP001800,O0024117,S021,06-11-2025,Packaging,Zomato,Medium,Resolved,0
+CP001801,O0030051,S017,01-05-2025,Late Delivery,Swiggy,Medium,Resolved,75
+CP001802,O0011429,S021,27-06-2025,Billing Issue,Zomato,High,Resolved,75
+CP001803,O0013663,S010,29-10-2025,Food Quality,Swiggy,Low,Resolved,50
+CP001804,O0010615,S009,08-02-2025,Missing Item,Zomato,Low,Resolved,75
+CP001805,O0000967,S018,16-06-2025,Late Delivery,Takeaway,Medium,Escalated,0
+CP001806,O0003322,S026,23-10-2025,Billing Issue,Zomato,High,Resolved,200
+CP001807,O0006333,S028,12-09-2025,Wrong Order,Swiggy,High,Resolved,250
+CP001808,O0010380,S023,17-06-2025,Packaging,Zomato,Low,Resolved,0
+CP001809,O0029803,S013,19-07-2025,Wrong Order,Dine-in,Low,Resolved,200
+CP001810,O0022642,S004,02-04-2025,Late Delivery,Dine-in,Low,Resolved,0
+CP001811,O0035011,S001,12-07-2025,Food Quality,Dine-in,Medium,Resolved,200
+CP001812,O0023234,S003,24-06-2025,Late Delivery,Dine-in,Medium,Pending,0
+CP001813,O0026677,S021,29-08-2025,Wrong Order,Swiggy,High,Resolved,0
+CP001814,O0027130,S011,21-02-2025,Missing Item,Zomato,Medium,Resolved,250
+CP001815,O0013112,S010,31-03-2025,Packaging,Zomato,Low,Resolved,0
+CP001816,O0002365,S015,29-04-2025,Missing Item,Dine-in,Medium,Resolved,200
+CP001817,O0022805,S023,14-04-2025,Missing Item,Takeaway,Medium,Resolved,0
+CP001818,O0015790,S014,29-08-2025,Late Delivery,Dine-in,Medium,Resolved,100
+CP001819,O0005648,S012,21-01-2025,Billing Issue,Swiggy,Medium,Resolved,50
+CP001820,O0024809,S013,25-05-2025,Billing Issue,Zomato,Low,Resolved,0
+CP001821,O0035450,S028,19-09-2025,Missing Item,Zomato,Medium,Resolved,75
+CP001822,O0029735,S019,01-01-2025,Food Quality,Dine-in,High,Resolved,0
+CP001823,O0016402,S024,05-05-2025,Food Quality,Swiggy,Medium,Resolved,50
+CP001824,O0019301,S001,18-07-2025,Missing Item,Swiggy,High,Resolved,200
+CP001825,O0016080,S027,19-06-2025,Staff Behaviour,Zomato,Low,Resolved,100
+CP001826,O0032871,S012,02-05-2025,Missing Item,Zomato,Medium,Resolved,0
+CP001827,O0017554,S023,23-07-2025,Food Quality,Zomato,Low,Resolved,0
+CP001828,O0009511,S016,26-10-2025,Staff Behaviour,Swiggy,Medium,Escalated,0
+CP001829,O0020385,S007,10-07-2025,Food Quality,Zomato,Medium,Resolved,0
+CP001830,O0033540,S020,03-01-2025,Late Delivery,Swiggy,Medium,Resolved,50
+CP001831,O0009752,S006,05-01-2025,Missing Item,Swiggy,Medium,Resolved,0
+CP001832,O0012491,S017,28-07-2025,Late Delivery,Dine-in,Medium,Resolved,150
+CP001833,O0020642,S030,20-06-2025,Billing Issue,Swiggy,Low,Resolved,250
+CP001834,O0032524,S007,07-05-2025,Wrong Order,Swiggy,High,Resolved,200
+CP001835,O0012397,S025,11-10-2025,Missing Item,Dine-in,Low,Resolved,250
+CP001836,O0027216,S015,18-12-2025,Food Quality,Dine-in,Medium,Escalated,0
+CP001837,O0013340,S004,12-03-2025,Wrong Order,Dine-in,Medium,Resolved,0
+CP001838,O0022091,S001,14-12-2025,Food Quality,Takeaway,Medium,Resolved,200
+CP001839,O0018891,S019,18-11-2025,Packaging,Dine-in,Low,Resolved,75
+CP001840,O0008136,S023,08-02-2025,Wrong Order,Swiggy,Medium,Resolved,0
+CP001841,O0013822,S011,02-12-2025,Packaging,Dine-in,Low,Resolved,100
+CP001842,O0035867,S009,07-04-2025,Staff Behaviour,Zomato,Medium,Resolved,100
+CP001843,O0011772,S017,31-07-2025,Food Quality,Dine-in,Medium,Resolved,75
+CP001844,O0028284,S023,02-02-2025,Late Delivery,Dine-in,High,Resolved,200
+CP001845,O0005716,S021,31-08-2025,Wrong Order,Zomato,Medium,Pending,0
+CP001846,O0039174,S007,17-11-2025,Billing Issue,Dine-in,Medium,Resolved,100
+CP001847,O0036532,S007,22-09-2025,Food Quality,Dine-in,Low,Resolved,0
+CP001848,O0007674,S006,19-10-2025,Food Quality,Dine-in,Low,Pending,0
+CP001849,O0038209,S028,26-06-2025,Food Quality,Swiggy,Low,Resolved,150
+CP001850,O0011891,S024,17-10-2025,Missing Item,Dine-in,Low,Resolved,0
+CP001851,O0033564,S012,27-12-2025,Packaging,Takeaway,Medium,Resolved,100
+CP001852,O0031260,S027,22-01-2025,Billing Issue,Swiggy,Low,Pending,75
+CP001853,O0013755,S018,22-09-2025,Missing Item,Dine-in,Medium,Resolved,75
+CP001854,O0031364,S022,18-07-2025,Wrong Order,Swiggy,Low,Resolved,150
+CP001855,O0002138,S013,16-07-2025,Late Delivery,Swiggy,Medium,Resolved,250
+CP001856,O0020672,S028,31-03-2025,Wrong Order,Dine-in,Medium,Pending,150
+CP001857,O0016368,S012,07-01-2025,Wrong Order,Dine-in,Medium,Resolved,0
+CP001858,O0018565,S015,29-03-2025,Wrong Order,Zomato,Low,Resolved,150
+CP001859,O0035833,S026,26-09-2025,Late Delivery,Swiggy,Low,Resolved,100
+CP001860,O0009654,S013,04-12-2025,Wrong Order,Zomato,Low,Pending,250
+CP001861,O0032677,S003,07-04-2025,Food Quality,Swiggy,Medium,Resolved,250
+CP001862,O0006484,S014,29-05-2025,Late Delivery,Zomato,Medium,Resolved,75
+CP001863,O0015224,S004,08-10-2025,Late Delivery,Swiggy,Medium,Resolved,75
+CP001864,O0018747,S023,16-11-2025,Missing Item,Dine-in,Medium,Resolved,75
+CP001865,O0005635,S004,09-06-2025,Late Delivery,Dine-in,Medium,Resolved,0
+CP001866,O0030647,S030,18-01-2025,Late Delivery,Swiggy,High,Resolved,0
+CP001867,O0016069,S013,11-03-2025,Missing Item,Dine-in,Medium,Resolved,50
+CP001868,O0009656,S018,29-07-2025,Staff Behaviour,Swiggy,Low,Resolved,150
+CP001869,O0006061,S026,22-02-2025,Late Delivery,Zomato,High,Pending,250
+CP001870,O0031186,S005,18-09-2025,Packaging,Swiggy,Medium,Resolved,150
+CP001871,O0007632,S008,19-08-2025,Missing Item,Dine-in,High,Escalated,150
+CP001872,O0027687,S015,16-05-2025,Late Delivery,Swiggy,Low,Pending,250
+CP001873,O0036304,S030,23-09-2025,Packaging,Dine-in,Medium,Resolved,0
+CP001874,O0033586,S029,20-04-2025,Food Quality,Dine-in,Low,Escalated,100
+CP001875,O0031504,S004,02-12-2025,Staff Behaviour,Dine-in,Medium,Resolved,250
+CP001876,O0038105,S024,04-09-2025,Billing Issue,Dine-in,Low,Resolved,0
+CP001877,O0018837,S024,17-12-2025,Late Delivery,Dine-in,Low,Resolved,250
+CP001878,O0007761,S025,14-05-2025,Wrong Order,Zomato,Medium,Resolved,200
+CP001879,O0035117,S030,20-07-2025,Missing Item,Dine-in,Low,Escalated,200
+CP001880,O0039677,S023,23-02-2025,Packaging,Dine-in,Medium,Resolved,100
+CP001881,O0032830,S007,21-07-2025,Wrong Order,Swiggy,Medium,Resolved,0
+CP001882,O0021089,S009,19-03-2025,Staff Behaviour,Swiggy,Low,Resolved,0
+CP001883,O0015426,S002,27-08-2025,Missing Item,Dine-in,High,Resolved,0
+CP001884,O0008097,S010,26-02-2025,Missing Item,Dine-in,Medium,Resolved,0
+CP001885,O0034723,S014,15-11-2025,Food Quality,Zomato,Low,Resolved,50
+CP001886,O0021397,S012,19-08-2025,Packaging,Swiggy,Medium,Resolved,100
+CP001887,O0026680,S002,27-02-2025,Billing Issue,Swiggy,Low,Resolved,0
+CP001888,O0037476,S021,20-09-2025,Wrong Order,Zomato,Medium,Pending,150
+CP001889,O0038407,S007,15-10-2025,Late Delivery,Dine-in,Medium,Resolved,0
+CP001890,O0010933,S011,31-03-2025,Staff Behaviour,Dine-in,Medium,Resolved,0
+CP001891,O0039171,S008,14-05-2025,Wrong Order,Swiggy,Low,Resolved,150
+CP001892,O0000992,S026,21-07-2025,Late Delivery,Swiggy,Medium,Resolved,75
+CP001893,O0033256,S020,13-06-2025, billing issue ,Dine-in,Medium,Resolved,75
+CP001894,O0014073,S012,18-11-2025,Food Quality,Dine-in,Low,Resolved,0
+CP001895,O0017915,S010,11-01-2025,Late Delivery,Swiggy,Medium,Resolved,150
+CP001896,O0014077,S024,02-02-2025,Late Delivery,Dine-in,Medium,Resolved,50
+CP001897,O0003986,S009,30-03-2025,Wrong Order,Takeaway,Low,Escalated,50
+CP001898,O0027648,S003,25-09-2025,Wrong Order,Dine-in,Low,Pending,150
+CP001899,O0031898,S010,21-05-2025,Late Delivery,Swiggy,Low,Resolved,0
+CP001900,O0022168,S012,19-08-2025,Food Quality,Swiggy,Low,Resolved,0
+CP001901,O0027017,S018,01-04-2025,Late Delivery,Dine-in,Medium,Resolved,100
+CP001902,O0026134,S027,11-01-2025,Billing Issue,Dine-in,Medium,Resolved,50
+CP001903,O0002083,S006,02-11-2025,Food Quality,Dine-in,Low,Resolved,50
+CP001904,O0003710,S017,17-09-2025,Late Delivery,Dine-in,Low,Pending,0
+CP001905,O0021575,S019,24-04-2025,Food Quality,Zomato,Low,Resolved,200
+CP001906,O0038003,S013,01-01-2025,Missing Item,Dine-in,Medium,Escalated,0
+CP001907,O0014183,S009,30-09-2025,Food Quality,Dine-in,Medium,Resolved,0
+CP001908,O0010472,S005,08-11-2025,Billing Issue,Dine-in,High,Pending,200
+CP001909,O0019044,S004,12-07-2025,Late Delivery,Swiggy,Low,Resolved,0
+CP001910,O0027979,S008,21-10-2025,Staff Behaviour,Swiggy,Medium,Resolved,75
+CP001911,O0034813,S001,31-03-2025,Late Delivery,Dine-in,High,Resolved,150
+CP001912,O0020876,S024,01-10-2025,Wrong Order,Dine-in,Medium,Resolved,50
+CP001913,O0026489,S001,08-09-2025,Wrong Order,Swiggy,Medium,Pending,100
+CP001914,O0026113,S007,28-06-2025,Missing Item,Swiggy,Medium,Resolved,250
+CP001915,O0015653,S001,26-05-2025,Late Delivery,Zomato,Medium,Resolved,100
+CP001916,O0011777,S006,28-12-2025, billing issue ,Zomato,Medium,Resolved,0
+CP001917,O0001154,S010,22-05-2025,Wrong Order,Zomato,High,Resolved,100
+CP001918,O0023822,S008,12-07-2025,Missing Item,Zomato,Medium,Pending,250
+CP001919,O0009883,S029,15-03-2025,Late Delivery,Dine-in,Low,Resolved,50
+CP001920,O0003790,S012,28-12-2025,Missing Item,Swiggy,Low,Resolved,0
+CP001921,O0010220,S010,11-02-2025,Missing Item,Dine-in,Low,Pending,0
+CP001922,O0014422,S014,27-05-2025,Food Quality,Swiggy,Medium,Resolved,250
+CP001923,O0039104,S008,12-01-2025,Wrong Order,Swiggy,Medium,Resolved,200
+CP001924,O0030313,S008,15-10-2025,Food Quality,Dine-in,High,Resolved,50
+CP001925,O0025587,S017,29-09-2025,Late Delivery,Swiggy,Low,Resolved,50
+CP001926,O0018845,S010,13-11-2025,Food Quality,Dine-in,Low,Resolved,150
+CP001927,O0023445,S025,01-10-2025,Staff Behaviour,Dine-in,Medium,Resolved,0
+CP001928,O0020632,S004,15-12-2025,Missing Item,Dine-in,Medium,Resolved,75
+CP001929,O0036508,S016,27-09-2025,Late Delivery,Swiggy,Low,Resolved,50
+CP001930,O0031619,S027,27-12-2025,Late Delivery,Dine-in,Medium,Pending,200
+CP001931,O0016678,S030,10-07-2025,Missing Item,Dine-in,Low,Resolved,75
+CP001932,O0004400,S003,09-06-2025,Late Delivery,Dine-in,Low,Resolved,250
+CP001933,O0019148,S011,14-08-2025,Missing Item,Swiggy,Low,Resolved,0
+CP001934,O0037624,S003,19-04-2025,Staff Behaviour,Takeaway,Medium,Pending,100
+CP001935,O0025619,S004,05-08-2025,Packaging,Zomato,High,Resolved,100
+CP001936,O0033628,S030,20-08-2025,Packaging,Dine-in,Low,Resolved,0
+CP001937,O0002737,S025,18-08-2025,Late Delivery,Zomato,Medium,Resolved,100
+CP001938,O0002957,S005,23-06-2025,Billing Issue,Dine-in,Medium,Resolved,0
+CP001939,O0037439,S020,11-07-2025,Late Delivery,Zomato,Medium,Resolved,200
+CP001940,O0001660,S001,17-09-2025,Packaging,Zomato,Medium,Resolved,75
+CP001941,O0033346,S030,17-01-2025,Late Delivery,Dine-in,Medium,Resolved,0
+CP001942,O0033270,S011,09-05-2025,Late Delivery,Swiggy,Medium,Resolved,200
+CP001943,O0005037,S004,24-05-2025,Food Quality,Zomato,Medium,Resolved,0
+CP001944,O0023852,S015,06-02-2025,Late Delivery,Swiggy,Medium,Pending,150
+CP001945,O0018406,S025,10-11-2025,Packaging,Swiggy,Medium,Resolved,75
+CP001946,O0024194,S017,22-10-2025,Missing Item,Takeaway,Medium,Resolved,250
+CP001947,O0021571,S004,31-05-2025,Late Delivery,Swiggy,Medium,Resolved,100
+CP001948,O0000176,S015,03-08-2025,Late Delivery,Zomato,Low,Resolved,75
+CP001949,O0017858,S030,28-04-2025,Late Delivery,Dine-in,Medium,Resolved,200
+CP001950,O0036755,S018,06-01-2025,Food Quality,Zomato,Low,Resolved,150
+CP001951,O0004060,S001,09-12-2025,Packaging,Swiggy,Low,Resolved,0
+CP001952,O0015509,S021,18-02-2025,Food Quality,Zomato,Medium,Resolved,0
+CP001953,O0010211,S028,14-02-2025,Wrong Order,Zomato,Medium,Pending,0
+CP001954,O0020857,S023,17-09-2025,Wrong Order,Swiggy,Medium,Escalated,75
+CP001955,O0035156,S001,26-07-2025,Late Delivery,Dine-in,Low,Resolved,250
+CP001956,O0024790,S016,17-06-2025,Food Quality,Dine-in,Medium,Resolved,0
+CP001957,O0034879,S011,29-01-2025,Late Delivery,Takeaway,Medium,Resolved,0
+CP001958,O0020181,S015,28-05-2025,Food Quality,Swiggy,High,Resolved,50
+CP001959,O0038564,S016,03-06-2025,Wrong Order,Swiggy,Low,Resolved,250
+CP001960,O0030623,S003,26-11-2025,Billing Issue,Swiggy,Medium,Resolved,50
+CP001961,O0020293,S027,29-03-2025,Food Quality,Takeaway,Low,Resolved,100
+CP001962,O0006415,S020,07-03-2025,Late Delivery,Dine-in,Medium,Resolved,0
+CP001963,O0031681,S001,01-11-2025,Late Delivery,Zomato,Low,Resolved,250
+CP001964,O0013995,S015,05-04-2025,Wrong Order,Zomato,Low,Resolved,0
+CP001965,O0026258,S023,29-12-2025,Missing Item,Swiggy,Medium,Resolved,0
+CP001966,O0039122,S007,15-06-2025,Food Quality,Dine-in,Medium,Escalated,100
+CP001967,O0014918,S010,17-03-2025,Billing Issue,Takeaway,High,Resolved,75
+CP001968,O0009808,S019,13-05-2025,Late Delivery,Swiggy,Medium,Resolved,200
+CP001969,O0019685,S025,28-07-2025,Food Quality,Swiggy,High,Resolved,50
+CP001970,O0012155,S011,10-05-2025,Packaging,Swiggy,Low,Resolved,0
+CP001971,O0014194,S012,22-09-2025,Missing Item,Dine-in,Medium,Pending,0
+CP001972,O0005700,S001,13-07-2025,Food Quality,Dine-in,Low,Resolved,200
+CP001973,O0039754,S005,01-12-2025,Late Delivery,Zomato,High,Resolved,200
+CP001974,O0010912,S001,29-06-2025,Missing Item,Dine-in,Low,Pending,200
+CP001975,O0023393,S014,19-08-2025,Late Delivery,Swiggy,Low,Resolved,200
+CP001976,O0024806,S008,21-06-2025,Billing Issue,Dine-in,High,Resolved,50
+CP001977,O0014672,S008,22-11-2025,Missing Item,Swiggy,Medium,Resolved,0
+CP001978,O0032410,S004,27-07-2025,Billing Issue,Takeaway,Low,Pending,0
+CP001979,O0000959,S028,15-02-2025,Missing Item,Swiggy,Low,Resolved,100
+CP001980,O0036890,S004,10-09-2025,Food Quality,Zomato,Medium,Pending,50
+CP001981,O0036652,S029,12-12-2025,Food Quality,Swiggy,Medium,Pending,0
+CP001982,O0035071,S004,28-10-2025,Packaging,Dine-in,Low,Pending,150
+CP001983,O0001668,S013,20-08-2025,Late Delivery,Dine-in,Low,Resolved,75
+CP001984,O0036182,S009,16-07-2025,Food Quality,Dine-in,Low,Resolved,150
+CP001985,O0028712,S022,16-01-2025,Food Quality,Zomato,Medium,Resolved,0
+CP001986,O0021850,S027,19-04-2025,Food Quality,Swiggy,Low,Pending,200
+CP001987,O0035902,S025,09-12-2025,Missing Item,Dine-in,Low,Resolved,250
+CP001988,O0015681,S013,17-02-2025,Food Quality,Zomato,High,Resolved,250
+CP001989,O0032577,S009,15-01-2025,Packaging,Dine-in,Low,Resolved,0
+CP001990,O0022816,S030,07-06-2025,Missing Item,Takeaway,Low,Resolved,250
+CP001991,O0032254,S002,06-09-2025,Packaging,Swiggy,Medium,Pending,150
+CP001992,O0012677,S024,05-05-2025,Packaging,Takeaway,Medium,Resolved,50
+CP001993,O0031510,S015,15-08-2025, missing item ,Zomato,Medium,Resolved,50
+CP001994,O0030349,S030,16-07-2025,Billing Issue,Zomato,Medium,Resolved,50
+CP001995,O0013323,S024,13-08-2025,Food Quality,Zomato,Medium,Resolved,75
+CP001996,O0011062,S020,14-10-2025,Wrong Order,Dine-in,Medium,Resolved,75
+CP001997,O0016152,S026,06-06-2025,Late Delivery,Dine-in,Low,Resolved,100
+CP001998,O0025042,S001,03-12-2025,Missing Item,Swiggy,High,Resolved,0
+CP001999,O0028225,S023,07-01-2025,Food Quality,Dine-in,Low,Resolved,0
+CP002000,O0026161,S016,09-01-2025,Billing Issue,Zomato,High,Pending,100

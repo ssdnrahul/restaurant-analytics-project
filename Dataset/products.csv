@@ -1,0 +1,51 @@
+product_id,product_name,category,list_price,unit_food_cost,is_vegetarian,menu_status
+P001,Classic Veg Burger,Burgers,199,77.63,1,Active
+P002,Paneer Tikka Burger,Burgers,329,118.24,1,Active
+P003,Crispy Chicken Burger,Burgers,149,46.69,0,Active
+P004,Double Cheese Burger,Burgers,279,92.62,1,Active
+P005,Spicy Aloo Burger,Burgers,329,169.09,1,Active
+P006,Grilled Chicken Burger,Burgers,99,47.13,0,Active
+P007,Mushroom Swiss Burger,Burgers,199,101.89,1,Active
+P008,Peri Peri Burger,Burgers,279,115.02,1,Seasonal
+P009,BBQ Chicken Burger,Burgers,219,68.62,0,Active
+P010,Mexican Bean Burger,Burgers,219,66.91,1,Active
+P011,Margherita Pizza,Pizza,199,82.79,1,Active
+P012,Farmhouse Pizza,Pizza,279,124.22,1,Active
+P013,Paneer Makhani Pizza,Pizza,119,55.54,1,Active
+P014,Chicken Tikka Pizza,Pizza,299,132.04,0,Active
+P015,Pepperoni Pizza,Pizza,119,43.34,0,Active
+P016,Corn Cheese Pizza,Pizza,219,61.22,1,Active
+P017,Peri Peri Chicken Pizza,Pizza,169,56.87,0,Active
+P018,Veggie Delight Pizza,Pizza,199,78.93,1,Active
+P019,BBQ Chicken Pizza,Pizza,399,136.67,0,Seasonal
+P020,Four Cheese Pizza,Pizza,329,94.78,1,Active
+P021,French Fries,Sides,329,118.77,1,Active
+P022,Peri Peri Fries,Sides,149,70.8,1,Active
+P023,Garlic Bread,Sides,119,61.05,1,Active
+P024,Cheese Garlic Bread,Sides,219,104.23,1,Active
+P025,Onion Rings,Sides,189,98.72,1,Active
+P026,Chicken Nuggets,Sides,189,60.81,0,Active
+P027,Potato Wedges,Sides,169,50.35,1,Active
+P028,Loaded Nachos,Sides,99,48.9,1,Active
+P029,Coleslaw,Sides,279,89.28,1,Active
+P030,Masala Corn,Sides,199,84.64,1,Active
+P031,Coke,Beverages,399,193.86,1,Active
+P032,Diet Coke,Beverages,129,52.67,1,Active
+P033,Cold Coffee,Beverages,129,46.89,1,Active
+P034,Iced Tea,Beverages,189,87.96,1,Active
+P035,Mango Shake,Beverages,249,74.0,1,Active
+P036,Chocolate Shake,Beverages,189,57.94,1,Active
+P037,Mineral Water,Beverages,169,93.23,1,Seasonal
+P038,Lemon Soda,Beverages,399,194.28,1,Active
+P039,Masala Chaas,Beverages,199,113.52,1,Active
+P040,Virgin Mojito,Beverages,149,76.2,1,Active
+P041,Chocolate Brownie, desserts ,149,60.99,1,Active
+P042,Choco Lava Cake,Desserts,299,105.96,1,Active
+P043,Vanilla Ice Cream,Desserts,119,65.43,1,Active
+P044,Gulab Jamun,Desserts,119,48.94,1,Active
+P045,Blueberry Cheesecake, desserts ,279,101.79,1,Active
+P046,Choco Chip Cookie,Desserts,129,57.99,1,Active
+P047,Apple Pie,Desserts,219,117.29,1,Active
+P048,Rasmalai,Desserts,129,65.16,1,Active
+P049,Caramel Pudding,Desserts,199,80.39,1,Active
+P050,Red Velvet Pastry,Desserts,299,138.88,1,Active
