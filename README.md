@@ -135,4 +135,42 @@ restaurant-analytics-project/
 │   ├── README.md
 │   └── Final Case Study PDF
 │
-├── Not
+├── Notebooks/
+│   └── Restaurant_Analytics_EDA.ipynb
+│
+├── PowerBI/
+│   ├── Screenshots/
+│   └── Restaurant_Analytics_Dashboard.pbix
+│
+├── SQL/
+│   └── restaurant_project.sql
+│
+└── README.md
+```
+
+## 📥 Project Resources
+
+- [Python EDA Notebook](Notebooks/Restaurant_Analytics_EDA.ipynb)
+- [SQL Analysis](SQL/restaurant_project.sql)
+- [Power BI Dashboard](PowerBI/Restaurant_Analytics_Dashboard.pbix)
+- [Dataset Folder](Dataset/)
+- [Final Case Study & Business Recommendations (PDF)](Documentation/Restaurant_Analytics_Final_End_to_End_Case_Study.pdf)
+
+## 📌 Project Scope
+
+The primary focus of this project is sales performance, customer analytics, and customer feedback. Inventory stock variance is included as a secondary analytical area.
+
+The project uses synthetic data and is intended for educational and portfolio demonstration purposes.
+
+## 👨‍💻 Author
+
+**Rahul Chhabra**
+
+Data Analytics | Python | SQL | Power BI | Excel
+
+- [LinkedIn](https://www.linkedin.com/in/rahulchhabra-data-analyst)
+- [GitHub](https://github.com/ssdnrahul)
+
+---
+
+⭐ If you find this project interesting, feel free to explore the repository and share your feedback.
